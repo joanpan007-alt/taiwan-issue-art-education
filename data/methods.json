@@ -1,0 +1,365 @@
+[
+ {
+  "id": "oral",
+  "cases": [
+   "k01",
+   "k08",
+   "k10",
+   "k35",
+   "k44",
+   "k03",
+   "k54",
+   "k59",
+   "k11",
+   "k61",
+   "k63"
+  ],
+  "zh": {
+   "n": "口述歷史與物件敘事",
+   "def": "請參與者帶一件物件或老照片，從「這件東西的故事」進入地方與家族記憶，而不是直接問大問題。",
+   "how": [
+    "請每人帶一件有故事的物件或老照片",
+    "用固定提問引導：這是誰的？什麼時候的？為什麼留著？",
+    "把口述錄下或寫下，連同物件一起保存",
+    "最後組成展覽、聲音導覽或一本小誌"
+   ],
+   "fit": "地方記憶、家族史、長者；對不擅長抽象表達的人特別友善。"
+  },
+  "en": {
+   "n": "Oral history & object storytelling",
+   "def": "Ask participants to bring an object or old photo and enter local and family memory through “the story of this thing”, instead of asking a big question head-on.",
+   "how": [
+    "Each person brings one object or old photo with a story",
+    "Guide with set questions: whose is it? from when? why kept?",
+    "Record or write down the telling, and keep it with the object",
+    "Assemble the results into an exhibition, audio tour or zine"
+   ],
+   "fit": "Local memory, family history, elders; especially kind to people less at ease with abstraction."
+  }
+ },
+ {
+  "id": "photovoice",
+  "cases": [
+   "k14",
+   "k38",
+   "k40"
+  ],
+  "zh": {
+   "n": "Photovoice／影像自述",
+   "def": "把相機交給參與者，由他們決定拍什麼、希望外界怎麼認識自己。",
+   "how": [
+    "給一個開放的提問（例如「如果每月只有一天假」）",
+    "參與者自行拍攝，不規定主題",
+    "小組一起討論選片與下標題",
+    "展出時由拍攝者決定呈現與說法"
+   ],
+   "fit": "移工、少年、常被貼標籤的群體；核心是把話語權交給當事人。"
+  },
+  "en": {
+   "n": "Photovoice",
+   "def": "Hand the camera to participants and let them decide what to shoot and how they want to be seen.",
+   "how": [
+    "Pose one open question (e.g. ‘if you had one day off a month’)",
+    "Participants shoot on their own, with no set subject",
+    "Choose photos and write captions together in small groups",
+    "At the show, the photographer decides how it is presented"
+   ],
+   "fit": "Migrant workers, youth, often-labelled groups; the point is to hand narrative control to the people themselves."
+  }
+ },
+ {
+  "id": "theatre",
+  "cases": [
+   "k38",
+   "k41",
+   "k50",
+   "k51",
+   "k61"
+  ],
+  "zh": {
+   "n": "社區劇場與集體即興",
+   "def": "不教表演，用戲劇遊戲與集體即興，讓居民把自己的生活編成戲。",
+   "how": [
+    "先用身體與信任的暖身遊戲破冰",
+    "田野採集居民的生活故事",
+    "用集體即興把故事發展成片段",
+    "不追求專業演出，重點在過程與關係"
+   ],
+   "fit": "社區、班級、跨世代；可容納素人與長者。"
+  },
+  "en": {
+   "n": "Community theatre & collective improvisation",
+   "def": "Don’t teach acting; use theatre games and collective improvisation so residents turn their own lives into a play.",
+   "how": [
+    "Break the ice with body and trust warm-up games",
+    "Gather residents’ life stories through fieldwork",
+    "Develop the stories into scenes by collective improvisation",
+    "Don’t chase a professional show; the process and relationships matter most"
+   ],
+   "fit": "Communities, classes, across generations; room for non-professionals and elders."
+  }
+ },
+ {
+  "id": "sound",
+  "cases": [
+   "k07",
+   "k34",
+   "k40",
+   "k44",
+   "k04",
+   "k26"
+  ],
+  "zh": {
+   "n": "聲音採集與聲音地景",
+   "def": "用錄音把一個地方或一群工作者的聲音收集起來，做成聲音故事或語音導覽。",
+   "how": [
+    "選定對象：攤商、工作者或一段地景",
+    "訪談或現場收音",
+    "剪成幾分鐘內的短聲音故事",
+    "用耳機或語音導覽讓人在真實空間裡聆聽"
+   ],
+   "fit": "勞動、地方記憶；適合不想露臉的參與者。"
+  },
+  "en": {
+   "n": "Sound collection & soundscape",
+   "def": "Use recording to gather the sounds of a place or a group of workers into sound stories or an audio tour.",
+   "how": [
+    "Pick a subject: vendors, workers, or a stretch of landscape",
+    "Interview or record on site",
+    "Edit into short sound stories of a few minutes",
+    "Let people listen in the real space through headphones or an audio guide"
+   ],
+   "fit": "Labour, local memory; suits participants who would rather not be seen."
+  }
+ },
+ {
+  "id": "material",
+  "cases": [
+   "k03",
+   "k09",
+   "k23",
+   "k25",
+   "k46",
+   "k34",
+   "k52",
+   "k56",
+   "k58",
+   "k17",
+   "k19",
+   "k20"
+  ],
+  "zh": {
+   "n": "在地素材與廢棄物再製",
+   "def": "用在地或被丟棄的材料（漁網、漂流木、海廢、舊布條）創作，讓材料本身承載議題。",
+   "how": [
+    "一起蒐集材料：淨灘、撿拾或向社區徵集",
+    "認識材料的來歷與它背後的問題",
+    "動手改造成作品",
+    "展示時連結材料的來源故事"
+   ],
+   "fit": "環境、社區；讓行動（淨灘）與創作合而為一。"
+  },
+  "en": {
+   "n": "Local & found-material making",
+   "def": "Make work from local or discarded materials — fishing nets, driftwood, marine debris, old banners — so the material itself carries the issue.",
+   "how": [
+    "Gather materials together: beach cleanups, scavenging, or a community call",
+    "Learn where the material came from and the problem behind it",
+    "Remake it into a work by hand",
+    "Link the display back to the material’s origin story"
+   ],
+   "fit": "Environment, community; fuses action (a cleanup) with creation."
+  }
+ },
+ {
+  "id": "walk",
+  "cases": [
+   "k04",
+   "k19",
+   "k40",
+   "k03"
+  ],
+  "zh": {
+   "n": "走讀、地圖與感知資料庫",
+   "def": "帶參與者實地走讀一個地方，用地圖、學習單或蓋章存檔把觀察收集起來。",
+   "how": [
+    "設計走讀路線與一份《探索筆記》",
+    "邊走邊記錄：照片、聲音、訪談",
+    "把成果匯整成地圖或資料庫",
+    "回饋給社區，成為公共的資料"
+   ],
+   "fit": "地方認識、都市變遷；適合親子與學生。"
+  },
+  "en": {
+   "n": "Field walks, maps & perception archives",
+   "def": "Take participants on a field walk and gather their observations with maps, worksheets or a stamp-and-file system.",
+   "how": [
+    "Design a walking route and an ‘exploration notebook’",
+    "Record while walking: photos, sound, interviews",
+    "Compile the results into a map or database",
+    "Give it back to the community as a public resource"
+   ],
+   "fit": "Getting to know a place, urban change; good for families and students."
+  }
+ },
+ {
+  "id": "document",
+  "cases": [
+   "k10",
+   "k37",
+   "k39",
+   "k59",
+   "k64"
+  ],
+  "zh": {
+   "n": "以現成文件與文物當提問起點",
+   "def": "從一份真實的歷史文件、館藏或文物出發，讓大問題從具體的物件長出來，而不是老師先定題目。",
+   "how": [
+    "選一件有張力的文件或文物（一句話、一幅畫、一件文物）",
+    "用它向參與者拋問，而不是給答案",
+    "讓參與者接著發展自己的回應與創作",
+    "把個人創作連回那份文件的脈絡"
+   ],
+   "fit": "歷史、認同、美感教育；是「議題從脈絡浮現」的關鍵技巧。"
+  },
+  "en": {
+   "n": "Found documents & artefacts as provocation",
+   "def": "Start from a real historical document, collection or artefact, letting the big question grow from a concrete object rather than a teacher-set topic.",
+   "how": [
+    "Pick a charged document or artefact (a single line, a painting, an object)",
+    "Use it to pose a question, not to give an answer",
+    "Let participants develop their own responses and work",
+    "Tie the personal work back to the document’s context"
+   ],
+   "fit": "History, identity, aesthetic education; the key move for letting issues emerge from context."
+  }
+ },
+ {
+  "id": "intergen",
+  "cases": [
+   "k10",
+   "k24",
+   "k33",
+   "k54",
+   "k59"
+  ],
+  "zh": {
+   "n": "跨世代共作",
+   "def": "刻意讓不同世代（長者與學生、舞者）同組創作，讓記憶與技藝在互動中傳遞。",
+   "how": [
+    "把不同世代配成一組",
+    "設計需要彼此的任務：長者口述、年輕人記錄或編創",
+    "一起排練、同台發表",
+    "讓雙方都被看見，而不只是長者被訪問"
+   ],
+   "fit": "地方記憶、客庄與族群文化；長照與樂齡場域。"
+  },
+  "en": {
+   "n": "Cross-generational co-creation",
+   "def": "Deliberately put different generations — elders with students or dancers — in the same group, so memory and skills pass on through interaction.",
+   "how": [
+    "Pair up across generations",
+    "Design tasks that need each other: elders tell, younger ones record or choreograph",
+    "Rehearse and present on stage together",
+    "Make sure both sides are seen, not just the elder interviewed"
+   ],
+   "fit": "Local memory, Hakka and ethnic cultures; care-station and senior settings."
+  }
+ },
+ {
+  "id": "site",
+  "cases": [
+   "k08",
+   "k44",
+   "k45",
+   "k46",
+   "k64"
+  ],
+  "zh": {
+   "n": "在歷史現場與軍事遺構裡創作",
+   "def": "不把歷史現場當背景看板，而是直接在防空洞、碉堡、眷村、老屋裡創作或展演，讓空間本身成為教材與媒材；這是限地製作（site-specific）用在記憶場域教學的一種應用。",
+   "how": [
+    "選一處有張力、仍保有痕跡的現場（碉堡、防空洞、眷村、廢墟）",
+    "先帶參與者用身體與感官認識這個空間：走、聽、觸、記錄",
+    "從空間的用途與歷史拋問，而不是先講解牌式地給答案",
+    "讓作品或展演留在原地發生，而非搬到展間；必要時結合在地媒材"
+   ],
+   "fit": "地方史、冷戰與戰地記憶、文資活化；把抽象歷史變成可被身體經驗的現場。"
+  },
+  "en": {
+   "n": "Working inside historical sites and military remains",
+   "def": "Don’t treat the historical site as a backdrop; create or perform straight inside bomb shelters, bunkers, villages and old houses, so the space itself becomes both lesson and material; it is one educational application of site-specific art to memory-laden places.",
+   "how": [
+    "Pick a charged site that still bears its traces (bunker, bomb shelter, village, ruin)",
+    "First have participants know the space through body and senses: walk, listen, touch, record",
+    "Pose questions from the site’s use and history, rather than giving wall-label answers",
+    "Let the work or performance happen in place, not moved to a gallery; bring in local materials where it fits"
+   ],
+   "fit": "Local history, Cold-War and battlefield memory, heritage activation; turns abstract history into something the body can experience on site."
+  }
+ },
+ {
+  "id": "food",
+  "cases": [
+   "k12",
+   "k13",
+   "k34",
+   "k49",
+   "k56"
+  ],
+  "zh": {
+   "n": "共食共作：以餐桌與食物凝聚關係",
+   "def": "先不急著創作，用一起吃飯、交換食譜、共同備餐等飲食活動當媒介，讓參與者先建立關係與信任，關係成熟後再長出作品。",
+   "how": [
+    "固定節奏的共餐或共同備餐（例如每月一次『一家一菜』）",
+    "用食物交換引出個人故事：換食譜就是換記憶、換家鄉",
+    "先累積關係與信任，不要第一次就談創作",
+    "關係成熟後再導入共創，並把餐桌經驗轉成作品或刊物"
+   ],
+   "fit": "社宅、社區、長照與跨文化等『需要先交陪』的場域；對陌生、異質或流動的住民特別有效。"
+  },
+  "en": {
+   "n": "Cooking and eating together",
+   "def": "Don’t rush to make art; use shared meals, recipe-swaps and cooking together as the medium, letting participants build relationships and trust first, and let the work grow once the relationships are there.",
+   "how": [
+    "Hold regular shared meals or cook-togethers (e.g. a monthly potluck)",
+    "Use food exchange to draw out personal stories: swapping recipes swaps memories and homelands",
+    "Build relationship and trust first — don’t talk about ‘creating’ at the first meal",
+    "Bring in co-creation once the relationships are there, and turn the table into a work or a zine"
+   ],
+   "fit": "Social housing, communities, elder care and cross-cultural settings that need trust first; especially good for unfamiliar, mixed or transient residents."
+  }
+ },
+ {
+  "id": "craft",
+  "cases": [
+   "k09",
+   "k26",
+   "k33",
+   "k34",
+   "k57"
+  ],
+  "zh": {
+   "n": "在地職人與耆老當老師：以活工藝共作",
+   "def": "刻意翻轉師生角色，請社區裡的匠師與耆老當老師，帶參與者以在地仍活著的工藝技藝（編織、染、陶、糊紙等）共同創作。",
+   "how": [
+    "先在社區裡找到還在做的匠師或耆老，請他們當老師",
+    "由職人示範並帶領在地技藝（編織、植物染、陶、糊紙等）",
+    "參與者動手學，再一起把技藝用到共同作品上",
+    "把成果連回這項技藝的來歷與傳承脈絡"
+   ],
+   "fit": "原住民族與客庄文化、傳統工藝活化；讓在地知識被看見、也被傳下去。（與『在地素材再製』『跨世代共作』部分重疊，差別在這裡以『職人為師、活的技藝』為核心。）"
+  },
+  "en": {
+   "n": "Local masters and elders as teachers",
+   "def": "Deliberately invert the teacher–student roles: invite the community’s craftspeople and elders to teach, and co-create with participants through living local crafts (weaving, dyeing, ceramics, paper-craft, etc.).",
+   "how": [
+    "Find craftspeople or elders in the community who still practise, and invite them to teach",
+    "Have the masters demonstrate and lead a living local craft (weaving, plant-dyeing, ceramics, paper-craft…)",
+    "Participants learn hands-on, then put the craft to work on a shared piece",
+    "Tie the result back to the craft’s origins and its line of transmission"
+   ],
+   "fit": "Indigenous and Hakka cultures, reviving traditional crafts; lets local knowledge be seen and passed on. (Overlaps partly with found-material making and cross-generational co-creation; the difference is its focus on masters-as-teachers and living skills.)"
+  }
+ }
+]
