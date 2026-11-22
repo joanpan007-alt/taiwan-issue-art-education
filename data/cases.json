@@ -91,10 +91,28 @@
   "audience": [
    "地方居民"
   ],
-  "summary": "紀念高雄 81 氣爆的公共藝術裝置，以變形的金屬管與斷裂的路面等元素呈現事件，並把居民提供的「記憶物件」鑲嵌在地面。",
+  "summary": "「記憶的漣漪」是紀念高雄 81 氣爆的公共藝術裝置，位在三多二路與凱旋二路交叉口、五權國小旁，計畫期間為 2016–2018 年。\n\n作品用變形的金屬管與斷裂的路面等元素呈現事件，並把居民提供的「記憶物件」鑲嵌在地面。徵選過程辦過社區座談會、說明會與居民深度訪談，居民意見被納入評審重點。\n\n另辦 16 場工作坊，近 1,000 名周邊學校學生參加。作品於 2018 年 7 月初對外開放。",
   "selfDesc": "報導指出徵選過程辦過社區座談會、說明會與居民深度訪談，居民意見被納入評審重點。另辦理 16 場工作坊，近 1,000 名周邊學校學生參加。作品於 2018 年 7 月初對外開放。典藏ARTouch（洪威喆，2018-07-09）進一步描述：作品由《時光迴音》《行走的記憶》《漣漪》《人行道景觀空間》及民眾參與計畫《疊影盒》五部分組成；《時光迴音》紀念所內以鋼絲懸吊仿扭曲氣管的黑白球體，中央三稜鏡依北迴歸線角度精算，每日上午 9:30–11:30 折射出兩道彩虹，分別打在悼念詩與 32 位受難者的名字上；選址高雄市立五權國小，因該校在氣爆後曾作為前進指揮所、避難與安置基地。",
   "educatorRole": "artist-led",
-  "pedagogicalInsight": "把居民提供的『記憶物件』鑲進一件藝術家主導的紀念作品，讓社群在公共紀念裡留下個人痕跡。對帶創傷議題的老師，示範了用實體物件承載難以言說的集體記憶，而不是直接要學生談災難。要提醒的是：居民參與和藝術家主導各佔多少，報導沒有說明。",
+  "pedagogicalInsight": "這個案例示範怎麼把居民的「記憶物件」鑲進一件藝術家主導的紀念作品，讓社群在公共紀念裡留下個人痕跡；下面幾個手法可以搬進課堂。要提醒的是：居民參與和藝術家主導各佔多少，報導沒有說明。",
+  "techniques": [
+   {
+    "t": "請居民提供「記憶物件」，鑲進作品裡，讓個人記憶成為公共紀念的一部分。",
+    "te": "Ask residents to provide “memory objects” and set them into the work, so personal memory becomes part of a public memorial."
+   },
+   {
+    "t": "用實體物件承載難以言說的集體記憶，而不是直接要學生談災難。",
+    "te": "Let physical objects carry collective memory that is hard to put into words, instead of asking students to talk about the disaster directly."
+   },
+   {
+    "t": "作品定案前先辦社區座談會、說明會與居民深度訪談，把居民意見放進評審重點。",
+    "te": "Before the design is chosen, hold community forums, briefings and in-depth resident interviews, and build residents’ views into the jury’s priorities."
+   },
+   {
+    "t": "辦工作坊讓周邊學校學生參與（16 場、近 1,000 名學生）。",
+    "te": "Run workshops so students from nearby schools can take part (16 sessions, nearly 1,000 students)."
+   }
+  ],
   "ibaeContext": [
    "時",
    "地"
@@ -144,10 +162,31 @@
   "audience": [
    "地方居民"
   ],
-  "summary": "面臨 2027 年遷村的大林蒲，由在地第三代青年組成的「大鼻青年」團隊（源於中山藝管所學生鄭慈瑩的「流變的大林蒲」計畫）以藝術與社區參與保存聚落記憶。核心的《大林蒲遷村—記憶轉運計畫》獲教育部青年社區參與行動 2.0 支持，成員化身「文化行李員」蒐集老照片、訪談居民、騎「轉運腳踏車」走訪廟埕，並以《大林蒲的風》刊物、大林蒲語音地圖與主題展覽凝聚社區認同；另辦社區工作坊邀居民把過去的抗議布條改作絹印創作，也用社群短影音記錄地方。",
+  "summary": "面臨 2027 年遷村的大林蒲，由在地第三代青年組成「大鼻青年」團隊（源於中山藝管所學生鄭慈瑩的「流變的大林蒲」計畫），用藝術與社區參與保存聚落記憶。\n\n核心的《大林蒲遷村—記憶轉運計畫》獲教育部青年社區參與行動 2.0 支持：成員化身「文化行李員」，蒐集老照片、訪談居民，騎「轉運腳踏車」走訪廟埕。團隊另辦社區工作坊，邀居民把過去的抗議布條改作絹印創作。\n\n成果包括《大林蒲的風》刊物、大林蒲語音地圖與主題展覽，凝聚社區認同，團隊也用社群短影音記錄地方。",
   "selfDesc": "報導描述團隊將抗爭符號轉化為地方記憶的創作，居民參與絹印製作。報導的背景包含工業污染與遷村政策的爭議。",
   "educatorRole": "facilitator-led",
-  "pedagogicalInsight": "把居民自己的抗議布條（生活裡本來就有的物件與歷史）改作絹印，是『議題從社區現場長出來』（from context）的好例子——議題不是帶領者給的。放到整個《記憶轉運計畫》來看，對教育工作者更有參考價值的是它的方法組合：先給參與者一個角色身分（『文化行李員』），用『轉運腳踏車』走訪廟埕主動接觸長輩，再把蒐集來的老照片與口述，透過刊物（《大林蒲的風》）、語音地圖與展覽，收束成可傳承的『集體記憶』。這套『先給角色、主動外展、再結構化保存』的流程，很適合帶遷村、都更或任何正在消失的地方做記憶保存。要提醒的是：絹印工作坊的時間與參與規模報導仍未交代。",
+  "pedagogicalInsight": "這個案例的做法是「先給角色、主動外展、再結構化保存」，很適合帶遷村、都更或任何正在消失的地方做記憶保存。要提醒的是：絹印工作坊的時間與參與規模，報導未交代。",
+  "techniques": [
+   {
+    "t": "先給參與者一個角色身分（「文化行李員」），讓人有理由開口、動手。",
+    "te": "Give participants a role first (“cultural luggage handler”) so they have a reason to speak and act."
+   },
+   {
+    "t": "騎「轉運腳踏車」走訪廟埕，主動接觸長輩，蒐集老照片與口述。",
+    "te": "Ride a “transfer bicycle” around temple courtyards to reach elders directly and collect old photos and oral accounts.",
+    "m": "oral"
+   },
+   {
+    "t": "把居民自己的抗議布條改作絹印，讓議題從社區現場長出來。",
+    "te": "Turn residents’ own protest banners into screen prints, so the issue grows out of the community itself.",
+    "m": "material"
+   },
+   {
+    "t": "用刊物、語音地圖與展覽，把蒐集來的記憶收束成可傳承的集體記憶。",
+    "te": "Use a publication, a voice map and an exhibition to gather the collected memories into a collective memory that can be passed on.",
+    "m": "walk"
+   }
+  ],
   "ibaeContext": [
    "人",
    "地",
@@ -215,10 +254,26 @@
   "audience": [
    "青少年"
   ],
-  "summary": "國中老師帶學生訪談里長與耆老、撰寫腳本、繪製社區地圖，製作記錄大林蒲飲食、信仰與生活的 Podcast。",
+  "summary": "《玫好時光》是大林蒲的鳳林國中老師帶學生製作的 Podcast，記錄大林蒲的飲食、信仰與生活。\n\n老師帶學生訪談里長與耆老、撰寫腳本、繪製社區地圖，再錄製成節目。\n\n學生因此重新認識家鄉並產生認同感，節目獲金鐘獎 Podcast 藝術文化節目獎（頁面未明確寫出年份）。",
   "selfDesc": "報導提到學生因此重新認識家鄉並產生認同感，並寫到節目獲金鐘獎 Podcast 藝術文化節目獎（頁面未明確寫出年份）。",
   "educatorRole": "facilitator-led",
-  "pedagogicalInsight": "典型的『學生當研究者』模式——老師設計訪談、腳本、社區地圖、錄製的流程，學生自己去訪里長與耆老，議題（家鄉的飲食、信仰、生活）從學生的田野裡長出來。可直接當跨領域專題的範本。要提醒的是：學生是共同創作者還是協助訪談，比重報導沒有說明。",
+  "pedagogicalInsight": "這是典型的「學生當研究者」模式：老師設計訪談、腳本、社區地圖、錄製的流程，議題從學生自己的田野裡長出來，可直接當跨領域專題的範本。要提醒的是：學生是共同創作者還是協助訪談，比重報導沒有說明。",
+  "techniques": [
+   {
+    "t": "讓學生自己去訪問里長與耆老，議題從學生的田野裡長出來。",
+    "te": "Have students interview the village chief and elders themselves, so the issue grows out of their own fieldwork."
+   },
+   {
+    "t": "請學生繪製社區地圖，把訪談內容放回地方空間。",
+    "te": "Ask students to draw a community map, placing interview content back into the local space.",
+    "m": "walk"
+   },
+   {
+    "t": "由老師設計「訪談→撰寫腳本→錄製」的流程，把田野資料做成 Podcast。",
+    "te": "The teacher designs a flow of “interview → script → recording” that turns fieldwork into a podcast.",
+    "m": "sound"
+   }
+  ],
   "ibaeContext": [
    "人",
    "地"
@@ -263,10 +318,28 @@
    "移工",
    "新住民"
   ],
-  "summary": "以高屏地區移工與新住民的生活地景為主題的特展，展前做田野訪調，展期搭配東南亞文化日、音樂演出與繪本說故事。",
+  "summary": "Jalan-Jalan 移路相伴是一檔以高屏地區移工與新住民的生活地景為主題的特展，在高雄市勞工博物館展出，展期自 2021 年 12 月 26 日至 2022 年 12 月 31 日。\n\n展前先做田野訪調，並邀請移工與新住民參與：開幕由東南亞移工組成的樂團演出，新住民團體分享生命故事，另有東南亞母語導覽志工。\n\n展期搭配東南亞文化日、音樂演出與繪本說故事。",
   "selfDesc": "報導指出活動邀請移工與新住民參與，開幕由東南亞移工組成的樂團演出，新住民團體分享生命故事，另有東南亞母語導覽志工。展期自 2021 年 12 月 26 日至 2022 年 12 月 31 日。",
   "educatorRole": "facilitator-led",
-  "pedagogicalInsight": "展覽把移工與新住民從『被展示的對象』變成『說自己故事的人』——自組樂團、分享生命故事、母語導覽。對做多元文化單元的老師，重點是讓學習者用自己的語言發聲，而不是由主流替他們代言。要提醒的是：移工在策展決策中的角色報導沒有說明。",
+  "pedagogicalInsight": "這個展覽把移工與新住民從「被展示的對象」變成「說自己故事的人」；對做多元文化單元的老師，重點是讓學習者用自己的語言發聲，而不是由主流替他們代言。要提醒的是：移工在策展決策中的角色，報導沒有說明。",
+  "techniques": [
+   {
+    "t": "展前先做田野訪調，再策展。",
+    "te": "Do field interviews before curating the show."
+   },
+   {
+    "t": "讓移工與新住民自己上場：組樂團演出、分享生命故事。",
+    "te": "Let migrant workers and new immigrants take the stage themselves: perform in a band and share life stories."
+   },
+   {
+    "t": "用東南亞母語導覽，讓參與者用自己的語言說展覽。",
+    "te": "Offer tours in Southeast Asian mother tongues so participants speak about the exhibition in their own language."
+   },
+   {
+    "t": "展期搭配文化日、音樂與繪本說故事，把展覽變成活動場域。",
+    "te": "Pair the exhibition with culture days, music and picture-book storytelling to make it a living event space."
+   }
+  ],
   "ibaeContext": [
    "人"
   ],
@@ -306,10 +379,24 @@
   ],
   "practice": "藝術家個人創作",
   "audience": [],
-  "summary": "高雄藝術家林純用的個展，以海廢、消波塊與工業城市等符號，回顧台灣的海洋環境與工業發展，共展出 36 件作品。",
+  "summary": "《黑湧》是高雄藝術家林純用 2023 年在高雄市立美術館的個展，以海廢、消波塊與工業城市等符號，回顧台灣的海洋環境與工業發展。\n\n展覽反思高雄作為工業與石化重鎮的經驗，並以 2015 年抹香鯨擱淺事件作為海廢創作的契機。\n\n共展出 36 件作品。今周刊報導未提及居民或社區參與此展。",
   "selfDesc": "報導指出展覽反思高雄作為工業與石化重鎮的經驗，並以 2015 年抹香鯨擱淺事件作為海廢創作的契機。今周刊報導未提及居民或社區參與此展。",
   "educatorRole": "artist-led",
-  "pedagogicalInsight": "這是一檔藝術家個人創作，沒有參與式環節，但很適合當成「看作品、談轉化」的教材。老師可以帶學生拆解林純用怎麼把海廢、消波塊這些平常被當成垃圾或背景的物件，變成談工業城市與海洋的符號；再反問學生：你生活周遭有沒有一個「大家視而不見」的東西？展覽的觸發點是 2015 年抹香鯨擱淺，也可以用「一個具體事件怎麼成為創作起點」當提問練習。要提醒的是：這個案例能教的是「怎麼閱讀、借用藝術家的轉化手法」，而不是「怎麼帶一場參與式工作坊」——它是作品導向，不是過程導向。",
+  "pedagogicalInsight": "這檔個展沒有參與式環節，但很適合當成「看作品、談轉化」的教材。要提醒的是：這個案例能教的是怎麼閱讀、借用藝術家的轉化手法，而不是怎麼帶一場參與式工作坊，它是作品導向，不是過程導向。",
+  "techniques": [
+   {
+    "t": "帶學生拆解藝術家怎麼把海廢、消波塊這些平常被當成垃圾或背景的物件，變成談工業城市與海洋的符號。",
+    "te": "Have students unpick how the artist turns marine debris and breakwaters — usually treated as rubbish or background — into symbols for talking about the industrial city and the sea."
+   },
+   {
+    "t": "再反問學生：你生活周遭有沒有一個「大家視而不見」的東西？",
+    "te": "Then ask students: is there something around you that everyone overlooks?"
+   },
+   {
+    "t": "用「一個具體事件怎麼成為創作起點」（2015 年抹香鯨擱淺）當提問練習。",
+    "te": "Use “how does one concrete event become the starting point of a work” (the 2015 sperm whale stranding) as a questioning exercise."
+   }
+  ],
   "ibaeContext": [
    "地",
    "時"
@@ -356,10 +443,28 @@
    "地方居民",
    "長者"
   ],
-  "summary": "以社區藝術節的形式，在旗津中洲展出裝置作品，搭配導覽、工作坊與講座，並整理文史資料出版在地刊物《津洲刊》。",
+  "summary": "中洲津餘祭是在旗津中洲辦的社區藝術節，2021 年首屆起，2.0 的日期未提及。報導寫到高雄港與造船工業的污染、遷村、漁港文化式微與社區高齡化等背景。\n\n藝術節在中洲展出裝置作品，搭配導覽、工作坊與講座；社區長照中心共同創作，民眾也參與肢體舞作與影像紀錄。\n\n團隊並整理文史資料，出版在地刊物《津洲刊》。",
   "selfDesc": "報導指出有社區長照中心共同創作、民眾參與肢體舞作與影像紀錄，並提到高雄港與造船工業的污染、遷村、漁港文化式微與社區高齡化等背景。",
   "educatorRole": "facilitator-led",
-  "pedagogicalInsight": "用『社區藝術節＋在地刊物』把零散的地方文史收束成可展示、可閱讀的成果，連長照中心的長者也加入。對帶長者或社區的老師，示範了把口述與影像整理成一份刊物的收尾方式。要提醒的是：居民在策展中的角色報導沒有說明。",
+  "pedagogicalInsight": "這個藝術節用「社區藝術節＋在地刊物」把零散的地方文史收束成可展示、可閱讀的成果，連長照中心的長者也加入，示範了把口述與影像整理成一份刊物的收尾方式。要提醒的是：居民在策展中的角色報導沒有說明。",
+  "techniques": [
+   {
+    "t": "把零散的地方文史整理成在地刊物（《津洲刊》），讓成果可以被閱讀與保存。",
+    "te": "Compile scattered local history into a local publication (Jinzhou Bulletin) so the results can be read and kept."
+   },
+   {
+    "t": "邀社區長照中心的長者一起創作，把長輩納入共創。",
+    "te": "Invite elders from the community care centre to create together, bringing older people into the co-creation."
+   },
+   {
+    "t": "用導覽、工作坊與講座搭配裝置展出，讓居民有不同的參與入口。",
+    "te": "Pair the installations with tours, workshops and talks so residents have different ways in."
+   },
+   {
+    "t": "用肢體舞作與影像紀錄，讓民眾以身體與影像參與。",
+    "te": "Use physical dance and video documentation so people can take part with their bodies and images."
+   }
+  ],
   "ibaeContext": [
    "地",
    "人"
@@ -405,10 +510,27 @@
   "audience": [
    "地方居民"
   ],
-  "summary": "藝術家以約八年時間走訪高雄左營與鳳山的眷村，透過居民口述與影像，記錄眷村改建與拆遷中的生活與離散記憶。",
+  "summary": "《高雄眷村三部曲》是藝術家以約八年時間（2009–2017），走訪高雄左營各新村與鳳山黃埔新村完成的作品，透過居民口述與影像，記錄眷村改建與拆遷中的生活與離散記憶。\n\n報導是《長日將盡》的選摘，以一位劉奶奶的口述為主軸，作者多次訪談並邀她返回眷村。\n\n三部曲包含《我們在此相遇》《長日將盡》《鄉關何處》。",
   "selfDesc": "報導是《長日將盡》的選摘，以一位劉奶奶的口述為主軸，作者多次訪談並邀她返回眷村。三部曲包含《我們在此相遇》《長日將盡》《鄉關何處》。",
   "educatorRole": "artist-led",
-  "pedagogicalInsight": "這是藝術家八年長期蹲點的個人創作，居民是受訪者、不是共創者；但它示範了『長時間陪伴＋口述＋影像』如何累積出可信的地方記憶，重點在反覆回訪、建立關係，而非一次性採集。要提醒的是：這是作品導向，不是參與式工作坊。",
+  "pedagogicalInsight": "這是藝術家八年長期蹲點的個人創作，居民是受訪者、不是共創者；但它示範了「長時間陪伴＋口述＋影像」如何累積出可信的地方記憶，重點在反覆回訪、建立關係，而非一次性採集。要提醒的是：這是作品導向，不是參與式工作坊。",
+  "techniques": [
+   {
+    "t": "用長時間陪伴與反覆回訪建立關係，而不是一次性採集。",
+    "te": "Build relationships through long companionship and repeated visits rather than one-off collection.",
+    "m": "oral"
+   },
+   {
+    "t": "以一位居民的口述為主軸，多次訪談並邀她回到眷村。",
+    "te": "Build around one resident’s account, interviewing her many times and inviting her back to the village.",
+    "m": "oral"
+   },
+   {
+    "t": "口述與影像並用，記錄改建與拆遷中的生活與離散記憶。",
+    "te": "Use oral accounts and images together to record life and displacement memories during redevelopment and demolition.",
+    "m": "site"
+   }
+  ],
   "ibaeContext": [
    "人",
    "時"
@@ -452,10 +574,26 @@
   "audience": [
    "地方居民"
   ],
-  "summary": "大學師生與部落居民一起，用漂流木與廢棄漁網等材料創作三件裝置，主題包括族群融合與海洋廢棄物，並開發 AR 應用呈現歷屆作品。",
+  "summary": "牡丹．森里海環境藝術設計營在屏東牡丹鄉旭海（琅嶠卑南古道牡丹灣段）舉辦，營隊自 2016 年起，2024 年是第 7 屆。\n\n大學師生與部落居民一起，用漂流木與廢棄漁網等材料創作三件裝置，主題包括族群融合與海洋廢棄物；居民潘昆淋指導學生編織廢棄漁網。\n\n營隊另開發 AR 應用呈現歷屆作品，牡丹鄉公所課長表示營隊已培養超過 15 位部落素人藝術家。",
   "selfDesc": "報導指出居民潘昆淋指導學生編織廢棄漁網，牡丹鄉公所課長表示營隊已培養超過 15 位部落素人藝術家。",
   "educatorRole": "mixed",
-  "pedagogicalInsight": "這裡角色翻轉得很有意思——不是藝術家教居民，而是部落居民（潘昆淋）教大學生編織廢棄漁網。對帶跨文化或在地知識的老師，示範了『讓在地人當老師』如何讓學習者真正進入地方脈絡。要提醒的是：居民在主題決定上的角色報導沒有說明。",
+  "pedagogicalInsight": "這裡的角色翻轉很有意思：不是藝術家教居民，而是部落居民教大學生編織廢棄漁網。對帶跨文化或在地知識的老師，示範了「讓在地人當老師」如何讓學習者真正進入地方脈絡。要提醒的是：居民在主題決定上的角色，報導沒有說明。",
+  "techniques": [
+   {
+    "t": "請部落居民當老師，教學生編織廢棄漁網。",
+    "te": "Ask village residents to be the teachers and show students how to weave discarded fishing nets.",
+    "m": "craft"
+   },
+   {
+    "t": "用漂流木與廢棄漁網等在地材料創作裝置，主題連到族群融合與海洋廢棄物。",
+    "te": "Make installations from local materials such as driftwood and discarded nets, linking themes to ethnic integration and marine debris.",
+    "m": "material"
+   },
+   {
+    "t": "用 AR 應用把歷屆作品留下來，讓成果延續。",
+    "te": "Use an AR application to keep past works so the results continue."
+   }
+  ],
   "ibaeContext": [
    "地",
    "人"
@@ -500,10 +638,31 @@
    "長者",
    "地方居民"
   ],
-  "summary": "北美館與里民合作，邀請 34 位樂齡里民採集在地回憶，以館藏畫作為起點創作，成果與典藏作品一起展出。",
+  "summary": "街事美術館是北美館與中正區忠勤里里民合作的計畫，展期為 2019 年 12 月 21 日至 2020 年 3 月 22 日，成果在二二八紀念館展出。\n\n計畫邀請 34 位樂齡里民採集在地回憶，以館藏畫作為起點創作。\n\n成果與典藏作品一起展出。報導指計畫預計逐年擴展到台北 12 個行政區，目標包括長者參與、世代對話與在地認同。",
   "selfDesc": "報導指計畫預計逐年擴展到台北 12 個行政區，目標包括長者參與、世代對話與在地認同。展期為 2019 年 12 月 21 日至 2020 年 3 月 22 日。",
   "educatorRole": "facilitator-led",
-  "pedagogicalInsight": "用『館藏畫作當起點』給長者一個具體的切入點，再請他們採集自己的回憶來創作，巧妙降低了素人創作的門檻。對帶樂齡的老師，示範了如何用一件現成作品引出個人記憶。要提醒的是：居民作品的媒材報導未說明。",
+  "pedagogicalInsight": "這個計畫用「館藏畫作當起點」給長者一個具體的切入點，再請他們採集自己的回憶來創作，降低了素人創作的門檻。對帶樂齡的老師，示範了如何用一件現成作品引出個人記憶。要提醒的是：居民作品的媒材，報導未說明。",
+  "techniques": [
+   {
+    "t": "以館藏畫作當起點，給長者一個具體的切入點。",
+    "te": "Use a painting from the museum collection as the starting point to give elders a concrete way in.",
+    "m": "document"
+   },
+   {
+    "t": "請長者先採集自己和在地的回憶，再創作。",
+    "te": "Ask elders to collect their own and local memories first, then create.",
+    "m": "oral"
+   },
+   {
+    "t": "把素人作品與典藏作品一起展出，讓成果被看見。",
+    "te": "Show the residents’ works alongside collection works so the results are seen."
+   },
+   {
+    "t": "以里為單位、逐年擴展，連結長者參與與世代對話。",
+    "te": "Work village by village and expand year by year, linking elder participation with intergenerational dialogue.",
+    "m": "intergen"
+   }
+  ],
   "ibaeContext": [
    "地",
    "人"
@@ -548,10 +707,25 @@
   "audience": [
    "地方居民"
   ],
-  "summary": "以西門町、城中市場的常民記憶為主題，辦理老照片卡牌遊戲工作坊與手機錄像工作坊，邀居民與在地商家參與創作。",
+  "summary": "《城中轉身術》是 2024 年街事美術館的計畫，展至 2025 年 3 月 2 日，地點在中山堂（中正區與萬華區交界），以西門町、城中市場的常民記憶為主題。\n\n計畫辦理老照片卡牌遊戲工作坊與手機錄像工作坊，邀居民與在地商家參與創作；藝術家扮演「輔導員」的角色。\n\n在地商家、居民與藝術家因此共同參與創作。",
   "selfDesc": "報導指在地商家、居民與藝術家共同參與創作，藝術家扮演「輔導員」角色。",
   "educatorRole": "facilitator-led",
-  "pedagogicalInsight": "藝術家自稱『輔導員』而非創作者，這個定位本身就是教育者的範本——用老照片卡牌遊戲、手機錄像這類低門檻工具，讓居民與商家自己說故事。這兩個工作坊形式可直接借用。",
+  "pedagogicalInsight": "藝術家自稱「輔導員」而非創作者，這個定位本身就是教育者的範本；用老照片卡牌遊戲、手機錄像這類低門檻工具，讓居民與商家自己說故事。這兩個工作坊形式可直接借用。",
+  "techniques": [
+   {
+    "t": "藝術家退一步當「輔導員」，讓居民與商家自己說故事。",
+    "te": "The artist steps back to be a “counsellor”, letting residents and shop owners tell their own stories."
+   },
+   {
+    "t": "用老照片做成卡牌遊戲，帶居民聊老地方的記憶。",
+    "te": "Turn old photos into a card game to get residents talking about memories of old places.",
+    "m": "oral"
+   },
+   {
+    "t": "用手機錄像工作坊，讓人用手邊的工具記錄自己的城中。",
+    "te": "Use a phone-video workshop so people record their own neighbourhood with the tools at hand."
+   }
+  ],
   "ibaeContext": [
    "地",
    "人"
@@ -598,10 +772,25 @@
   "audience": [
    "地方居民"
   ],
-  "summary": "在安康平宅居民搬遷前，用三個空戶辦展，結合居民書法、舊照片修復、石膏手模與紀錄片，呈現居民對「移動」與「家」的不同選擇。",
+  "summary": "「移動的自由：遇見安康平宅最後的風景」是興隆社宅公共藝術計畫，2024 年 3 月 8 日至 4 月 21 日，在文山區安康平宅居民搬遷前，用三個空戶辦展。\n\n明日製作所的「興隆小客廳」進駐一年多，辦過烤餅乾、畫畫、小旅行等活動；居民參與主視覺拼貼，並提供個人物件與故事。\n\n展覽結合居民書法、舊照片修復、石膏手模與紀錄片，呈現居民對「移動」與「家」的不同選擇。",
   "selfDesc": "報導指明日製作所的「興隆小客廳」進駐一年多，辦過烤餅乾、畫畫、小旅行等活動；居民參與主視覺拼貼，並提供個人物件與故事。",
   "educatorRole": "facilitator-led",
-  "pedagogicalInsight": "『興隆小客廳』進駐一年多、先辦烤餅乾、畫畫、小旅行慢慢累積關係，才做展覽——示範了參與式計畫『先交陪、後創作』的節奏。對趕進度的工作坊是個提醒：關係需要時間。要提醒的是：居民在決策上的角色報導未說明。",
+  "pedagogicalInsight": "這個計畫的節奏是「先交陪、後創作」：進駐一年多，先辦烤餅乾、畫畫、小旅行慢慢累積關係，才做展覽。對趕進度的工作坊是個提醒：關係需要時間。要提醒的是：居民在決策上的角色，報導未說明。",
+  "techniques": [
+   {
+    "t": "先用烤餅乾、畫畫、小旅行等日常活動累積關係，再做展覽。",
+    "te": "Build relationships first through everyday activities such as baking, drawing and small trips, then make the exhibition.",
+    "m": "food"
+   },
+   {
+    "t": "請居民提供個人物件與故事，並一起拼貼主視覺。",
+    "te": "Ask residents to contribute personal objects and stories and to collage the main visual together."
+   },
+   {
+    "t": "用居民書法、舊照片修復、石膏手模與紀錄片，呈現不同人對「家」的選擇。",
+    "te": "Use residents’ calligraphy, restored old photos, plaster hand casts and a documentary to show different people’s choices about “home”."
+   }
+  ],
   "ibaeContext": [
    "地",
    "人",
@@ -649,10 +838,25 @@
   "audience": [
    "地方居民"
   ],
-  "summary": "社宅公共藝術計畫以長期帶狀工作坊（私廚、換書換食譜、社會處方箋等）與 18 件裝置，建立住戶之間的關係。",
+  "summary": "《We Are Home》是廣慈社宅公共藝術計畫，2020 年啟動，成果展為 2025 年 1 月 29 日至 2 月 10 日，地點在信義區廣慈社宅園區。\n\n計畫以長期帶狀工作坊（私廚、換書換食譜、社會處方箋等）與 18 件裝置，建立住戶之間的關係；報導列出婦女中心服務對象的私廚計畫、青草療癒與社區花園、居民共創的社區旗幟。\n\n另有作品取材自十多位居民口述的夢想。",
   "selfDesc": "報導列出婦女中心服務對象的私廚計畫、青草療癒與社區花園、居民共創的社區旗幟，另有作品取材自十多位居民口述的夢想。",
   "educatorRole": "facilitator-led",
-  "pedagogicalInsight": "用『私廚、換書換食譜、社會處方箋』這些生活化的帶狀活動當媒介，讓住戶先有關係再有作品。對帶社區的老師，示範了藝術計畫可以從『一起吃飯、交換食譜』這種日常開始，而不必一開始就談創作。",
+  "pedagogicalInsight": "這個計畫用「私廚、換書換食譜、社會處方箋」這些生活化的帶狀活動當媒介，讓住戶先有關係再有作品。對帶社區的老師，示範了藝術計畫可以從「一起吃飯、交換食譜」這種日常開始，而不必一開始就談創作。",
+  "techniques": [
+   {
+    "t": "用私廚、換書換食譜等生活化的帶狀活動，讓住戶先有關係再有作品。",
+    "te": "Use everyday, ongoing activities such as private kitchens and book and recipe swaps so residents build relationships before artworks.",
+    "m": "food"
+   },
+   {
+    "t": "把居民口述的夢想變成作品的素材。",
+    "te": "Turn the dreams residents tell into material for the work."
+   },
+   {
+    "t": "請居民共創社區旗幟，讓作品成為大家的。",
+    "te": "Have residents co-create a community flag so the work belongs to everyone."
+   }
+  ],
   "ibaeContext": [
    "地",
    "人"
@@ -696,10 +900,26 @@
   "audience": [
    "移工"
   ],
-  "summary": "展出在台移工用手機或相機記錄自己生活的作品，由拍攝者決定要拍什麼、希望外界如何認識他們；展覽從「如果每個月只有 1 天假期」的問題出發，免費參觀。",
+  "summary": "《週日限定風景》移工國際攝影獎自 2019 年起舉辦，2026 年為第七屆，以 Photovoice 理論為基礎，首次進入兩廳院展出。特展在國家戲劇院 2 號門，2026 年 9 月 20 日至 11 月 29 日，每日 12:00–20:00 免費開放。\n\n展出在台移工用手機或相機記錄自己生活的作品，由拍攝者決定要拍什麼、希望外界如何認識他們。展覽從「如果每個月只有 1 天假期」的問題出發，徵件涵蓋印尼、越南、菲律賓與泰國的移工。\n\n展出 2026 年得獎作品與歷屆精選，分成「限定的空間｜生存任務」「限定的時光｜心靈放鬆」「限定的自我｜成為自己」三部分，議題含勞動、離散、身份與記憶，最後規劃「移工議題選書」。",
   "selfDesc": "報導指獎項自 2019 年起舉辦，2026 年為第七屆，以 Photovoice 理論為基礎，這是首次進入兩廳院展出。展出 2026 年得獎作品與歷屆精選，徵件涵蓋印尼、越南、菲律賓與泰國的移工；展區分為「限定的空間｜生存任務」「限定的時光｜心靈放鬆」「限定的自我｜成為自己」三部分，議題含勞動、離散、身份與記憶，展覽最後規劃「移工議題選書」。每日 12:00–20:00 開放。",
   "educatorRole": "facilitator-led",
-  "pedagogicalInsight": "這是 Photovoice 的代表案例——由移工自己決定拍什麼、希望怎麼被看見，攝影獎只提供框架與一個提問（如果每月只有一天假）。對想讓學習者『握有話語權』的老師，這是最乾淨的範本：帶領者出題，參與者自己作答。",
+  "pedagogicalInsight": "這是 Photovoice 的代表案例：由移工自己決定拍什麼、希望怎麼被看見，攝影獎只提供框架與一個提問（如果每月只有一天假）。對想讓學習者「握有話語權」的老師，這是最乾淨的範本：帶領者出題，參與者自己作答。",
+  "techniques": [
+   {
+    "t": "帶領者只出一個提問（如果每月只有一天假），讓參與者自己決定拍什麼。",
+    "te": "The facilitator poses only one question (what if you had only one day off a month) and participants decide what to shoot.",
+    "m": "photovoice"
+   },
+   {
+    "t": "用手機或相機，讓參與者記錄自己的生活，而不是被別人拍。",
+    "te": "Use phones or cameras so participants record their own lives instead of being photographed by others.",
+    "m": "photovoice"
+   },
+   {
+    "t": "把作品依主題分區策展，並在展覽最後附上延伸閱讀。",
+    "te": "Curate the works in thematic zones and end the show with a reading list."
+   }
+  ],
   "ibaeContext": [
    "人"
   ],
@@ -739,10 +959,20 @@
   ],
   "practice": "策展與展覽",
   "audience": [],
-  "summary": "11 組藝術家與科學家等行動者合作，用生物與性別多樣性的故事，讓觀眾認識並接納性少數。",
+  "summary": "「酷共生」是 2023 年 7 月 22 日至 9 月 17 日在北師美術館的性別議題展。\n\n11 組藝術家與科學家等行動者合作，用生物與性別多樣性的故事，讓觀眾認識並接納性少數。\n\n報導指展覽希望觀眾藉此認識生物與性別的多元面向。",
   "selfDesc": "報導指展覽希望觀眾藉此認識生物與性別的多元面向。",
   "educatorRole": "artist-led",
-  "pedagogicalInsight": "沒有社群參與，是一檔讓觀眾『認識並接納』的議題展；但它示範了用『生物多樣性』類比『性別多樣性』的策略，把敏感議題放進比較中性的科學語言裡——對談性別的老師是一種切入角度。要提醒的是：這是策展導向，不是參與式。",
+  "pedagogicalInsight": "這檔展覽沒有社群參與，是讓觀眾「認識並接納」的議題展；但它示範了用「生物多樣性」類比「性別多樣性」的策略，把敏感議題放進比較中性的科學語言裡，對談性別的老師是一種切入角度。要提醒的是：這是策展導向，不是參與式。",
+  "techniques": [
+   {
+    "t": "用「生物多樣性」類比「性別多樣性」，把敏感議題放進較中性的科學語言。",
+    "te": "Use “biodiversity” as an analogy for “gender diversity”, putting a sensitive issue into more neutral scientific language."
+   },
+   {
+    "t": "讓藝術家與科學家等行動者合作，用故事而不是說教帶觀眾認識。",
+    "te": "Pair artists with scientists and other actors and use stories rather than lectures to introduce visitors to the topic."
+   }
+  ],
   "ibaeContext": [],
   "ibaeOrigin": "content",
   "editNote": "報導沒有提到居民或社群參與創作，平台因議題而收錄，歸為策展與展覽。",
@@ -785,10 +1015,24 @@
   "audience": [
    "移工"
   ],
-  "summary": "亞洲當代表演網絡集會（ADAM）是臺北表演藝術中心自 2017 年起辦理的國際藝術家駐地與交流平台。2019 年（第三屆）12 位國際藝術家在台北駐地約四週，走訪 LGBTQ、移工、無家者、原住民等社群，再於年會發表與交流；2026 年（第九屆）改為馬尼拉—台北雙城駐地，主題「關係待確，藝術未滿」。",
+  "summary": "亞洲當代表演網絡集會（ADAM）是臺北表演藝術中心自 2017 年起辦理的國際藝術家駐地與交流平台。2019 年報導指主題為「社群（與）藝術」，關注當代藝術的社會轉向。\n\n2019 年（第三屆）12 位國際藝術家在台北駐地約四週（7 月 22 日起），走訪 LGBTQ、移工、無家者、原住民等社群，萬華龍山寺街區與大稻埕戲苑都是活動地點。\n\n2019 年年會為 8 月 15 至 18 日；2026 年（第九屆）改為馬尼拉—台北雙城駐地，主題「關係待確，藝術未滿」，10 月 15–18 日在台北，以「洗衣日」為概念，並安排城市走讀。",
   "selfDesc": "2019 年報導指主題為「社群（與）藝術」，關注當代藝術的社會轉向；駐地自 7 月 22 日起 4 週，年會為 8 月 15 至 18 日。2026 年官方頁面說明第九屆為兩年一度（2025 年起），含「藝術家實驗室」「新作探索」「交流與論壇」三個單元，活動日期 10/15–18，以「洗衣日」為概念，並在台北進行城市走讀（中正紀念堂、故宮博物院、順益臺灣原住民博物館、馬場町紀念公園等）。",
   "educatorRole": "artist-led",
-  "pedagogicalInsight": "這是給藝術家的國際交流與駐地平台，社群是被走訪、交流的對象，不是共創者，對第一線教學的直接參考有限，比較像『如何設計駐地與交流』的行政範本。要提醒的是：2019 年藝術家與社群是走訪交流，不是共同創作。",
+  "pedagogicalInsight": "這是給藝術家的國際交流與駐地平台，社群是被走訪、交流的對象，不是共創者，對第一線教學的直接參考有限，比較像「如何設計駐地與交流」的行政範本。要提醒的是：2019 年藝術家與社群是走訪交流，不是共同創作。",
+  "techniques": [
+   {
+    "t": "駐地期間安排藝術家走訪不同社群，再回到年會發表與交流。",
+    "te": "During the residency, have artists visit different communities and then present and exchange at the annual meeting."
+   },
+   {
+    "t": "把駐地分成「藝術家實驗室」「新作探索」「交流與論壇」等單元。",
+    "te": "Divide the residency into units such as an artists’ lab, new-work exploration, and exchange and forum."
+   },
+   {
+    "t": "用城市走讀（如中正紀念堂、故宮博物院）讓藝術家認識所在的地方。",
+    "te": "Use city walks (such as Chiang Kai-shek Memorial Hall and the National Palace Museum) to help artists get to know the place."
+   }
+  ],
   "ibaeContext": [],
   "ibaeOrigin": "content",
   "editNote": "2019 年資料原本年份未確認，現依國際性別研究報導（2019.08.16，稱第三屆）與台灣英文新聞的日期，確認為 2019 年。2019 年報導中藝術家與社群是走訪與交流，不是共同創作。2026 年（第九屆）的官方頁面主要談藝術家之間的交流、城市走讀與發表，沒有說明與移工、LGBTQ 等特定社群互動，因此議題標籤（移民、性別、勞動與人權）只對應 2019 年；若要收錄 2026 年，議題需另行判斷。第九屆的細節兩個官方頁面略有出入：臺北表演藝術中心頁面寫「藝術家實驗室邀請七位亞太藝術家、為期一個月駐地」，另一頁寫 8 月馬尼拉、10 月台北雙城駐地，需向主辦單位確認。使用者提供的 ARTouch 連結本次無法讀取，內容尚未納入。",
@@ -845,10 +1089,25 @@
   "audience": [
    "地方居民"
   ],
-  "summary": "民眾以回收塑膠袋集體拼貼、繪製，參與製作靠太陽熱能升空的漂浮雕塑〈太陽能飛行博物館〉；新北市美術館並辦升空實驗行動，作品在「共織宇宙」展中展出。",
+  "summary": "「共織宇宙」是新北市美術館（鶯歌區）2026 年的展覽，展期 3 月 21 日至 9 月 6 日，作品標示 2023–2026；〈太陽能飛行博物館〉是展覽的重要延伸計畫，結合藝術創作、環境思考與公眾參與。\n\n民眾以回收塑膠袋集體拼貼、繪製，參與製作靠太陽熱能升空的漂浮雕塑。報導指此計畫自 2007 年發展，已在 30 多個國家實施，這次是首次在台灣；作品屬藝術家「大氣世」（Aerocene）計畫，台灣版本包含台灣民眾的作品，也納入先前在泰國與韓國展出的成果。\n\n新北市美術館並辦升空實驗行動，作品在「共織宇宙」展中展出。",
   "selfDesc": "報導指此計畫自 2007 年發展，已在 30 多個國家實施，這次是首次在台灣。新北市美術館頁面稱它為展覽的重要延伸計畫，結合藝術創作、環境思考與公眾參與；展覽報導指作品屬藝術家「大氣世」（Aerocene）計畫，台灣版本包含台灣民眾的作品，也納入先前在泰國與韓國展出的成果。",
   "educatorRole": "facilitator-led",
-  "pedagogicalInsight": "用『開源、大家一起做一件會飛的大東西』當參與誘因，門檻低、成就感高。但 editNote 也點出它是國際計畫的台灣版，議題（環境永續）不是從在地長出來的——對照 IBAE『from context』，這反而是『content-first』的例子，很適合當反面討論。",
+  "pedagogicalInsight": "這個計畫用「開源、大家一起做一件會飛的大東西」當參與誘因，門檻低、成就感高。但它是國際計畫的台灣版，議題（環境永續）不是從在地長出來的，對照 IBAE 的「from context」，這反而是「content-first」的例子，很適合當反面討論。",
+  "techniques": [
+   {
+    "t": "用「大家一起做一件會飛的大東西」當參與誘因，門檻低、成就感高。",
+    "te": "Use “everyone makes one big thing that flies” as the draw: low threshold, high sense of achievement."
+   },
+   {
+    "t": "用回收塑膠袋集體拼貼、繪製，把日常廢棄物變成共同的材料。",
+    "te": "Collage and paint with recycled plastic bags together, turning everyday waste into shared material.",
+    "m": "material"
+   },
+   {
+    "t": "在展覽外辦升空實驗行動，讓作品真的「飛起來」。",
+    "te": "Hold lift-off experiments beyond the exhibition so the work really takes off."
+   }
+  ],
   "ibaeContext": [],
   "ibaeOrigin": "content",
   "editNote": "年份已依新北市美術館與 Marie Claire 補為 2026（展期 3/21–9/6，已閉展）。議題是環境永續與公民參與，與居民切身議題的連結較弱；這是國際藝術家與國際開源計畫在台灣的版本，不是從台灣在地議題長出來的，建議與在地發起的案例分開閱讀。實踐方式新增「社會參與式藝術」（市民共同製作作品）。台灣這輪的共創流程（工作坊場次、人數、塑膠袋如何收集、參與者在決策上的角色）所有來源都沒寫，需向美術館確認。美術館頁面摘要提到「開館一週年之際」，與 2026 年日期對不上，平台不採用。",
@@ -905,10 +1164,28 @@
   "audience": [
    "地方居民"
   ],
-  "summary": "在社宅展出公共藝術，居民提供老照片與生命故事，劇場工作坊邀居民談「搬家」，並開放頂樓、信箱區等平日不對外的空間。",
+  "summary": "《未來學家：給未來城市的生活練習》是 2025 年 10 月在北屯社宅與梧棲三民社宅展出的公共藝術。\n\n居民提供老照片與生命故事，劇場工作坊邀居民談「搬家」，並開放頂樓、信箱區等平日不對外的空間。\n\n本案的來源是策展人撰寫的藝評，作者質疑以 KPI 衡量社群培力，並追問計畫結束後公共藝術留給居民什麼。",
   "selfDesc": "這是策展人撰寫的藝評。作者質疑以 KPI 衡量社群培力，並追問計畫結束後公共藝術留給居民什麼。",
   "educatorRole": "facilitator-led",
-  "pedagogicalInsight": "這筆的來源是策展人的藝評，本身就在問一個教育者該問的問題：計畫結束、拆掉 KPI 之後，公共藝術到底留給居民什麼？對帶社區計畫的人，這是提醒——別把『辦了幾場、來了幾人』當成培力的證據。",
+  "pedagogicalInsight": "這筆的來源是策展人的藝評，本身就在問一個教育者該問的問題：計畫結束、拆掉 KPI 之後，公共藝術到底留給居民什麼？對帶社區計畫的人，這是提醒：別把「辦了幾場、來了幾人」當成培力的證據。",
+  "techniques": [
+   {
+    "t": "請居民提供老照片與生命故事，當作品的材料。",
+    "te": "Ask residents to provide old photos and life stories as material for the work."
+   },
+   {
+    "t": "用劇場工作坊邀居民談「搬家」，把共同經驗說出來。",
+    "te": "Use a theatre workshop to invite residents to talk about “moving house” and voice a shared experience."
+   },
+   {
+    "t": "開放頂樓、信箱區等平日不對外的空間，讓居民用新方式看自己的社區。",
+    "te": "Open spaces not normally accessible, such as the rooftop and mailbox areas, so residents see their community in a new way."
+   },
+   {
+    "t": "計畫結束時問：不看 KPI，留給居民的是什麼？",
+    "te": "At the end of a project ask: setting KPIs aside, what is left for residents?"
+   }
+  ],
   "ibaeContext": [
    "地",
    "人"
@@ -962,10 +1239,26 @@
    "地方居民",
    "長者"
   ],
-  "summary": "三位原住民青年藝術家駐村青埔，以埤塘、廟宇香灰與落葉等在地素材，辦免費參與式工作坊，回溯因開發而消失的埤塘記憶；官方活動另設「青埔感知資料庫」城市探索行動，邀民眾走訪舊聚落、埤塘與老街溪。",
+  "summary": "補龍計畫（Open, and next 藝想實驗場）是 2026 年在桃園青埔 KIRI 國際原住民族文創園區的駐村與活動。官方頁面寫活動為 7 月 1 日至 8 月 31 日，先前報導寫 6–8 月駐村，兩者可能指不同階段，仍待向主辦單位確認。\n\n三位原住民青年藝術家駐村青埔，以埤塘、廟宇香灰與落葉等在地素材辦免費參與式工作坊，回溯因開發而消失的埤塘記憶；其中一位藝術家引導文健站長者，把埤塘生活經驗轉為版畫素材。\n\n官方活動另設「青埔感知資料庫」城市探索行動：民眾領取《探索筆記》，走訪舊聚落、埤塘與老街溪，蒐集印章並到四樓存檔。",
   "selfDesc": "報導指民眾可預約與藝術家共同創作，其中一位藝術家引導文健站長者，把埤塘生活經驗轉為版畫素材。官方頁面說明活動以「重新觀看、感受與閱讀青埔」為方向，探討青埔的土地記憶、城市變遷與不同族群共同生活的歷史；民眾可領取《探索筆記》、蒐集印章並到四樓存檔，工作坊需報名。已列出的工作坊有〈補龍計畫：鱗片噴發中〉（胡家瑜）、〈Rmdax 記憶顯影：利樂包版畫工作坊〉（阮原閩）、〈ki:ki:im 荒地探索行動——身體訊息〉（羅媛）。",
   "educatorRole": "facilitator-led",
-  "pedagogicalInsight": "藝術家引導文健站長者把『埤塘生活經驗』轉成版畫素材，是把長者的生活記憶變成創作內容的做法；『青埔感知資料庫／探索筆記／蓋章存檔』這套城市走讀設計，也可直接借來當走讀學習單。",
+  "pedagogicalInsight": "藝術家引導文健站長者把「埤塘生活經驗」轉成版畫素材，是把長者的生活記憶變成創作內容的做法；「青埔感知資料庫／探索筆記／蓋章存檔」這套城市走讀設計，也可直接借來當走讀學習單。",
+  "techniques": [
+   {
+    "t": "引導長者把埤塘生活經驗轉成版畫素材。",
+    "te": "Guide elders to turn pond-life experience into printmaking material."
+   },
+   {
+    "t": "用埤塘、廟宇香灰與落葉等在地素材辦工作坊。",
+    "te": "Run workshops with local materials such as ponds, temple incense ash and fallen leaves.",
+    "m": "material"
+   },
+   {
+    "t": "用《探索筆記》、蓋章與存檔，設計一份城市走讀學習單。",
+    "te": "Design a walking worksheet from an exploration notebook, stamps and filing.",
+    "m": "walk"
+   }
+  ],
   "ibaeContext": [
    "地",
    "時",
@@ -1019,10 +1312,25 @@
   "audience": [
    "地方居民"
   ],
-  "summary": "募集 45 位參與者分享與桃園、車站或「移動」有關的故事，並帶食品包裝作為創作素材，以行李箱為意象製作公共藝術。",
+  "summary": "《共生窗景詩》是桃園火車站後站福安公園的公共藝術共創工作坊，2026 年舉辦，場次為 6 月 26 日、28 日（依報導日期推得）。後站長年有移工與新住民聚集，形成東南亞商圈，工作坊以多元文化與移動遷徙為主題。\n\n工作坊募集 45 位參與者分享與桃園、車站或「移動」有關的故事，並請他們帶食品包裝作為創作素材。\n\n成果以行李箱為意象製作公共藝術。",
   "selfDesc": "報導指後站長年有移工與新住民聚集，形成東南亞商圈，並以多元文化與移動遷徙為主題。",
   "educatorRole": "facilitator-led",
-  "pedagogicalInsight": "請參與者『帶一件食品包裝來』當創作素材，是把個人的移動、移民經驗具體化的巧思；用行李箱、包裝這些隨身物件談『移動』，比直接講移民政策更貼近生活。要提醒的是：參與者是否包含移工本人報導未說明。",
+  "pedagogicalInsight": "請參與者「帶一件食品包裝來」當創作素材，是把個人的移動、移民經驗具體化的巧思；用行李箱、包裝這些隨身物件談「移動」，比直接講移民政策更貼近生活。要提醒的是：參與者是否包含移工本人，報導未說明。",
+  "techniques": [
+   {
+    "t": "請參與者帶一件食品包裝來，當作創作素材。",
+    "te": "Ask participants to bring a piece of food packaging as creative material.",
+    "m": "material"
+   },
+   {
+    "t": "先請參與者分享與桃園、車站或「移動」有關的故事。",
+    "te": "First ask participants to share stories about Taoyuan, the station or “movement”."
+   },
+   {
+    "t": "用行李箱當意象，把共同的移動經驗做成公共藝術。",
+    "te": "Use the suitcase as an image to turn shared experiences of movement into public art."
+   }
+  ],
   "ibaeContext": [
    "人",
    "地"
@@ -1063,10 +1371,28 @@
    "新住民",
    "移工"
   ],
-  "summary": "招募新住民與外籍移工學員，以繪本表達對故鄉的記憶與來台生活，產出 30 多本作品並舉辦頒獎。",
+  "summary": "新住民和移工繪本創作課程「話．畫．看」是 2019 年的藝術教育課程，學員來自新北、桃園、新竹，頒獎在新竹市北大公園。\n\n課程招募新住民與外籍移工學員，學員來自 8 個國家，用繪本表達對故鄉的記憶與來台生活，主題包括兒時記憶、跨國婚姻、故鄉風景與文化差異。\n\n課程產出 30 多本作品並舉辦頒獎。",
   "selfDesc": "報導指學員來自 8 個國家，主題包括兒時記憶、跨國婚姻、故鄉風景與文化差異。",
   "educatorRole": "facilitator-led",
-  "pedagogicalInsight": "用繪本當載體，讓新住民與移工畫自己的故鄉與來台經驗——繪本門檻低，又能處理跨國婚姻、文化差異這類私人題材。對帶語言不通的學員，圖像常是最好的共通語言。要提醒的是：授課地點與講師報導未提及。",
+  "pedagogicalInsight": "這個課程用繪本當載體，讓新住民與移工畫自己的故鄉與來台經驗；繪本門檻低，又能處理跨國婚姻、文化差異這類私人題材。對帶語言不通的學員，圖像常是最好的共通語言。要提醒的是：授課地點與講師，報導未提及。",
+  "techniques": [
+   {
+    "t": "用繪本當載體，讓學員畫自己的故鄉與來台經驗。",
+    "te": "Use picture books as the vehicle for learners to draw their hometowns and experiences in Taiwan."
+   },
+   {
+    "t": "從兒時記憶、故鄉風景、跨國婚姻、文化差異等個人題材出發。",
+    "te": "Start from personal themes such as childhood memories, hometown scenery, cross-border marriage and cultural difference."
+   },
+   {
+    "t": "用圖像當共通語言，帶語言不通的學員。",
+    "te": "Use images as a common language with learners who do not share one."
+   },
+   {
+    "t": "最後舉辦頒獎，讓作品被看見。",
+    "te": "End with an awards ceremony so the works are seen."
+   }
+  ],
   "ibaeContext": [
    "人"
   ],
@@ -1116,10 +1442,20 @@
    "兒童",
    "地方居民"
   ],
-  "summary": "以客庄生活美學為主題的大型藝術季，首屆有超過 70 位藝術家，後續辦交流工作坊，邀社區夥伴討論藝術季的想像與困境。",
+  "summary": "浪漫台三線藝術季是以客庄生活美學為主題的大型藝術季，2019 年首屆，第二屆預定 2023 年，沿台三線客庄舉辦。\n\n首屆有超過 70 位藝術家、跨 5 縣市、約 100 場活動，社區學童參與採集與製作蒲葵扇、祈福掃把、竹藤藝術等。\n\n後續辦交流工作坊，邀社區夥伴討論藝術季的想像與困境。",
   "selfDesc": "報導指社區學童參與採集與製作（蒲葵扇、祈福掃把、竹藤藝術等），首屆跨 5 縣市、約 100 場活動。",
   "educatorRole": "mixed",
-  "pedagogicalInsight": "大型藝術季裡，社區學童參與採集與製作蒲葵扇、祈福掃把等在地工藝，是把客庄生活技藝交給下一代的做法；但大型藝術季『藝術家主導』和『學童參與』的比重差很多，提醒：節慶規模大不等於參與深。",
+  "pedagogicalInsight": "大型藝術季裡，社區學童參與採集與製作蒲葵扇、祈福掃把等在地工藝，是把客庄生活技藝交給下一代的做法。但「藝術家主導」和「學童參與」的比重差很多，提醒：節慶規模大不等於參與深。",
+  "techniques": [
+   {
+    "t": "請社區學童參與採集與製作蒲葵扇、祈福掃把等在地工藝，把客庄生活技藝交給下一代。",
+    "te": "Have local schoolchildren take part in gathering and making local crafts such as fan-palm fans and blessing brooms, passing Hakka village skills to the next generation."
+   },
+   {
+    "t": "跨縣市、多場活動的大型藝術季之後，辦交流工作坊，邀社區夥伴一起檢討想像與困境。",
+    "te": "After a large multi-county festival, hold exchange workshops where community partners reflect together on its vision and difficulties."
+   }
+  ],
   "ibaeContext": [
    "地",
    "人"
@@ -1164,10 +1500,25 @@
   "audience": [
    "地方居民"
   ],
-  "summary": "在因地層下陷與海水倒灌形成的成龍濕地，由居民、志工與駐村藝術家以竹編、漂流木等在地材料共同創作裝置，並結合表演與市集。",
+  "summary": "成龍濕地環境藝術節在口湖鄉成龍濕地舉辦，這裡因地層下陷與海水倒灌而形成濕地。2022 年藝術節停辦兩年後再度舉辦，2025 年 4 月 7 至 27 日駐村三週。\n\n居民、志工與駐村藝術家以竹編、漂流木等在地材料共同創作裝置，並結合表演與市集。\n\n2025 年的駐村與志工協力完成四件作品。",
   "selfDesc": "報導指 2022 年藝術節停辦兩年後再度舉辦；2025 年 4 月 7 至 27 日駐村三週，與志工協力完成四件作品。",
   "educatorRole": "mixed",
-  "pedagogicalInsight": "居民、志工與駐村藝術家一起用竹編、漂流木做裝置，是典型的『三方共作』；在因地層下陷、海水倒灌而淹水的濕地做環境藝術，議題就在腳下的土地——是『from place』的清楚例子。",
+  "pedagogicalInsight": "居民、志工與駐村藝術家一起用竹編、漂流木做裝置，是典型的「三方共作」；在因地層下陷、海水倒灌而淹水的濕地做環境藝術，議題就在腳下的土地，是「from place」的清楚例子。",
+  "techniques": [
+   {
+    "t": "居民、志工與駐村藝術家三方一起用竹編、漂流木創作。",
+    "te": "Residents, volunteers and resident artists create together with woven bamboo and driftwood.",
+    "m": "material"
+   },
+   {
+    "t": "在議題發生的現場（受地層下陷與海水倒灌影響的濕地）創作，讓議題就在腳下。",
+    "te": "Create at the place where the issue occurs (a wetland affected by subsidence and seawater intrusion) so the issue is underfoot."
+   },
+   {
+    "t": "把創作和表演、市集結合，讓更多人走進現場。",
+    "te": "Combine making with performances and a market so more people come to the site."
+   }
+  ],
   "ibaeContext": [
    "地"
   ],
@@ -1210,10 +1561,25 @@
   "audience": [
    "地方居民"
   ],
-  "summary": "藝術家多次走訪嘉義鄉村，與 6 到 90 歲的居民共同創作 13 件作品，回應各地文化，並關注族群與遷徙。",
+  "summary": "《再。嘉義鄉村藝術行動》自 2022 年起舉辦，報導稱今年為第 4 年，走訪嘉義縣各鄉鎮（今年為北港溪流域鄉鎮）。\n\n藝術家多次走訪嘉義鄉村，與 6 到 90 歲的居民共同創作 13 件作品，回應各地文化；多數作品回應「族群與遷徙」，並提到上林的製糖記憶與外籍移工。\n\n作品將於 2026 台灣燈會展出。",
   "selfDesc": "報導指多數作品回應「族群與遷徙」，並提到上林的製糖記憶與外籍移工。作品將於 2026 台灣燈會展出。",
   "educatorRole": "facilitator-led",
   "pedagogicalInsight": "和 6 到 90 歲的居民一起創作、回應各地的族群與遷徙記憶，示範了跨世代共作的可能。但要留意這筆來源是縣府廣編稿，只有正面說法，實際居民參與的深度要打折看。",
+  "techniques": [
+   {
+    "t": "邀 6 到 90 歲的居民一起創作，讓不同世代同台。",
+    "te": "Invite residents aged 6 to 90 to create together, putting different generations on one stage.",
+    "m": "intergen"
+   },
+   {
+    "t": "藝術家多次走訪、陪伴同一批鄉村，再回應各地的文化。",
+    "te": "Have artists visit and accompany the same villages repeatedly before responding to local culture."
+   },
+   {
+    "t": "以「族群與遷徙」為主題，連結在地的製糖記憶與外籍移工。",
+    "te": "Take “ethnic groups and migration” as the theme, linking local sugar-making memory and migrant workers."
+   }
+  ],
   "ibaeContext": [
    "地",
    "人"
@@ -1255,10 +1621,26 @@
   "audience": [
    "地方居民"
   ],
-  "summary": "青年巡守隊淨灘後，把海廢再製成裝置作品，設在後寮遊客中心的「漂流美術館」，讓旅客思考海洋垃圾。",
+  "summary": "《澎湖漂流美術館》是 2025 年澎湖後寮遊客中心的「漂流美術館」，由青年巡守隊淨灘的行動發展而來。\n\n淨灘逐漸成為居民的愛鄉行動，團隊的環教行動約 10 年；青年巡守隊淨灘後，把海廢再製成裝置作品。\n\n作品設在後寮遊客中心，讓旅客思考海洋垃圾。報導未提及居民是否參與作品創作。",
   "selfDesc": "報導指淨灘逐漸成為居民的愛鄉行動，團隊的環教行動約 10 年。居民是否參與作品創作，報導未提及。",
   "educatorRole": "facilitator-led",
-  "pedagogicalInsight": "把淨灘撿到的海廢直接再製成展品，讓『環境行動』和『創作』合而為一，旅客看到的是垃圾的來處。對做環境教育的老師，示範了『行動—蒐集—再製—展示』的完整循環。要提醒的是：居民是否參與作品創作報導未提及。",
+  "pedagogicalInsight": "把淨灘撿到的海廢直接再製成展品，讓「環境行動」和「創作」合而為一，旅客看到的是垃圾的來處。對做環境教育的老師，示範了「行動—蒐集—再製—展示」的完整循環。要提醒的是：居民是否參與作品創作，報導未提及。",
+  "techniques": [
+   {
+    "t": "淨灘、蒐集、再製、展示，走完一整個「行動到作品」的循環。",
+    "te": "Go through the full cycle of cleanup, collection, remaking and display — from action to artwork.",
+    "m": "material"
+   },
+   {
+    "t": "把淨灘撿到的海廢直接再製成裝置，讓旅客看見垃圾的來處。",
+    "te": "Turn marine debris collected on cleanups directly into installations so visitors see where rubbish comes from.",
+    "m": "material"
+   },
+   {
+    "t": "把作品設在遊客中心，讓旅客在旅程中思考海洋垃圾。",
+    "te": "Place the works in the visitor centre so travellers think about ocean waste during their trip."
+   }
+  ],
   "ibaeContext": [
    "地"
   ],
@@ -1307,10 +1689,27 @@
    "地方居民",
    "長者"
   ],
-  "summary": "藝術家進駐金門與澎湖的社區，與居民合作，例如與糊紙匠師共同策劃展演、與居民共同陶燒、訪問耆老保存褒歌。",
+  "summary": "《藝術轉動社區》是 2025 年（民國 114 年）的計畫，藝術家進駐金門古崗、湖東與澎湖大池、後寮、鼎灣、湖東、將軍等社區。報導指計畫強調以社區為主體，已在南部七縣市執行 5 年。\n\n藝術家與居民合作：與糊紙匠師共同策劃展演、與居民共同陶燒、訪問耆老保存褒歌。\n\n各藝術家的確切駐點與日期，報導未寫。",
   "selfDesc": "報導指計畫強調以社區為主體，已在南部七縣市執行 5 年。",
   "educatorRole": "mixed",
-  "pedagogicalInsight": "和糊紙匠師、陶藝、褒歌耆老這些『在地職人』合作，而不是把現代藝術空降社區，是尊重在地技藝的做法；對做在地文化的老師，重點是先找到社區裡的師傅。要提醒的是：來源是文化部名義的廣告稿，偏官方說法。",
+  "pedagogicalInsight": "和糊紙匠師、陶藝、褒歌耆老這些「在地職人」合作，而不是把現代藝術空降社區，是尊重在地技藝的做法；對做在地文化的老師，重點是先找到社區裡的師傅。要提醒的是：來源是文化部名義的廣告稿，偏官方說法。",
+  "techniques": [
+   {
+    "t": "先找到社區裡的師傅（糊紙匠師），與他共同策劃展演。",
+    "te": "Find the community’s master first (a paper-craft master) and plan the performance with them.",
+    "m": "craft"
+   },
+   {
+    "t": "與居民共同陶燒，用在地技藝當創作的起點。",
+    "te": "Fire pottery together with residents, using local skills as the starting point for making.",
+    "m": "craft"
+   },
+   {
+    "t": "訪問耆老，保存褒歌等口傳文化。",
+    "te": "Interview elders to preserve oral traditions such as folk songs.",
+    "m": "sound"
+   }
+  ],
   "ibaeContext": [
    "地",
    "人"
@@ -1356,10 +1755,28 @@
   "audience": [
    "地方居民"
   ],
-  "summary": "以花蓮地震為題的展覽，涂維政邀居民帶震後物件拓印，陳政道與部落大人小孩用樂高組合震後山景。",
+  "summary": "花蓮跳浪藝術節「星球爆裂」是 2024 年在花蓮縣石雕博物館與同禮部落舉辦的展覽，以花蓮地震為題，探討人們如何與地震共存並療癒。\n\n涂維政邀居民帶震後物件拓印，陳政道與部落大人小孩用樂高組合震後山景。\n\n樂高作品的展出收入將捐給當地教會重建。",
   "selfDesc": "報導指展覽探討人們如何與地震共存並療癒，樂高作品的展出收入將捐給當地教會重建。",
   "educatorRole": "facilitator-led",
-  "pedagogicalInsight": "用『帶一件震後的物件來拓印』『用樂高拼出震後的山』把地震創傷轉成可動手的創作，特別是讓孩子用樂高處理災難，是很務實的療癒設計。對帶創傷議題的老師，示範了用具體物件與遊戲媒介取代直接談災難。要提醒的是：居民如何決定作品內容報導未說明。",
+  "pedagogicalInsight": "用「帶一件震後的物件來拓印」「用樂高拼出震後的山」把地震創傷轉成可動手的創作，特別是讓孩子用樂高處理災難，是很務實的療癒設計。對帶創傷議題的老師，示範了用具體物件與遊戲媒介取代直接談災難。要提醒的是：居民如何決定作品內容，報導未說明。",
+  "techniques": [
+   {
+    "t": "請居民帶一件震後的物件來拓印，把創傷變成可動手的創作。",
+    "te": "Ask residents to bring an object from after the quake for rubbing, turning trauma into something to make by hand."
+   },
+   {
+    "t": "讓部落的大人小孩用樂高拼出震後的山景。",
+    "te": "Let adults and children from the village build post-quake mountain views from Lego."
+   },
+   {
+    "t": "用具體物件與遊戲媒介取代直接談災難。",
+    "te": "Use concrete objects and play media instead of talking about the disaster directly."
+   },
+   {
+    "t": "把展出收入捐給當地教會重建，讓創作和重建連在一起。",
+    "te": "Donate exhibition income to rebuild the local church, linking making with rebuilding."
+   }
+  ],
   "ibaeContext": [
    "時",
    "地"
@@ -1402,10 +1819,20 @@
   "audience": [
    "地方居民"
   ],
-  "summary": "上百位塗鴉藝術家在花蓮舊城區畫出約 50 幅牆面作品，公所協調居民提供老舊牆面與鐵捲門，許多作品以震後倒塌的牆面為題材。",
+  "summary": "風格會議 Meeting of Styles 是 2024 年 10 月 19 日起為期 2 天的塗鴉活動，在花蓮市溝仔尾的舊城區舉行。\n\n上百位塗鴉藝術家畫出約 50 幅牆面作品，公所協調居民提供老舊牆面與鐵捲門，許多作品以震後倒塌的牆面為題材。\n\n主理人希望藉作品記住地震並提振信心，市長期待舊城區成為年輕人的街頭文化指標。",
   "selfDesc": "報導指主理人希望藉作品記住地震並提振信心，市長期待舊城區成為年輕人的街頭文化指標。",
   "educatorRole": "artist-led",
-  "pedagogicalInsight": "居民主要是出借牆面，不是共創者，參與較淺；但『以震後倒塌的牆面為題材』把災難痕跡直接變成創作場，是地景與創傷結合的例子。對教育者的直接參考有限，比較是城市再生／觀光案例。",
+  "pedagogicalInsight": "居民主要是出借牆面，不是共創者，參與較淺；但「以震後倒塌的牆面為題材」把災難痕跡直接變成創作場，是地景與創傷結合的例子。對教育者的直接參考有限，比較是城市再生／觀光案例。",
+  "techniques": [
+   {
+    "t": "以震後倒塌的牆面為題材，把災難痕跡直接變成創作場。",
+    "te": "Take the walls collapsed in the earthquake as the subject, turning traces of disaster directly into a place for making."
+   },
+   {
+    "t": "由公所協調居民出借老舊牆面與鐵捲門，讓塗鴉進到社區空間。",
+    "te": "Have the township office coordinate residents to lend old walls and shutters so graffiti enters community space."
+   }
+  ],
   "ibaeContext": [
    "時",
    "地"
@@ -1452,10 +1879,24 @@
   "audience": [
    "地方居民"
   ],
-  "summary": "青年創作者走進崁仔頂與委託行街區取材，作品展於大樓公共空間改成的社區藝廊，描寫基隆舊城的縫補業、魚市與鐵道記憶。",
+  "summary": "《潮濕的複寫本》是 2026 年 8 月 22 日至 9 月 20 日在基隆仁愛區至善大樓公共空間與初見咖啡館舉辦的街區藝術行動。\n\n青年創作者走進崁仔頂與委託行街區取材，團隊採 Lumbung（共享穀倉）方法，把地方文化資料與田野經驗分享給創作者，並與大樓管委會協調空間。\n\n作品展於大樓公共空間改成的社區藝廊，描寫基隆舊城的縫補業、魚市與鐵道記憶。",
   "selfDesc": "報導指團隊採 Lumbung（共享穀倉）方法，把地方文化資料與田野經驗分享給創作者，並與大樓管委會協調空間。",
   "educatorRole": "artist-led",
-  "pedagogicalInsight": "團隊用 Lumbung（共享穀倉）的方法，把田野資料共享給創作者——這個『先共享、再各自創作』的協作模式，對帶團隊創作的老師是個可借用的機制。要提醒的是：居民主要是被取材的對象，共創程度報導沒有寫。",
+  "pedagogicalInsight": "團隊用 Lumbung（共享穀倉）的方法，把田野資料共享給創作者，這個「先共享、再各自創作」的協作模式，對帶團隊創作的老師是個可借用的機制。要提醒的是：居民主要是被取材的對象，共創程度報導沒有寫。",
+  "techniques": [
+   {
+    "t": "用 Lumbung（共享穀倉）方法，先把田野資料共享給創作者，再各自創作。",
+    "te": "Use the Lumbung (shared rice barn) method: share fieldwork materials with creators first, then each creates separately."
+   },
+   {
+    "t": "走進街區取材，題材是縫補業、魚市與鐵道記憶。",
+    "te": "Go into the neighbourhood to gather material — the sewing trade, fish market and railway memories."
+   },
+   {
+    "t": "把大樓公共空間改成社區藝廊，並與管委會協調使用。",
+    "te": "Convert the building’s public space into a community gallery and coordinate its use with the management committee."
+   }
+  ],
   "ibaeContext": [
    "地",
    "時"
@@ -1497,10 +1938,24 @@
   ],
   "practice": "策展與展覽",
   "audience": [],
-  "summary": "九二一地震 25 週年，11 位畫家回到埔里受災地創作，以繪畫呈現新舊地貌對比，並搭配老畫家的震後素描。",
+  "summary": "「畫，25」是九二一地震 25 週年的埔里展，2024 年 9 月 12 日記者會，展至 9 月 30 日；計畫由新故鄉文教基金會主辦，文化部支持規劃。\n\n11 位畫家回到埔里受災地創作，以繪畫呈現新舊地貌對比，並搭配老畫家的震後素描。\n\n原作展於紙教堂「流」藝廊，戶外複製展於埔里聯合行政園區與集集火車站前廣場。",
   "selfDesc": "報導指計畫由新故鄉文教基金會主辦，文化部支持規劃。",
   "educatorRole": "artist-led",
-  "pedagogicalInsight": "畫家回到災區現地創作、對比新舊地貌，沒有居民共創；但『回到現場畫下 25 年的變化』示範了用時間縱深（震後 vs 現在）來談一個地方，對做地方變遷的課程是方法參考。要提醒的是：作品／策展導向。",
+  "pedagogicalInsight": "畫家回到災區現地創作、對比新舊地貌，沒有居民共創；但「回到現場畫下 25 年的變化」示範了用時間縱深（震後 vs 現在）來談一個地方，對做地方變遷的課程是方法參考。要提醒的是：這是作品／策展導向。",
+  "techniques": [
+   {
+    "t": "回到現場創作，畫下 25 年的變化，用時間縱深談一個地方。",
+    "te": "Return to the site and paint 25 years of change, talking about a place through time depth."
+   },
+   {
+    "t": "把老畫家的震後素描和新作並排，讓「震後 vs 現在」直接對照。",
+    "te": "Show an older painter’s post-quake sketches next to the new works so “after the quake vs now” is directly compared."
+   },
+   {
+    "t": "把原作留在展館，另在戶外廣場展出複製畫，讓路過的人也看得到。",
+    "te": "Keep the originals in the gallery and show reproductions on outdoor plazas so passers-by can see them too."
+   }
+  ],
   "ibaeContext": [
    "時",
    "地"
@@ -1554,10 +2009,28 @@
   "audience": [
    "青少年"
   ],
-  "summary": "南藝大藝術史系團隊帶領官田國中學生，先以表演課程認識官田埤塘的妖怪傳說，再畫出田螺精、泥鰍精、黑狗血、清兵等角色，放進大學團隊手繪的官田場景，辦成展覽。",
+  "summary": "《官田有妖怪！！！官田的埤塘和傳說》是 2023–2024 年南藝大藝術史系團隊在官田區官田國中的藝術進鄉計畫，屬教育部高教深耕計畫「善盡社會責任」主軸，展場在福利社 2 樓藝術空間。\n\n團隊帶領官田國中學生，先以表演課程認識官田埤塘的妖怪傳說，再畫出田螺精、泥鰍精、黑狗血、清兵等角色，放進大學團隊手繪的官田場景。\n\n成果辦成展覽。內容談官田埤塘的灌溉、防災功能，以及傳說與水文地理的關係，目的是讓學生與在地人重新認識逐漸被淡忘的地方傳說，並為偏鄉學生提供美感教育。",
   "selfDesc": "報導指計畫屬教育部高教深耕計畫「善盡社會責任」主軸。內容談官田埤塘的灌溉、防災功能，以及傳說與水文地理的關係，目的是讓學生與在地人重新認識逐漸被淡忘的地方傳說，並為偏鄉學生提供美感教育。",
   "educatorRole": "facilitator-led",
-  "pedagogicalInsight": "先用表演課讓學生『進入』官田埤塘的妖怪傳說，再畫出角色、放進共同場景辦展——把快被遺忘的地方傳說變成學生自己的創作，是『地方知識＋美感教育』的好組合，可直接當地方文化課程範本。",
+  "pedagogicalInsight": "先用表演課讓學生「進入」官田埤塘的妖怪傳說，再畫出角色、放進共同場景辦展，把快被遺忘的地方傳說變成學生自己的創作，是「地方知識＋美感教育」的好組合，可直接當地方文化課程範本。",
+  "techniques": [
+   {
+    "t": "先用表演課，讓學生「進入」在地的妖怪傳說。",
+    "te": "First use a drama class to let students “enter” local monster legends."
+   },
+   {
+    "t": "讓學生畫出傳說角色，放進大學團隊手繪的共同場景。",
+    "te": "Have students draw the legendary characters and place them in a shared scene hand-drawn by the university team."
+   },
+   {
+    "t": "把埤塘的灌溉、防災功能與傳說、水文地理連在一起講。",
+    "te": "Connect the ponds’ irrigation and flood-control functions to the legends and to hydrology and geography."
+   },
+   {
+    "t": "辦成展覽，讓學生與在地人重新認識快被淡忘的傳說。",
+    "te": "Turn the results into an exhibition so students and locals rediscover fading legends."
+   }
+  ],
   "ibaeContext": [
    "地"
   ],
@@ -1609,10 +2082,28 @@
   "audience": [
    "地方居民"
   ],
-  "summary": "大地藝術季以曾文溪高度曲折的河道為意象，把焦點放在中上游的淺山聚落；藝術家進入匏仔寮、照興等聚落駐地，歷時三年做田野與訪談，並邀請「流域引路人」帶路，同時提出水資源與「流域犧牲體系」等公共議題。",
+  "summary": "2026 Mattauw 大地藝術季《曲流擺：曾文溪的裏淺山》於 2026 年 9 月 5 日至 12 月 6 日舉行，七大展區含麻豆總爺藝文中心（主展場）、曾文水庫、官田拔林、六甲匏仔寮、左鎮老街、楠西照興與密枝。官方稱它是台灣第一個以單一河流全流域為主角、以行動倡議為核心的大地藝術季。\n\n藝術季以曾文溪高度曲折的河道為意象，把焦點放在中上游的淺山聚落。本屆籌備三年，近一半的藝術計畫直接進入淺山聚落：藝術家進入匏仔寮、照興等聚落駐地，歷時三年做田野與訪談，並邀請「流域引路人」帶路。例如歌手謝銘祐與六甲匏仔寮的在地女性經長時間田野訪談與陪伴，共同創作歌曲《勇勇仔活》；鄒族獵人巴蘇雅．亞古曼帶領余欣蘭及飛鼠少女隊進行飛鼠調研。\n\n藝術季同時提出水資源與「流域犧牲體系」等公共議題、「自然權利倡議」，並規劃實驗性的「自然法庭」。",
   "selfDesc": "報導指本屆籌備三年，近一半的藝術計畫直接進入淺山聚落。例如歌手謝銘祐與六甲匏仔寮的在地女性經長時間田野訪談與陪伴，共同創作歌曲《勇勇仔活》；鄒族獵人巴蘇雅．亞古曼帶領余欣蘭及飛鼠少女隊進行飛鼠調研。藝術季提出「自然權利倡議」與「流域犧牲體系」，並規劃實驗性的「自然法庭」；官方稱它是台灣第一個以單一河流全流域為主角、以行動倡議為核心的大地藝術季。",
   "educatorRole": "mixed",
-  "pedagogicalInsight": "歌手與六甲在地女性經長時間田野才一起寫出《勇勇仔活》、鄒族獵人帶領飛鼠調研——示範了『藝術家花三年蹲點』才可能的深度共創；『流域引路人』帶路的設計，也是讓在地人當嚮導的好方法。要提醒的是：多數子計畫居民如何參與報導沒有細寫。",
+  "pedagogicalInsight": "這個藝術季示範了「藝術家花三年蹲點」才可能的深度共創，「流域引路人」帶路的設計，也是讓在地人當嚮導的好方法。要提醒的是：多數子計畫居民如何參與，報導沒有細寫。",
+  "techniques": [
+   {
+    "t": "邀請「流域引路人」帶路，讓在地人當嚮導。",
+    "te": "Invite “river-basin guides” to lead the way, letting local people be the guides."
+   },
+   {
+    "t": "藝術家駐地三年做田野與訪談，再與在地居民共同創作（如與匏仔寮女性合寫歌曲《勇勇仔活》）。",
+    "te": "Artists stay for three years doing fieldwork and interviews, then create with local people (for example co-writing the song “Yong Yong Ah Huo” with women of Paozailiao)."
+   },
+   {
+    "t": "由在地獵人帶領藝術家與年輕人做飛鼠調研，讓在地知識成為創作起點。",
+    "te": "Have a local hunter lead artists and young people in a flying-squirrel survey, making local knowledge the starting point."
+   },
+   {
+    "t": "把水資源、流域犧牲體系等公共議題，用「自然權利倡議」與實驗性的「自然法庭」帶進藝術季。",
+    "te": "Bring public issues such as water resources and the river-basin sacrifice system into the festival through a “rights of nature” advocacy and an experimental “nature court”."
+   }
+  ],
   "ibaeContext": [
    "地",
    "人"
@@ -1669,10 +2160,26 @@
   "audience": [
    "地方居民"
   ],
-  "summary": "計畫先透過交流訪談與故事採集，再以藝術工作坊讓斗煥社區居民與專業舞者一起，把家庭日常、客庄生活與植物染工藝編成舞作，成果在銅鑼茶廠園區發表，由居民與舞者同台演出。",
+  "summary": "《藝耆共舞．客庄日常》是國立新竹生活美學館「藝術域承—社區故事共創計畫」115 年度（2026）項目，以頭份市斗煥社區的植物染工藝與客家生活文化為題材。\n\n計畫先透過交流訪談與故事採集，再以藝術工作坊讓斗煥社區居民與專業舞者（極至體能舞蹈團，創立於 1997 年）一起，把家庭日常、客庄生活與植物染作品、社區記憶編成舞作。\n\n成果於 9 月 4 日在文化部百大文化基地「台灣農林股份有限公司銅鑼茶廠」發表，由居民與舞者同台演出；館方表示未來將持續推動此計畫。",
   "selfDesc": "報導指計畫屬國立新竹生活美學館的「藝術域承—社區故事共創計畫」115 年度項目，以社區植物染工藝與客家生活文化為題材，將植物染作品、家庭日常與社區記憶融入舞蹈編創；極至體能舞蹈團創立於 1997 年。館方表示未來將持續推動此計畫。",
   "educatorRole": "facilitator-led",
-  "pedagogicalInsight": "先訪談採集故事，再讓社區居民和專業舞者同台，把家庭日常、植物染編成舞——用身體和舞蹈處理『客庄生活』，比用文字更適合不擅言語表達的居民。要提醒的是：居民人數、年齡與是否參與決策報導沒有說明。",
+  "pedagogicalInsight": "先訪談採集故事，再讓社區居民和專業舞者同台，把家庭日常、植物染編成舞，用身體和舞蹈處理「客庄生活」，比用文字更適合不擅言語表達的居民。要提醒的是：居民人數、年齡與是否參與決策，報導沒有說明。",
+  "techniques": [
+   {
+    "t": "先做交流訪談與故事採集，再開工作坊編創。",
+    "te": "Start with exchange interviews and story collection, then move into workshops for devising."
+   },
+   {
+    "t": "讓居民與專業舞者同台，把家庭日常與植物染編成舞作。",
+    "te": "Put residents and professional dancers on the same stage, turning family daily life and plant dyeing into dance.",
+    "m": "intergen"
+   },
+   {
+    "t": "用身體與舞蹈處理生活題材，適合不擅言語表達的居民。",
+    "te": "Handle life themes through the body and dance, suiting residents who are not used to putting things into words.",
+    "m": "craft"
+   }
+  ],
   "ibaeContext": [
    "人",
    "地"
@@ -1722,11 +2229,30 @@
    "原住民族",
    "兒童"
   ],
-  "summary": "臺東縣政府文化處／臺東美術館自 2021 年起推動的藝術駐地共創計畫，有別於一般讓藝術家『脫離原生活環境』的駐村，強調藝術家與地方館舍、在地居民與環境『互為主體』地交會共創，並藉此盤點地方空間、挹注資源、培養在地藝術行政人才。歷年以不同主題進行：2021『復返：土地的節奏』、2022『復返：海洋的節奏』、2023『複複返：重思地景』（蔡坤霖於成功鎮原住民文物館的《眾聲象》聲音裝置特展即為此年成果之一）、2024『怎麼絆』（開放臺東縣內館舍申請，媒合三組進駐土坂、長濱、知本各兩個月）、2026『伏流』（如阮仲凱於大武的《遊廊》）。",
+  "summary": "「交會地方・藝駐共創」是臺東縣政府文化處／臺東美術館自 2021 年起推動的藝術駐地共創計畫，在臺東縣各地的地方館舍與藝文據點（成功、知本、長濱、土坂、大武等）進行。有別於一般讓藝術家「脫離原生活環境」的駐村，它強調藝術家與地方館舍、在地居民與環境「互為主體」地交會共創，並藉此盤點地方空間、挹注資源、培養在地藝術行政人才。\n\n歷年以不同主題進行：2021「復返：土地的節奏」、2022「復返：海洋的節奏」、2023「複複返：重思地景」（蔡坤霖於成功鎮原住民文物館的《眾聲象》聲音裝置特展即為此年成果之一）、2024「怎麼絆」（開放臺東縣內館舍申請，媒合三組進駐土坂、長濱、知本各兩個月）。\n\n2026 為「伏流」，如阮仲凱於大武的《遊廊》。2024 年的三組駐地共創，由計畫觀察員在典藏 ARTouch 南方潛能專欄記錄。",
   "selfDesc": "典藏ARTouch 南方潛能專欄（呂佩怡，2024-12-06）作為計畫觀察員，記錄 2024『怎麼絆』三組藝術家（賴有豐／知本饒愛琴伊命工作室、羅聿綺／長濱烤茶地、陳昱蓁與李沛倫／土坂友善店家）的駐地共創，並追溯 2021–2024 歷年參與藝術家與館舍；文中援引吳瑪悧 2006『北回歸線環境藝術行動』的『藝術家成為居民、居民成為藝術家』，說明此計畫互為主體、重過程甚於結果。臺東縣政府文化處、臺東美術館的官方頁面與新書發表、兩岸好報（2026『伏流』阮仲凱《遊廊》）、東台灣研究會與土坂時間等頁面，分別佐證各年度的進駐與成果發表。",
   "editNote": "2026-11-14 依使用者決定，將本案從單一的 2023《眾聲象》特展（蔡坤霖，成功鎮）擴大為整個『交會地方・藝駐共創』跨年計畫（2021–），《眾聲象》列為 2023『複複返』年度的例子之一。各來源分屬不同年度：ARTouch 專欄與東台灣研究會、土坂時間、Art Map 為 2024『怎麼絆』；兩岸好報與文化處新書發表頁為 2026『伏流』；風傳媒與臺東藝文平台頁為 2023《眾聲象》。計畫各年度『共創』深度不一（如《眾聲象》報導中居民較偏觀眾、2024 土坂則有部落族人共作），單一年度的細節仍以該年來源為準。臺東縣政府新聞頁（News_Content n=13370）本次因 robots 限制無法開啟核對、未納入；使用者提供的 share.google 連結轉向 YouTube 播放清單（影片），未作為文字來源。",
   "educatorRole": "mixed",
-  "pedagogicalInsight": "這個計畫本身就是一套『互為主體共創』的方法論，對教育工作者參考價值高：它刻意不同於『讓藝術家脫離原環境』的傳統駐村，而是讓藝術家與在地館舍、居民、環境彼此交會、共同創作，並把地方館舍當成藝術家與地方之間的橋樑。可借鏡的具體做法包括：為每位藝術家搭配一名在地『藝術行政』當橋樑、以兩個月的較長駐地換取真實關係、以『種籽紙工作坊』『割稻共食』等從在地生活長出來的題材共創。要提醒的是：各年度、各組的『共創』程度不一，用『共創』一詞時仍要看清楚究竟是誰在創作。",
+  "pedagogicalInsight": "這個計畫本身就是一套「互為主體共創」的方法論：它刻意不同於「讓藝術家脫離原環境」的傳統駐村，並把地方館舍當成藝術家與地方之間的橋樑。要提醒的是：各年度、各組的「共創」程度不一，用「共創」一詞時仍要看清楚究竟是誰在創作。",
+  "techniques": [
+   {
+    "t": "為每位藝術家搭配一名在地「藝術行政」當橋樑。",
+    "te": "Pair each artist with a local “art administrator” as a bridge."
+   },
+   {
+    "t": "以兩個月的較長駐地換取真實關係。",
+    "te": "Trade a longer two-month residency for real relationships."
+   },
+   {
+    "t": "以「種籽紙工作坊」「割稻共食」等從在地生活長出來的題材共創。",
+    "te": "Co-create from themes that grow out of local life, such as seed-paper workshops and shared meals at rice harvest.",
+    "m": "food"
+   },
+   {
+    "t": "把地方館舍當成藝術家與地方之間的橋樑。",
+    "te": "Treat local venues as bridges between artists and the place."
+   }
+  ],
   "ibaeContext": [
    "人",
    "地",
@@ -1802,10 +2328,25 @@
   "audience": [
    "地方居民"
   ],
-  "summary": "展覽選在土坂村的老屋舉行，以老屋家中收藏的舊器物為主，讓器物帶出排灣族家庭與部落的故事；策展人也談到工藝、服飾與祭儀等文化脈絡。開幕當天安排茶會、導覽與表演，參觀民眾分享被故事觸動的感受。",
+  "summary": "「交織・故事」展覽在達仁鄉土坂村 Sadiljapan 老屋舉行，2026 年 10 月 1 日至 11 月 15 日（依使用者提供）；報導於 10 月 29 日稱「即日起」展出。\n\n展覽以老屋家中收藏的舊器物為主，包括母親留下的物品與家人日常使用的器具，策展人要從家中收藏品出發，探究器物的歷史與家族故事，讓器物帶出排灣族家庭與部落的故事。\n\n策展人也談到工藝、服飾與祭儀等文化脈絡，讓不同世代的族人認識過去的生活。開幕當天安排茶會、導覽與表演，參觀民眾分享被故事觸動的感受。",
   "selfDesc": "報導指展品包括母親留下的物品與家人日常使用的器具，策展人要從家中收藏品出發，探究器物的歷史與家族故事，並延伸到排灣族工藝、服飾、祭儀與歷史脈絡，讓不同世代的族人認識過去的生活。",
   "educatorRole": "artist-led",
-  "pedagogicalInsight": "用老屋裡『母親留下的物品、家人日常的器具』當展品，讓器物自己說排灣族的家族故事——『以物件敘事』很適合學校，一件舊東西就能開一堂家族史的課。要提醒的是：居民是否參與策展報導沒有說明，偏策展導向。",
+  "pedagogicalInsight": "用老屋裡「母親留下的物品、家人日常的器具」當展品，讓器物自己說排灣族的家族故事，「以物件敘事」很適合學校，一件舊東西就能開一堂家族史的課。要提醒的是：居民是否參與策展，報導沒有說明，偏策展導向。",
+  "techniques": [
+   {
+    "t": "以老屋裡母親留下的物品、家人日常的器具當展品，讓器物自己說故事。",
+    "te": "Use things left by a mother and the family’s everyday utensils in the old house as exhibits and let the objects tell the story.",
+    "m": "oral"
+   },
+   {
+    "t": "從一件舊東西出發，往外延伸到工藝、服飾、祭儀與歷史脈絡。",
+    "te": "Start from one old object and extend outward to craft, dress, ritual and historical context."
+   },
+   {
+    "t": "開幕安排茶會、導覽與表演，讓族人與參觀者交流感受。",
+    "te": "Hold a tea gathering, tours and performances at the opening so villagers and visitors can share their responses."
+   }
+  ],
   "ibaeContext": [
    "人",
    "地"
@@ -1846,10 +2387,24 @@
   ],
   "practice": "策展與展覽",
   "audience": [],
-  "summary": "高美館把 2021 年夏季大展辦成以海洋與島嶼為核心的國際藝術祭，邀請二十多組藝術家處理南島語族遷徙、大航海時代的文化碰撞、殖民與資源開採留下的痕跡，以及島嶼之間的相遇、碰撞與和解；展覽從館內延伸到內惟埤塘周邊的戶外園區，那裡有水系植物生態復甦工作。",
+  "summary": "泛‧南‧島藝術祭是高雄市立美術館的 2021 年夏季大展，依高美館官網新聞稿展期為 7 月 17 日至 10 月 31 日，2022 年 5 月 7 日至 6 月 26 日另有美國華府海外展。展覽從館內延伸到內惟埤塘周邊的戶外園區，那裡有水系植物生態復甦工作。\n\n高美館把展覽辦成以海洋與島嶼為核心的國際藝術祭，邀請二十多組藝術家處理南島語族遷徙、大航海時代的文化碰撞、殖民與資源開採留下的痕跡，以及島嶼之間的相遇、碰撞與和解。策展團隊 2019 年開始籌劃；三大主題〈從已知到未知〉〈暗黑島嶼〉〈生生流轉〉分別對應相遇、碰撞與和解，館長強調要避免只有「雜音」而沒有「和音」的多元。\n\n戶外園區以海漂植物為標的、採「有機地景」概念，建築師盧建銘帶領原專班學生重新梳理園區並恢復植物生態。部分參展藝術家代表台灣參加日惹雙年展台灣館；2022 年另有四組台灣藝術家赴華府「流動的邊界」展出。",
   "selfDesc": "關鍵評論網的專訪指展覽三大主題〈從已知到未知〉〈暗黑島嶼〉〈生生流轉〉分別對應相遇、碰撞與和解，館長強調要避免只有「雜音」而沒有「和音」的多元。策展團隊 2019 年開始籌劃。戶外園區以海漂植物為標的、採「有機地景」概念，建築師盧建銘帶領原專班學生重新梳理園區並恢復植物生態。部分參展藝術家（拉黑子・達立夫、張致中、邱杰森與莫珊嵐）代表台灣參加日惹雙年展台灣館；2022 年另有四組台灣藝術家赴華府「流動的邊界」展出。",
   "educatorRole": "artist-led",
-  "pedagogicalInsight": "這是大型美術館策展，社區參與很弱；對教育者比較有用的是它的『主題架構』——用相遇／碰撞／和解三個子題談南島遷徙與殖民，這套框架可借來組織一堂南島文化的課。要提醒的是：策展導向，不是參與式。",
+  "pedagogicalInsight": "這是大型美術館策展，社區參與很弱；對教育者比較有用的是它的「主題架構」：用相遇／碰撞／和解三個子題談南島遷徙與殖民，這套框架可借來組織一堂南島文化的課。要提醒的是：策展導向，不是參與式。",
+  "techniques": [
+   {
+    "t": "用「相遇／碰撞／和解」三個子題，組織南島遷徙與殖民的主題。",
+    "te": "Use three sub-themes — encounter, collision and reconciliation — to organise a theme on Austronesian migration and colonisation."
+   },
+   {
+    "t": "把展覽從館內延伸到戶外園區，與水系植物生態復甦連在一起。",
+    "te": "Extend the exhibition from the galleries to an outdoor park, linking it to water-system plant ecology restoration."
+   },
+   {
+    "t": "由建築師帶領原專班學生整理園區、恢復植物生態。",
+    "te": "Have an architect lead students of the Indigenous special class to tidy the park and restore plant ecology."
+   }
+  ],
   "ibaeContext": [
    "人",
    "時"
@@ -1910,10 +2465,29 @@
    "榮民",
    "長者"
   ],
-  "summary": "北藝大團隊從 2014 年起進入臺北榮譽國民之家，長期與韓戰反共義士相處，2016 年起以「義家藝館」為名，把義士的生活空間變成創作與展演的現場。2019 年適逢義士來臺 65 年，計畫回到家史室的歷史文件，追問「自由」這個詞怎麼被定義與使用，並在國際博物館日以半日展對外發表。GPI 政府出版品資訊網 2022 年的書評則指出，義士在共創過程中從外圍的觀眾變成參與者，以自己為主體思考自由、家國、創傷與生死觀；疫情期間原定的線下展出曾改為線上展覽。",
+  "summary": "義家藝館是北藝大團隊從 2014 年起進入臺北榮譽國民之家（義士之家）、長期與韓戰反共義士相處的計畫；2016 年起以「義家藝館」為名，把義士的生活空間變成創作與展演的現場，每年於國際博物館日發表半日展。計畫網站說明構想是把義士之家轉化為藝術性生態博物館，著重共創歷程而非成品，並搭配選修課程進行。\n\n2019 年適逢義士來臺 65 年，策展團隊重新整理家史室，以泛黃文件上的句子「怎樣在一百八十天內，成為一個完全的自由人！」為題，駐站藝術家與教師以「藝述實踐」探討自由如何被再現與詮釋，並邀請參與者共同思考，計畫回到家史室的歷史文件，追問「自由」這個詞怎麼被定義與使用。\n\n2019 年於 5 月 18 日以半日展對外發表。GPI 政府出版品資訊網 2022 年的書評指出，義士在共創過程中從外圍的觀眾變成參與者，以自己為主體思考自由、家國、創傷與生死觀；疫情期間原定的線下展出曾改為線上展覽。",
   "selfDesc": "計畫網站說明構想是把義士之家轉化為藝術性生態博物館，著重共創歷程而非成品，並搭配選修課程進行；2019 年由策展團隊重新整理家史室，以泛黃文件上的句子「怎樣在一百八十天內，成為一個完全的自由人！」為題，駐站藝術家與教師以「藝述實踐」探討自由如何被再現與詮釋，並邀請參與者共同思考。GPI 書評（曾怡評吳岱融《當教學成為形式》）另寫到：吳岱融發展「藝術家教師駐館計畫」，鼓勵修課學生現地創作；參與者包括學生、藝術家教師，以及台北榮家的義士居民與行政團隊；書評形容義士經由藝術創作自我賦權、成為創作主體。",
   "educatorRole": "facilitator-led",
-  "pedagogicalInsight": "這是把「教學過程本身」當成創作的計畫，對帶長期工作坊的老師特別有參考價值。幾個可借用的手法：（1）用現成的歷史文件當提問起點——團隊從榮家家史室一句泛黃的「怎樣在一百八十天內，成為一個完全的自由人」出發，讓「自由」這個大題目從真實文件裡長出來，而不是老師先定好主題。（2）把場地本身變成「概念性生態博物館」——不另外搭展場，直接在參與者的生活空間裡創作，拉近彼此距離。（3）重歷程勝於成品——書評用「當教學成為形式」形容它，參與者從被看的對象變成共同創作者。帶領者可以自問：我的提問是從參與者的生活裡浮現的，還是我預設好了答案？要提醒的是：義士（參與者）在個別作品裡有多少決定權，來源沒有細寫，實際的共創程度仍待查。",
+  "pedagogicalInsight": "這是把「教學過程本身」當成創作的計畫，對帶長期工作坊的老師特別有參考價值。帶領者可以自問：我的提問是從參與者的生活裡浮現的，還是我預設好了答案？要提醒的是：義士（參與者）在個別作品裡有多少決定權，來源沒有細寫，實際的共創程度仍待查。",
+  "techniques": [
+   {
+    "t": "用現成的歷史文件當提問起點：從家史室一句泛黃的「怎樣在一百八十天內，成為一個完全的自由人」出發，讓大題目從真實文件裡長出來。",
+    "te": "Use an existing historical document as the starting question: begin from a yellowed line in the family-history room so the big theme grows out of a real document.",
+    "m": "document"
+   },
+   {
+    "t": "把場地本身變成「概念性生態博物館」：不另外搭展場，直接在參與者的生活空間裡創作。",
+    "te": "Make the site itself a “conceptual ecomuseum”: no separate exhibition venue, make work directly in the participants’ living space."
+   },
+   {
+    "t": "重歷程勝於成品：讓參與者從被看的對象變成共同創作者。",
+    "te": "Value process over product: let participants move from being looked at to being co-creators."
+   },
+   {
+    "t": "每年固定在國際博物館日發表半日展，讓長期合作有一個定期的出口。",
+    "te": "Present a half-day exhibition every year on International Museum Day, giving long-term collaboration a regular outlet."
+   }
+  ],
   "ibaeContext": [
    "人",
    "時",
@@ -1969,10 +2543,30 @@
   "audience": [
    "青少年"
   ],
-  "summary": "台灣好基金會自 2017 年起在新竹誠正中學推動「逆風計畫」，把藝術帶進少年矯正學校：差事劇團帶領互動式戲劇遊戲，從少年的生命經驗蒐集故事、共同編劇；雲門舞集舞蹈教室帶領武術與生活律動，練習專注、耐受力與身體表達；另有一個班級的少年在策展人盧德真帶領下，花約十個月用影像記錄自己與彼此。成果以影像展在台北中山地下書街對外發表。",
+  "summary": "逆風計畫由台灣好基金會自 2017 年起在新竹誠正中學（少年矯正學校）推動，把藝術帶進矯正學校。\n\n差事劇團帶領互動式戲劇遊戲，從少年的生命經驗蒐集故事、共同編劇；雲門舞集舞蹈教室帶領武術與生活律動，練習專注、耐受力與身體表達；另有一個班級的少年在策展人盧德真帶領下，花約十個月用影像記錄自己與彼此。戲劇組與武術組各 15 名學生，影像展班級 30 名少年。\n\n成果以影像展於 2018 年 7 月 12 日起（展期至 7 月 30 日）在台北中山地下書街（誠品 R79）對外發表，展覽有「身體肖像」、由少年自行掌鏡的「底片日記」與記錄戲劇與舞蹈工作坊的「舞蹈劇場」三個主題。",
   "selfDesc": "中央社（2018-07-12）寫到戲劇組與武術組各 15 名學生，影像展班級 30 名少年，影像展由台灣好基金會與誠品書店共同主辦。台灣好基金會的展覽頁面說明展覽有三個主題：「身體肖像」、由少年自行掌鏡的「底片日記」，以及記錄戲劇與舞蹈工作坊的「舞蹈劇場」。端傳媒（2018-11-03）指誠正中學是台灣第一間實施感化教育的少年矯正學校，並寫到計畫透過舞蹈、戲劇和攝影，帶少年練習舞蹈發表與戲劇走位。",
   "educatorRole": "facilitator-led",
-  "pedagogicalInsight": "在矯正學校用戲劇、武術、影像三條線並行：戲劇從少年的生命故事編劇、影像由少年自己掌鏡——讓『非典型』學生握有創作主導權，是這個案例最值得借鏡的地方。要提醒的是：少年是未成年收容人，成果呈現要特別保護個資。",
+  "pedagogicalInsight": "在矯正學校用戲劇、武術、影像三條線並行：戲劇從少年的生命故事編劇、影像由少年自己掌鏡，讓「非典型」學生握有創作主導權，是這個案例最值得借鏡的地方。要提醒的是：少年是未成年收容人，成果呈現要特別保護個資。",
+  "techniques": [
+   {
+    "t": "用互動式戲劇遊戲，從少年的生命經驗蒐集故事、共同編劇。",
+    "te": "Use interactive drama games to collect stories from the youths’ life experience and write the play together.",
+    "m": "theatre"
+   },
+   {
+    "t": "讓少年自己掌鏡，用約十個月的影像記錄自己與彼此。",
+    "te": "Let the youths hold the camera themselves and record themselves and each other over about ten months.",
+    "m": "photovoice"
+   },
+   {
+    "t": "用武術與生活律動練習專注、耐受力與身體表達。",
+    "te": "Use martial arts and everyday movement to practise focus, endurance and bodily expression."
+   },
+   {
+    "t": "成果辦成影像展，讓少年的作品走出學校被看見。",
+    "te": "Present the results as a photo exhibition so the youths’ work leaves the school and is seen."
+   }
+  ],
   "ibaeContext": [
    "人"
   ],
@@ -2022,10 +2616,29 @@
   "audience": [
    "青少年"
   ],
-  "summary": "故宮教育團隊與誠正中學師生合作，成果在學校禮堂展出：展場有故宮文物複製品、VR 與影片，也展出學生以粉彩、漫畫、禪繞畫、LINE 貼圖、雕塑、動力自造與音樂詞曲創作的作品，學生並擔任導覽解說。大紀元寫籌備期間花了將近 9 個月教導學生相關技能。",
+  "summary": "「聽見上河的聲音」是國立故宮博物院非典型教育展，2019 年 12 月 20 日至 29 日在新竹縣誠正中學行政大樓 3 樓禮堂舉行。故宮自 1990 年代起以巡迴展服務收容人，2010 年起與矯正機關合作複製文物展示，2012 年起合作規劃藝術課程、培訓青少年收容人導覽。\n\n這次故宮教育團隊與誠正中學校內國文、數學、汽機車修護與電腦職訓課程教師合作，將【清 院本 清明上河圖】融入教學；並從【宋 蘇軾 書黃州寒食詩】連結學生生命經驗、延伸當代饒舌韻腳，學生自己作詞作曲。籌備期間花了將近 9 個月教導學生相關技能。\n\n展場有故宮文物複製品、VR 與影片，也展出學生以粉彩、漫畫、禪繞畫、LINE 貼圖、雕塑、動力自造與音樂詞曲創作的作品，學生並擔任導覽解說，少年的全名與容貌不顯影，以音樂、口述與文字表達心聲。",
   "selfDesc": "依故宮官方貼文與誠正中學/矯正署新聞稿：故宮自 1990 年代起以巡迴展服務收容人，自民國 99 年（2010）起與台北監獄等 7 所矯正機關合作複製文物展示，2012 年起與矯正機構合作規劃藝術課程、培訓青少年收容人導覽（原媒體寫的 2010 與 2012 分屬不同階段，並不矛盾）。本次與誠正中學校內國文、數學、汽機車修護與電腦職訓課程教師合作，將【清 院本 清明上河圖】融入教學；並從【宋 蘇軾 書黃州寒食詩】連結學生生命經驗、延伸當代饒舌韻腳，學生自己作詞作曲。故宮另與心突破職涯探索協會合作、透過 104 希望基金會邀油漆工程、搬家師傅、塔羅牌占卜師等職人入校，為學生離校後職涯探索作準備。展覽由學生擔任導覽，少年的全名與容貌不顯影，以音樂、口述與文字表達心聲。",
   "educatorRole": "facilitator-led",
-  "pedagogicalInsight": "把故宮文物（清明上河圖、寒食帖）當起點，讓矯正學校學生用粉彩、漫畫、貼圖等多種媒材重新詮釋，還自己當導覽——示範了『用高門檻的經典文物，做低門檻的親近設計』。要提醒的是：報導像新聞稿，學生如何參與創作沒有細寫。",
+  "pedagogicalInsight": "把故宮文物（清明上河圖、寒食帖）當起點，讓矯正學校學生用粉彩、漫畫、貼圖等多種媒材重新詮釋，還自己當導覽，示範了「用高門檻的經典文物，做低門檻的親近設計」。要提醒的是：報導像新聞稿，學生如何參與創作沒有細寫。",
+  "techniques": [
+   {
+    "t": "以故宮文物（清明上河圖、寒食帖）當起點，連到學生的生命經驗。",
+    "te": "Take Palace Museum objects (Along the River, the Cold Food poem) as the starting point and link them to students’ life experience.",
+    "m": "document"
+   },
+   {
+    "t": "讓學生用粉彩、漫畫、LINE 貼圖等多種媒材重新詮釋文物。",
+    "te": "Let students reinterpret the objects in many media such as pastel, comics and LINE stickers."
+   },
+   {
+    "t": "延伸到當代饒舌韻腳，學生自己作詞作曲。",
+    "te": "Extend to contemporary rap rhymes, with students writing their own lyrics and music."
+   },
+   {
+    "t": "由學生擔任導覽解說，並保護少年的全名與容貌。",
+    "te": "Have students serve as guides, while protecting the youths’ full names and faces."
+   }
+  ],
   "ibaeContext": [
    "人"
   ],
@@ -2091,10 +2704,30 @@
    "社會參與式藝術"
   ],
   "audience": [],
-  "summary": "原型樂園是 2012 年正式開始運作的當代表演團體，以「跟現實互動」為核心，把表演放進真實空間，邀請不以藝術為職業的人擔任「日常生活專家」，比起「取材」，團隊自己形容做的更像「擾動」。作品常以訪談為基礎，主角包括攤商、清潔隊員、美術館第一線工作人員與移工，見下方子計畫。",
+  "summary": "原型樂園是 2012 年正式開始運作的當代表演團體，以「跟現實互動」為核心，把表演放進真實空間，作品常以訪談為基礎；本平台讀得到的計畫有 2015、2023、2026 年，2023 年的地點含台北環南市場與臺東美術館園區。\n\n團隊邀請不以藝術為職業的人擔任「日常生活專家」，比起「取材」，團隊自己形容做的更像「擾動」；主角包括攤商、清潔隊員、美術館第一線工作人員與移工，見案例頁下方子計畫。\n\nC-LAB 專訪（侯伯彥撰文，2022-11-10）寫到，「日常生活專家」是里米尼紀錄劇團發明的詞彙，指不以藝術為職業或專業、也並非真正表演者的素人；團隊作為創作方，尤其要注意不影響清潔隊員的工作，並需要付出溝通成本與配套措施，確保一切在知情同意下進行。",
   "selfDesc": "C-LAB 專訪（侯伯彥撰文，2022-11-10）寫到，「日常生活專家」是里米尼紀錄劇團發明的詞彙，指不以藝術為職業或專業、也並非真正表演者的素人；團隊作為創作方，尤其要注意不影響清潔隊員的工作，並需要付出溝通成本與配套措施，確保一切在知情同意下進行。",
   "educatorRole": "mixed",
-  "pedagogicalInsight": "這個團體跨了整個光譜——台東那場讓青少年當『心聲採集者』自己去訪談（促進者主導），環南夜鶯則是藝術家把攤商自白剪成聲音劇場（藝術家主導）。對教育者，最值得學的是『日常生活專家』這個定位：把不是藝術家的人當成某個領域的專家來邀請，而不是當素人。知情同意、不影響當事人工作的倫理，也是帶參與式計畫的必修。",
+  "pedagogicalInsight": "這個團體跨了整個光譜：台東那場讓青少年當「心聲採集者」自己去訪談（促進者主導），環南夜鶯則是藝術家把攤商自白剪成聲音劇場（藝術家主導）。對教育者，最值得學的是「日常生活專家」這個定位：把不是藝術家的人當成某個領域的專家來邀請，而不是當素人。知情同意、不影響當事人工作的倫理，也是帶參與式計畫的必修。",
+  "techniques": [
+   {
+    "t": "把不是藝術家的人當成某個領域的「日常生活專家」來邀請，而不是當素人。",
+    "te": "Invite non-artists as “everyday-life experts” in some field rather than as amateurs."
+   },
+   {
+    "t": "讓青少年當「心聲採集者」，自己去訪談。",
+    "te": "Let teenagers be “collectors of voices” and do the interviews themselves.",
+    "m": "photovoice"
+   },
+   {
+    "t": "把攤商的自白剪輯成聲音劇場。",
+    "te": "Edit stall holders’ confessions into sound theatre.",
+    "m": "sound"
+   },
+   {
+    "t": "在知情同意下進行，並避免影響當事人的工作。",
+    "te": "Proceed with informed consent and avoid disrupting people’s work."
+   }
+  ],
   "ibaeContext": [
    "人",
    "地"
@@ -2194,11 +2827,31 @@
    "青少年",
    "長者"
   ],
-  "summary": "人劇團團長蔡旻霓自 2022 年提出《看見灘地》孵育計畫，2023 年與芳苑仁愛社區發展協會成立社區劇場：先做田野踏查，再以集體即興和十幾位芳苑在地素人（含 90 歲長者與國中生）共創劇本，把漁村生活、漁歌與口述記憶編成戲，在泥灘與潮間帶上演。此後逐年擴大：2024 年 6 月辦《破豆藝術祭 in 芳苑》、10 月加入彰化劇場藝術節並移師員林演藝廳演出，2025 年（第三年）擴大為由芳苑地方社團互助響應、串連政府資源的藝術季。2026 屆藝術季 7/26–8/1 以四大系列（潮聚落、潮劇場、潮市集、潮影像）呈現，主題是漁村文化記憶與灘地環境共生。",
+  "summary": "潮芳苑｜看見灘地藝術季是人劇團在彰化縣芳苑鄉（漁民廣場、潮間帶、紅樹林海空步道、普天宮）的社區劇場與藝術季，2026 屆為 7 月 26 日至 8 月 1 日，社區劇場自 2023 年成立。人劇團團長蔡旻霓 2022 年提出《看見灘地》孵育計畫，2023 年與芳苑仁愛社區發展協會成立社區劇場。\n\n他們先做田野踏查，再以集體即興和十幾位芳苑在地素人（含 90 歲長者與國中生）共創劇本，把漁村生活、漁歌與口述記憶編成戲，在泥灘與潮間帶上演，完成《芳苑，我們的故鄉》。蔡旻霓說「集體即興創作是我的工作方法」。免費戲劇課曾因報名人數不足而由協會理事長擴大招生。\n\n此後逐年擴大：2024 年 6 月辦《破豆藝術祭 in 芳苑》、10 月加入彰化劇場藝術節並移師員林演藝廳演出，2025 年（第三年）擴大為由芳苑地方社團互助響應、串連政府資源的藝術季。2026 屆以四大系列（潮聚落、潮劇場、潮市集、潮影像）呈現，主題是漁村文化記憶與灘地環境共生，潮辦桌 40 桌逾 400 人，芳苑國中醒獅鼓陣開幕。",
   "selfDesc": "《報導者》2025 年的深度報導寫到，蔡旻霓 2021 年認識紀錄片導演柯金源、2022 年提孵育計畫、2023 年與社區協會成立社區劇場並完成《芳苑，我們的故鄉》；她說「集體即興創作是我的工作方法」，演出者是十幾位在地素人，年齡橫跨數十歲。免費戲劇課曾因報名人數不足而由協會理事長擴大招生。聯合報 2026 年報導 2026 屆四大系列、潮辦桌 40 桌逾 400 人、芳苑國中醒獅鼓陣開幕，並寫人劇團已連續四年參與灘地藝術活動。",
   "editNote": "這是本批候選中唯一有獨立媒體深度報導的案例：《報導者》是獨立調查報導、聯合報是新聞報導，分別證實社區劇場的成形與本屆活動規模。「潮辦桌」一詞為平台整理（聯合報寫 40 桌逾 400 人，未用此詞）。「看見灘地藝術季」與「人劇團社區劇場」是相關但不同層次——前者是鄉公所串連資源的大型活動，後者是人劇團長期經營的社區劇場；平台以「計畫」整體收錄。2026 屆居民演出者的確切人數與身分、2025 與 2026 的屆次連續性，報導沒有逐一說明。計畫逐年擴大的時間線（2024 年《破豆藝術祭 in 芳苑》、10 月移師員林演藝廳；2025 年擴大為藝術季）與光電、離岸風機開發爭議、仁愛社區八成多為 65 歲以上長者等背景，均經《報導者》原文（洪伃青，2025-08-17）核對屬實。",
   "educatorRole": "facilitator-led",
-  "pedagogicalInsight": "這是「素人做戲」最完整的案例之一：帶領者不教表演，而是用集體即興，讓居民把自己的漁村生活、漁歌與口述記憶變成戲。對帶社區或班級戲劇的老師，示範了「先田調、再共創、不追求專業演出」的完整流程，以及如何讓 90 歲長者和國中生同台。要提醒的是：免費戲劇課曾因報名不足而擴大招生，提醒參與式計畫的招募本身就是功課。",
+  "pedagogicalInsight": "這是「素人做戲」最完整的案例之一：帶領者不教表演，而是用集體即興，讓居民把自己的漁村生活、漁歌與口述記憶變成戲。要提醒的是：免費戲劇課曾因報名不足而擴大招生，提醒參與式計畫的招募本身就是功課。",
+  "techniques": [
+   {
+    "t": "先做田野踏查，再共創劇本，不追求專業演出。",
+    "te": "Do field walks first, then co-create the script, without aiming for a professional production.",
+    "m": "theatre"
+   },
+   {
+    "t": "用集體即興，讓居民把漁村生活、漁歌與口述記憶變成戲。",
+    "te": "Use collective improvisation to let residents turn fishing-village life, fishing songs and oral memories into a play.",
+    "m": "theatre"
+   },
+   {
+    "t": "讓 90 歲長者和國中生同台。",
+    "te": "Put a 90-year-old elder and junior-high students on the same stage."
+   },
+   {
+    "t": "逐年擴大，從社區劇場長成串連地方社團的藝術季。",
+    "te": "Grow year by year, from a community theatre into an arts festival linking local groups."
+   }
+  ],
   "ibaeContext": [
    "地",
    "人"
@@ -2241,11 +2894,29 @@
   "audience": [
    "地方居民"
   ],
-  "summary": "南迴藝術季以流域為概念，邀 4 組藝術家以駐村方式踏查南迴地景、與在地社區共處，作品分布在國小、火車站與共創基地：LUA RIVERA（墨西哥）在華源國小的〈長者〉、basakanlan 謝政義的〈生之韌〉、王冠東在金崙車站的〈共生之圓〉、陳聖志在啦里吧的〈冀・翼〉。另設走讀、工作坊與旅宿、餐桌等衛星據點。",
+  "summary": "2026 南迴藝術季「山徑之流」在臺東縣達仁、金峰、太麻里沿線（華源國小、嘉蘭、金崙車站、啦里吧共創基地等部落與據點）舉行，城市學寫展期為 7 月 1 日至 10 月 31 日。藝術季以流域為概念。\n\n邀 4 組藝術家以駐村方式踏查南迴地景、與在地社區共處，每位至少駐村 12 天，透過田野採集融入原住民族、閩南、客家與外籍等多元視角。作品分布在國小、火車站與共創基地：LUA RIVERA（墨西哥）在華源國小的〈長者〉、basakanlan 謝政義的〈生之韌〉、王冠東在金崙車站的〈共生之圓〉、陳聖志在啦里吧的〈冀・翼〉；王冠東駐村期間做排灣族田野調查並把元素放進作品。\n\n另設走讀、工作坊與旅宿、餐桌等衛星據點，並與在地業者推出限定「浪間野餐盒」。",
   "selfDesc": "城市學（遠見）整理：參展藝術家皆駐村至少 12 天，透過田野採集與居民共處，融入原住民族、閩南、客家與外籍等多元視角；王冠東在駐村期間做排灣族田野調查並把元素放進作品。藝術季並與在地業者推出限定「浪間野餐盒」。",
   "editNote": "來源有二：The Hub News 原報導（使用者提供，本平台未能直接讀取）與城市學懶人包（本平台讀到）。兩者對藝術家、作品、地點與駐村方式說法一致，但主辦、策劃與策展人只在原報導出現，城市學未再確認。兩者都沒有細寫部落居民實際參與創作的程度，且內容帶有觀光推廣（旅宿、餐桌、野餐盒）成分。與已收的台東案（K34 成功、K35 土坂、K27 跳浪）屬不同區域（南迴／排灣沿線），不重複。",
   "educatorRole": "artist-led",
-  "pedagogicalInsight": "藝術家以駐村至少 12 天、田野採集、與居民共處的方式創作，示範了「先在地生活、再創作」的駐村倫理；王冠東做排灣族田調再放進作品，是外來創作者進入原住民族文化的一種路徑。要提醒的是：居民多半是被田調、共處的對象，實際共創程度來源沒有細寫，加上有明顯觀光推廣成分，帶學生看時可一併討論「藝術季與觀光」的界線。",
+  "pedagogicalInsight": "藝術家以駐村至少 12 天、田野採集、與居民共處的方式創作，示範了「先在地生活、再創作」的駐村倫理。要提醒的是：居民多半是被田調、共處的對象，實際共創程度來源沒有細寫，加上有明顯觀光推廣成分，帶學生看時可一併討論「藝術季與觀光」的界線。",
+  "techniques": [
+   {
+    "t": "駐村至少 12 天，先在地生活、田野採集，再創作。",
+    "te": "Stay in residence for at least 12 days, living locally and doing field collection before making."
+   },
+   {
+    "t": "做在地族群的田野調查（如排灣族），再把元素放進作品。",
+    "te": "Do field research on the local people (such as the Paiwan) and bring its elements into the work."
+   },
+   {
+    "t": "把作品放在國小、火車站與共創基地等日常空間。",
+    "te": "Place works in everyday spaces such as a primary school, a railway station and a co-creation base."
+   },
+   {
+    "t": "設走讀、工作坊與衛星據點，讓人多種方式進入藝術季。",
+    "te": "Offer walking tours, workshops and satellite sites so people can enter the festival in different ways."
+   }
+  ],
   "ibaeContext": [
    "地",
    "人"
@@ -2297,11 +2968,25 @@
   "audience": [
    "青少年"
   ],
-  "summary": "無獨有偶劇團長年到偏鄉培育種子教師、帶學生創作偶戲。2026 年公益場中，宜蘭內城國中小的學生以家鄉的大樹公、土地公與水資源為題，編出《被許錯的願望》——一個關於過度許願、導致動物缺水、最後長出小樹公的故事；貢寮實驗國中則以淡蘭古道為題。作品在臺北中信金融園區的戶外公益場演出。",
+  "summary": "中信新舞臺藝術節公益場「夢想家圓夢工程」是 2026 年 9 月 12 日在臺北中信金融園區的戶外演出；無獨有偶劇團長年到偏鄉培育種子教師、帶學生創作偶戲，今年勝出的學校包括宜蘭利澤國小、東興國小、內城國中小與新北貢寮實中。\n\n宜蘭內城國中小的學生以家鄉的大樹公、土地公與水資源為題，編出《被許錯的願望》——一個關於過度許願、導致動物缺水、最後長出小樹公的故事；貢寮實驗國中則以淡蘭古道為題。\n\n公益場由無獨有偶與日本偶戲家 Nori SAWA 跨國共製的大型偶戲揭幕，並結合偏鄉師生編創的故事。",
   "selfDesc": "聯合報（2026-09-14，何定照）寫到，公益場由無獨有偶與日本偶戲家 Nori SAWA 跨國共製的大型偶戲揭幕，並結合偏鄉師生編創的故事；今年勝出的學校包括宜蘭利澤國小、東興國小、內城國中小與新北貢寮實中。計畫名稱「夢想家圓夢工程」只出現在其中一篇。",
   "editNote": "兩篇都是聯合報系報導，不算獨立互證，且內容不一致（只有一篇列出宜蘭三校與「夢想家圓夢工程」名稱）。這是企業基金會主辦的公益場，須留意企業形象成分。議題屬偏鄉教育與在地生態，與平台的 K38 逆風、K39 故宮同屬藝術教育類。各校實際參與人數、師資培育的運作方式，報導沒有細寫。",
   "educatorRole": "facilitator-led",
-  "pedagogicalInsight": "這是「種子教師＋學生創作」的典型：劇團不是去演給孩子看，而是培訓老師、帶學生把家鄉的信仰（大樹公、土地公）和水資源問題編成自己的偶戲。對偏鄉或在地課程的老師，示範了用偶戲這個媒介讓學生處理抽象的生態議題（過度許願＝水資源失衡）。要提醒的是：這是企業公益場，成果呈現帶有企業形象與展演壓力，和日常課堂的自由度不同。",
+  "pedagogicalInsight": "這是「種子教師＋學生創作」的典型：劇團不是去演給孩子看，而是培訓老師、帶學生把家鄉的信仰（大樹公、土地公）和水資源問題編成自己的偶戲。對偏鄉或在地課程的老師，示範了用偶戲讓學生處理抽象的生態議題（過度許願＝水資源失衡）。要提醒的是：這是企業公益場，成果呈現帶有企業形象與展演壓力，和日常課堂的自由度不同。",
+  "techniques": [
+   {
+    "t": "培訓種子教師，再由老師帶學生創作偶戲。",
+    "te": "Train seed teachers, who then guide students in creating puppet theatre."
+   },
+   {
+    "t": "以家鄉的信仰（大樹公、土地公）和水資源為題編故事。",
+    "te": "Build stories from local beliefs (the tree god, the Earth God) and water resources."
+   },
+   {
+    "t": "用偶戲處理抽象的生態議題（過度許願＝水資源失衡）。",
+    "te": "Use puppetry to handle an abstract ecological issue (over-wishing as water imbalance)."
+   }
+  ],
   "ibaeContext": [
    "地",
    "人"
@@ -2354,11 +3039,27 @@
    "地方居民",
    "兒童"
   ],
-  "summary": "彰化縣文化局為中興莊眷村園區的公共藝術設置，安排一系列讓民眾動手的行動：聲音採集與卡牌遊戲工作坊、木構搭建、親子互動劇場、VR 創作與攝影，目標是把原本封閉的眷村遺址轉為開放的公共場域，讓外界與居民一起重新看見這裡的生活記憶。",
+  "summary": "《眾人成莊：中興莊共景行動》是彰化縣文化局為中興莊眷村文化園區公共藝術設置所辦的民眾參與計畫，展覽 2026 年 5 月 2 日至 31 日，藝術行動在 5 月 2、3、9、10 日。\n\n安排一系列讓民眾動手的行動：聲音採集與卡牌遊戲工作坊、木構搭建、親子互動劇場、VR 創作與攝影。\n\n目標是把原本封閉的眷村遺址轉為開放的公共場域，讓外界與居民一起重新看見這裡的生活記憶。來源寫到活動日期、工作坊類型、藝術家與主辦單位，但沒有寫實際參與人數或成果。",
   "selfDesc": "來源寫到活動日期、工作坊類型、藝術家與主辦單位，但沒有寫實際參與人數或成果。",
   "editNote": "本計畫核心活動原僅有中央社「訊息平台」投稿（文末標示「訊息來源：彰化縣政府（廣告）」）一個來源、且本平台原未能直接讀取；現已另讀到風傳媒（王秀禾）與蕃新聞／觀傳媒（陳雅芳）兩篇署名報導，佐證主辦、藝術家與工作坊內容，但兩篇均引述文化局並使用縣府／文化局提供之圖文，與原廣編稿同源，非獨立採訪。另本平台讀到的風傳媒《同舟》報導是同園區不同作品，未提及本計畫，不能互證。實際參與人數、眷村原住戶是否參與創作、成果是否留存，仍無資料。收錄理由偏弱。",
   "educatorRole": "facilitator-led",
-  "pedagogicalInsight": "把一個原本封閉的眷村遺址，用聲音採集、卡牌遊戲、木構搭建等多種動手活動打開成公共場域，是文資活化常見的「以參與帶動開放」策略；它把單一場域拆成多種低門檻入口（聲音、遊戲、木構、VR），值得做地方文化的老師參考。要特別提醒：這筆的來源是縣府廣告稿、且本平台未能直接讀取，活動內容是規劃說法，實際參與與成果都沒有獨立佐證，當教案參考時要打折。",
+  "pedagogicalInsight": "把一個原本封閉的眷村遺址，用聲音採集、卡牌遊戲、木構搭建等多種動手活動打開成公共場域，是文資活化常見的「以參與帶動開放」策略；它把單一場域拆成多種低門檻入口，值得做地方文化的老師參考。要特別提醒：這筆的來源是縣府廣告稿、且本平台未能直接讀取，活動內容是規劃說法，實際參與與成果都沒有獨立佐證，當教案參考時要打折。",
+  "techniques": [
+   {
+    "t": "用聲音採集與卡牌遊戲工作坊，讓民眾動手重新看見眷村的生活記憶。",
+    "te": "Use sound-collection and card-game workshops to let people see the village’s living memories afresh by doing.",
+    "m": "sound"
+   },
+   {
+    "t": "把單一場域拆成聲音、遊戲、木構、VR 等多種低門檻入口。",
+    "te": "Split one site into several low-barrier entrances: sound, games, timber building and VR."
+   },
+   {
+    "t": "把活動辦在原本封閉的眷村遺址現場，並安排親子互動劇場。",
+    "te": "Hold the activities at the formerly closed village site itself and include parent-child interactive theatre.",
+    "m": "site"
+   }
+  ],
   "ibaeContext": [
    "地",
    "人"
@@ -2414,11 +3115,27 @@
   "audience": [
    "地方居民"
   ],
-  "summary": "藝術團隊與國際策展人把作品置入建國眷村的防空洞、崗哨、水塔等軍事遺構，結合舞蹈工作坊、講座與眷村導覽，讓眷村記憶以當代藝術的方式被看見；活動同時推廣建國二村的食農與環境教育方向。原定 10/24 因颱風延至 10/31，展至 11/1。",
+  "summary": "《2026 二村開門｜藝術・舞蹈・記憶《未歸的回聲》》是雲林縣虎尾鎮建國眷村（建國一村、二村）的藝術活動，2026 年 10 月 31 日登場，展期至 11 月 1 日，原定 10 月 24 日因颱風延期。\n\n藝術團隊與國際策展人把作品置入建國眷村的防空洞、崗哨、水塔等軍事遺構，結合舞蹈工作坊、講座與眷村導覽。\n\n讓眷村記憶以當代藝術的方式被看見；活動同時推廣建國二村的食農與環境教育方向。報導提到「地方參與」，但沒有具體說明居民如何參與策展或創作。",
   "selfDesc": "大紀元報導寫到策展團隊、場域、活動內容與日期；提到「地方參與」，但沒有具體說明居民如何參與策展或創作。",
   "editNote": "這檔藝術活動現有三個來源：使用者提供的大紀元（本平台未能直接讀取），以及本次新增、本平台實際讀取的中華日報（記者陳正芬現場自攝）與媒事網轉載台灣新聞網（記者李婉愉），後兩者互證主辦、策展團隊、場域與日期，中華日報為獨立現場採訪。居民或眷村住戶是否參與創作、工作坊參與人數，三個來源仍沒有說明；參與證據仍偏弱。大紀元的編輯立場常受討論，這裡只用來核對單位、場域與日期。",
   "educatorRole": "artist-led",
   "pedagogicalInsight": "把當代藝術作品直接放進防空洞、崗哨、水塔這些軍事遺構，是「以場域本身當展場」的文資活化手法，讓眷村記憶不靠解說牌、而靠空間被經驗。對做地方史的老師，示範了「讓歷史現場自己說話」。要提醒的是：來源提到「地方參與」但沒說居民怎麼參與，實際共創程度未明，偏策展導向。",
+  "techniques": [
+   {
+    "t": "把作品直接放進防空洞、崗哨、水塔等軍事遺構，以場域本身當展場。",
+    "te": "Place works directly in military remains such as air-raid shelters, sentry posts and a water tower, using the site itself as the gallery.",
+    "m": "site"
+   },
+   {
+    "t": "讓眷村記憶靠空間被經驗，而不是靠解說牌。",
+    "te": "Let village memory be experienced through space rather than wall labels.",
+    "m": "site"
+   },
+   {
+    "t": "搭配舞蹈工作坊、講座與眷村導覽，讓人用不同方式進入。",
+    "te": "Pair it with dance workshops, talks and village tours so people can come in in different ways."
+   }
+  ],
   "ibaeContext": [
    "地",
    "時"
@@ -2475,11 +3192,31 @@
    "青少年",
    "長者"
   ],
-  "summary": "連江縣政府以十年為期的大型藝術計畫，邀國內外藝術家把作品放進馬祖的戰地據點、碉堡、聚落與海洋生活，並以在地特有媒材（如馬祖玻璃酒瓶、海洋廢棄物）轉譯軍事空間。第一屆（2022，「島嶼釀」）有 41 組團隊、39 件作品，並有 50 位台灣志工登島協助「迴島嶼吧」子計畫；第三屆（2025，「拍楸——你的海洋，我的陸」）超過 50 件作品，分「前線馬祖」「島嶼的馬祖」「海洋的馬祖」三主軸，另有「十人十海」由地方師生與日本男木島居民共作。議題涵蓋戰地政務解除後的據點再生、常民記憶、閩東語復振、人口流失與海洋環境。",
+  "summary": "馬祖國際藝術島（十年藝術翻土計畫）是連江縣政府以十年為期的大型藝術計畫，2022 年起已辦三屆（2022、2023、2025），場域涵蓋連江縣四鄉五島（南竿、北竿、東引、東莒、西莒）的戰地據點、碉堡、防空洞、澳口與聚落民宅。《報導者》指出，縣府在 1992 年戰地政務解除後提出藝術島作為文化治理的第一步，目標是穩定觀光人流、深化文化價值與培育在地人才。\n\n計畫邀國內外藝術家把作品放進馬祖的戰地據點、聚落與海洋生活，並以在地特有媒材（如馬祖玻璃酒瓶、海洋廢棄物）轉譯軍事空間。第一屆（2022，「島嶼釀」）有 41 組團隊、39 件作品，並有 50 位台灣志工登島協助「迴島嶼吧」子計畫；第三屆（2025，「拍楸——你的海洋，我的陸」）超過 50 件作品，分「前線馬祖」「島嶼的馬祖」「海洋的馬祖」三主軸，另有「十人十海」由地方師生與日本男木島居民共作。\n\n議題涵蓋戰地政務解除後的據點再生、常民記憶、閩東語復振、人口流失與海洋環境。《報導者》也寫到，居民多把藝術島視為帶來遊客與收入的管道，對藝術本身較無感，宣傳期過短使作品較不顯眼，一名受訪學生說藝術島「還沒被放進當地人的行事曆」。",
   "selfDesc": "《報導者》（2024-08-03，馬雨辰）指出，連江縣政府在 1992 年戰地政務解除後，看重馬祖的閩東文化、戰地文化、擺暝信仰與生態，提出藝術島作為文化治理的第一步，目標是穩定觀光人流、深化文化價值與培育在地人才；報導也寫到，居民多把藝術島視為帶來遊客與收入的管道，對藝術本身較無感，宣傳期過短使作品較不顯眼，一名受訪學生說藝術島「還沒被放進當地人的行事曆」。央廣（2022-02-18，江昭倫）記錄第一屆由吳漢中總策劃、41 組團隊、39 件作品、8 個策展計畫、50 位志工（屬「迴島嶼吧」子計畫），縣府已選定 13 個營區與海防據點進行軍事文化遺產轉譯。非池中（第三屆報導）記錄 2025 年由連江縣政府與文化總會主辦、那高．卜沌等多位策展人、超過 50 件作品。",
   "editNote": "三屆的基本事實由三個獨立媒體互證：《報導者》（獨立深度報導）、央廣（新聞報導）、非池中（藝術媒體）。第二屆（2023，「生紅過夏」）只在《報導者》帶過，細節不足。幾點校正：候選資料寫的來源「城市頻道」實為遠見天下文化的《城市學》，且該篇是連江縣長施政滿意度專訪、藝術島只是帶過的政績之一，本平台只當背景參考，不列為藝術島本身的來源。「50 位志工登島」是第一屆「迴島嶼吧」子計畫的數字，不是三屆通用。第三屆為多人分區策展，那高．卜沌是年度主題策展人之一。居民參與程度：有具體合作對象（東莒大浦plus+、馬祖青年發展協會的閩東語復振、角力隊、四鄉五島國小師生、十人十海），但《報導者》也明確記錄居民對藝術島的疏離與保留，收錄時兩面並存，不簡化為「居民參與」。這是政府主導的大型觀光型藝術節，帶有文化治理與觀光推廣性質。本平台未收錄官方藝術島網站連結（候選資料未提供）。",
   "educatorRole": "mixed",
-  "pedagogicalInsight": "這是「大型藝術節如何與在地發生關係」最值得拿來討論的案例——不只看作品，更看它和居民之間的距離。正面可借鏡的是把特定場域（戰地碉堡、防空洞、澳口）和在地媒材（玻璃酒瓶、海廢）當成創作起點，以及「十人十海」讓國小師生共同描繪漁種、與外地（日本男木島）居民跨島共作的設計。但《報導者》記錄的居民疏離感同樣是教材：帶學生或工作坊時，可以一起追問『藝術節到底為誰而辦』『怎樣才算把在地放進來，而不只是把在地當背景』——這正是 IBAE 強調的「從脈絡出發，而非預設主題」的反面教材。",
+  "pedagogicalInsight": "這是「大型藝術節如何與在地發生關係」最值得拿來討論的案例，不只看作品，更看它和居民之間的距離。可借鏡的是把特定場域和在地媒材當成創作起點，以及「十人十海」的跨島共作設計；《報導者》記錄的居民疏離感同樣是教材，帶學生時可以一起追問「藝術節到底為誰而辦」，這正是 IBAE「從脈絡出發，而非預設主題」的反面教材。",
+  "techniques": [
+   {
+    "t": "把特定場域（戰地碉堡、防空洞、澳口）當成創作起點。",
+    "te": "Take particular sites (front-line bunkers, air-raid shelters, harbour inlets) as starting points for making.",
+    "m": "site"
+   },
+   {
+    "t": "用在地媒材（馬祖玻璃酒瓶、海洋廢棄物）轉譯軍事空間。",
+    "te": "Translate military space with local materials (Matsu glass liquor bottles, marine debris).",
+    "m": "material"
+   },
+   {
+    "t": "「十人十海」：讓地方師生與日本男木島居民跨島共作。",
+    "te": "“Ten People, Ten Seas”: have local teachers and students co-make with residents of Ogijima across the sea."
+   },
+   {
+    "t": "和學生一起追問：藝術節到底為誰而辦？怎樣才算把在地放進來，而不只是當背景？",
+    "te": "Ask students together: who is the festival for? What counts as putting the local in, rather than using it as background?"
+   }
+  ],
   "ibaeContext": [
    "地",
    "人",
@@ -2541,11 +3278,29 @@
   "audience": [
    "地方居民"
   ],
-  "summary": "臺南市政府文化局主辦、以曾文溪全流域為主角的「倡議型」大地藝術季，2022 年 10 月至 2023 年 1 月展出，主題「曾文溪的一千個名字」，以「河川法人化」為長期目標、「流域共同體」為行動核心。計畫分為小計畫、水計畫、竹材計畫、潛行攝影計畫、植生計畫、土壤計畫、農計畫、聲音計畫、原計畫九個單元，串連上游鄒族部落、中游曲流鄉村與下游水圳田塭的在地夥伴，並辦理「萬物議會」與「小事報」新聞營等公民參與活動。是 2026 年版（K32）的前一屆。",
+  "summary": "2022 Mattauw 大地藝術季《曾文溪的一千個名字》是臺南市政府文化局主辦、以曾文溪全流域為主角的「倡議型」大地藝術季，2022 年 10 月 15 日至 2023 年 1 月 29 日，展區含麻豆總爺藝文中心、渡拔、大隆田（各來源寫法不一），是 2026 年版（K32）的前一屆。官網自稱這是「全國首屆」以溪流全域為主體的大地藝術季，長期目標為「河川法人化」，以「流域共同體」為行動核心。\n\n官網寫到「三年的長期踏查蹲點」；計畫分為小計畫、水計畫、竹材計畫、潛行攝影計畫、植生計畫、土壤計畫、農計畫、聲音計畫、原計畫九個單元，串連上游鄒族部落、中游曲流鄉村與下游水圳田塭的在地夥伴。\n\n並辦理「萬物議會」與「小事報」新聞營等公民參與活動，另有三項聯合展演。報導者「潛行攝影計畫」專題則記錄多位攝影與文字創作者沿流域長期蹲點，拍到鄒族現代獵人、芒果果農、「掌水人」與多元文化家庭青年。",
   "selfDesc": "官方網站「關於」頁自稱這是「全國首屆」以溪流全域為主體的大地藝術季，長期目標為「河川法人化」，以「流域共同體」為行動與意識的核心，號召民眾「以身體交換身體」走入溪流萬物的生命場域；頁面並寫到「三年的長期踏查蹲點」與「三年的踏查調研」，列出九大子計畫與三項聯合展演（2022再壹波藝術節、簡吉與日治台灣農民運動特展、「曾文溪的一千個名字＋1大埔篇：水鄉藝術行動」），並寫到串連上游鄒族部落、中游曲流鄉村與下游水圳田塭的在地夥伴，透過「萬物議會」與「小事報」新聞營推動公民參與與公民審議。風傳媒（2022）稱它是「台灣首個聚焦溪流權益的藝術季」，由臺南市文化局主辦，並寫到邀請嘉義縣政府與水利署簽署流域治理協議（是否完成簽署該文未寫）。報導者「潛行攝影計畫」專題則記錄多位攝影與文字創作者沿流域長期蹲點，拍到鄒族現代獵人、芒果果農、「掌水人」與多元文化家庭青年。",
   "editNote": "屆次與頻率：官網稱「全國首屆」，指的是以溪流全域為主體的大地藝術季，不確定是否等於這個藝術季系列的第一屆；官網內文的「三年」指踏查調研的時間，沒有寫「三年一期」。「三年展」的說法來自網址與粉絲專頁名稱含 triennial，以及工商時報（2023-10-05）寫的「3 年一期」；該報導還說 2025 年版已進入籌備期，但本平台沒找到 2025 年的舉辦紀錄，下一屆是 2026 年版（K32），與 2022 相隔 4 年，延期原因未查到。2026 版是否為官方的「第二屆」也未查到；兩者視為前後屆是依 Bella 儂儂寫「前一屆主題是曾文溪的 1000 個名字」推定。其他校正：官網「關於」頁沒有整體展期，展期 2022-10-15 至 2023-01-29 依風傳媒與報導者；官網的主辦、承辦等單位多只有 logo 沒有文字，主辦依風傳媒；總爺、渡拔、大隆田是官網寫法，風傳媒的展區寫法不同，本平台以官網為準；總策展人龔卓軍的職稱官網寫副教授兼所長，工商時報（2023）寫教授，可能是時間差，未查證。居民參與：官網列出合作夥伴類型與國小等協辦單位，沒有寫一般居民如何加入、參與到什麼程度；「萬物議會」「小事報」只有名稱與簡述，沒有流程細節。報導者「潛行攝影計畫」是藝術季自己的子計畫產出，不算外部獨立報導，只用來佐證展期與策展人名單。官網是主辦方自述，「河川法人化」是主辦方的倡議立場。議題標籤與 K32 相同；鄒族夥伴是否列「原住民族文化」，需你判斷。",
   "educatorRole": "mixed",
-  "pedagogicalInsight": "「一條河有一千個名字」是很好用的課堂提問：同一條溪，在獵人、果農、掌水人和孩子口中叫什麼、怎麼被使用？帶學生沿著水圳、排水溝或小河，蒐集大家對它的稱呼和用水故事，議題就從居民的說法裡長出來，而不是老師先講水資源政策。這個案例也示範「先蹲點、再策展」：官網寫到三年的踏查調研，之後才有展出，提醒我們議題的深度來自時間。要留意的是，它是「倡議型」藝術季，「河川法人化」的目標在一開始就設定好了，用在課堂時可以多問一層：這個立場是怎麼來的？學生可以不同意嗎？另外，官網只寫了「萬物議會」「小事報」新聞營的名稱，沒有寫怎麼帶領，要借用請先查原主辦單位的做法，不要照名稱猜流程。",
+  "pedagogicalInsight": "「一條河有一千個名字」是很好用的課堂提問：同一條溪，在獵人、果農、掌水人和孩子口中叫什麼、怎麼被使用？帶學生沿著水圳、排水溝或小河，蒐集大家對它的稱呼和用水故事，議題就從居民的說法裡長出來。這個案例也示範「先蹲點、再策展」。要留意的是，它是「倡議型」藝術季，「河川法人化」的目標一開始就設定好了，用在課堂時可以多問一層：這個立場是怎麼來的？學生可以不同意嗎？官網只寫了「萬物議會」「小事報」新聞營的名稱，沒有寫怎麼帶領，要借用請先查原主辦單位的做法。",
+  "techniques": [
+   {
+    "t": "用「一條河有一千個名字」當提問，蒐集獵人、果農、掌水人與孩子對同一條溪的稱呼與用水故事。",
+    "te": "Use “a river with a thousand names” as a question, collecting what hunters, fruit growers, water keepers and children call the same stream and their water-use stories."
+   },
+   {
+    "t": "先長期蹲點踏查，再策展。",
+    "te": "Stay and survey for a long time first, then curate."
+   },
+   {
+    "t": "串連上、中、下游的在地夥伴，並用「萬物議會」等公民參與活動讓議題被討論。",
+    "te": "Link local partners upstream, midstream and downstream, and use civic participation activities such as the “Parliament of All Things” to get the issue discussed."
+   },
+   {
+    "t": "帶學生追問：這個立場是怎麼來的？可以不同意嗎？",
+    "te": "Ask students: where did this stance come from? Can you disagree?"
+   }
+  ],
   "ibaeContext": [
    "地",
    "人"
@@ -2602,11 +3357,29 @@
   "audience": [
    "地方居民"
   ],
-  "summary": "大溪普濟堂關聖帝君聖誕的祝壽遶境原是居民自發的信仰慶典（農曆六月廿四，被稱為大溪人的「第二個過年」）。桃園市立大溪木藝生態博物館自 2018 年起，以博物館方法把它做成節慶品牌「大溪大禧」，核心理念是「體驗×參與×復振」，由設計師廖小子操刀四屆主視覺。2022 年版（7/2–7/22）推出立體繪本《大溪大禧》與教案、神將互動特展《舞德殿》，並邀民眾佩戴神將紙帽加入「與神同巡」遶境；2026 年版（7/18 開幕）以「慶典音樂」為主軸，32 個社頭齊聚、約 40 場系列活動，其中「聲聲不息音樂會」由 9 個社頭與流行音樂團隊合作。慶典由廟方、志工、大溪各行各業與各地社頭共同參與。",
+  "summary": "大溪普濟堂關聖帝君聖誕的祝壽遶境（農曆六月廿四，被稱為大溪人的「第二個過年」）原是居民自發的信仰慶典。桃園市立大溪木藝生態博物館自 2018 年起，以博物館方法把它做成節慶品牌「大溪大禧」，核心理念是「體驗×參與×復振」，由設計師廖小子操刀四屆主視覺。\n\n2022 年版（7/2–7/22）推出立體繪本《大溪大禧》與教案、神將互動特展《舞德殿》，並邀民眾佩戴神將紙帽加入「與神同巡」遶境；2026 年版（7/18 開幕）以「慶典音樂」為主軸，32 個社頭齊聚、約 40 場系列活動，其中「聲聲不息音樂會」由 9 個社頭與流行音樂團隊合作。\n\n慶典由廟方、志工、大溪各行各業與各地社頭共同參與；社頭是依同行業或地緣自發組成的遶境團體。平台只讀到 2022、2026 兩屆的較完整內容，其餘屆別未詳查。",
   "selfDesc": "官方頁面（木博館）把大溪大禧定位為「傳承百年無形文化資產」的保存與再現，理念是以大溪現地為展演場域，促進居民與商家參與、觀眾體驗學習；並說明參與者包括廟方人員、志工、大溪百工百業與各地社頭，社頭是地方自發組成的遶境團體，常因同行業或地緣關係形成（例如牛犁陣、墨斗陣、土水仙童）。VERSE 專書座談（2023）寫到大溪大禧自 2018 年起籌辦、由衍序規劃設計與木博館完成專書、廖小子設計四屆主視覺，並把它定位為「一場跨越當代設計與民俗信仰的城市祭典」。美麗佳人（2022）記錄立體繪本《大溪大禧》（廖小子任藝術總監）、神將特展《舞德殿》（含「正氣步」學習裝置）、「與神同巡」發放神將紙帽、與維大力聯名的「關公維大力」「神龍沙士」、以及「大溪大禧正氣包」與紀念平安符等商品。風傳媒（2026）寫到文化局以「體驗、參與、復振」為核心、策展設計有居民社頭與店家共同參與。",
   "editNote": "以整個系列收錄為一筆（名稱加「系列」）；平台只讀到 2022、2026 兩屆的較完整內容，其餘屆別未詳查。幾點依據說明：起始年份 2018 只見於 VERSE 專書座談一篇，官方頁面只寫「傳承百年」沒寫大溪大禧的起始年；32 社頭、約 40 場只見於風傳媒 2026 的標題與內文；主辦單位美麗佳人該篇沒明列，只標照片來源為桃園市政府文化局，主辦依官方頁面與 VERSE。商品化部分：維大力聯名、正氣包、平安符由美麗佳人 2022 直接寫到；使用者提供整理中的「關公形象發展為可授權的 IP、視覺系統開放授權」一句，本次重讀的四個來源沒有直接寫到（VERSE 明確未提商品化），平台改以可確認的商品描述，IP 開放授權的說法暫不寫入。議題：慶典屬信仰文化／無形文化資產保存，平台歸在「地方記憶」；它不是典型社會議題，是否另標由你判斷。居民參與證據強：社頭、廟方與各行業是慶典主體，但參與單位是既有的在地團體（社頭），不是個人。這是政府與博物館主導的城市品牌型節慶，含設計商品化，收錄時保留這個性質。",
   "educatorRole": "mixed",
-  "pedagogicalInsight": "這個案例示範『怎麼把既有的在地傳統，轉成外人與年輕人進得去的現場』。重點不是博物館發明了什麼，而是用設計與體驗裝置，把旁觀者變成參與者——神將紙帽讓民眾走進遶境、『正氣步』學習裝置讓人用身體理解神將、繪本與教案讓大溪人學會把自己的慶典說成故事。對老師來說，可借鏡的是：先找到社區已經在做的事，再設計『參與的入口』，而不是從零發明一個活動。社頭也是很好的討論對象——參與的單位是依同行業或地緣組成的既有團體，不是個人。另一個值得帶學生一起追問的張力是商品化：關公聯名汽水、正氣包這類設計，是讓更多人進入慶典，還是把信仰變成消費？這個問題沒有標準答案，正好適合課堂辯論。",
+  "pedagogicalInsight": "這個案例示範「怎麼把既有的在地傳統，轉成外人與年輕人進得去的現場」。重點不是博物館發明了什麼，而是用設計與體驗裝置把旁觀者變成參與者：神將紙帽讓民眾走進遶境，「正氣步」學習裝置讓人用身體理解神將，繪本與教案讓大溪人學會把自己的慶典說成故事。可借鏡的是先找到社區已經在做的事，再設計「參與的入口」；社頭是依同行業或地緣組成的既有團體，不是個人。另一個可以和學生一起追問的張力是商品化：關公聯名汽水、正氣包，是讓更多人進入慶典，還是把信仰變成消費？這題沒有標準答案，適合課堂辯論。",
+  "techniques": [
+   {
+    "t": "先找到社區已經在做的事（遶境），再設計「參與的入口」，而不是從零發明活動。",
+    "te": "First find what the community already does (the procession), then design an “entrance for participation”, instead of inventing an event from zero."
+   },
+   {
+    "t": "用神將紙帽、「正氣步」學習裝置，讓旁觀者用身體走進慶典。",
+    "te": "Use paper generals’ hats and the “Righteous Step” learning device to bring onlookers into the festival through the body."
+   },
+   {
+    "t": "用繪本與教案，讓在地人學會把自己的慶典說成故事。",
+    "te": "Use a picture book and lesson plans so locals learn to tell their own festival as a story."
+   },
+   {
+    "t": "和學生辯論商品化：聯名商品是讓更多人進入慶典，還是把信仰變成消費？",
+    "te": "Debate commercialisation with students: do co-branded products bring more people in, or turn faith into consumption?"
+   }
+  ],
   "ibaeContext": [
    "人",
    "地",
@@ -2665,11 +3438,30 @@
    "地方居民",
    "長者"
   ],
-  "summary": "寶藏巖是退伍老兵在臺北公館山坡自力搭建的違章聚落，1980 年被劃為公園用地，後在居民陳情與學界、文史團體推動下，2004 年登錄為歷史聚落保存下來。臺北市政府文化局把它規劃為住戶與藝術村並存的「藝居共生」聚落，由臺北市文化基金會營運，2010 年 10 月 2 日正式接管寶藏巖國際藝術村。藝術家進駐後，與居民辦「一家一菜」共食、每年三月的光節（光雕），並共同開闢共生菜園、協助原居民經營「寶村柑仔店」。但保存過程伴隨 2006 年居民遷離的爭議，居民人數持續減少，學者也批評藝術家與居民的互動「依舊太少」——保存了聚落，卻不一定保住了人。",
+  "summary": "寶藏巖是退伍老兵在臺北公館山坡自力搭建的違章聚落，1980 年被劃為公園用地，後在居民陳情與學界、文史團體推動下，2004 年登錄為歷史聚落保存下來。臺北市政府文化局把它規劃為住戶與藝術村並存的「藝居共生」聚落，由臺北市文化基金會營運，2010 年 10 月 2 日正式接管寶藏巖國際藝術村。\n\n藝術家進駐後，與居民辦「一家一菜」共食、每年三月的光節（光雕），並共同開闢共生菜園、協助原居民經營「寶村柑仔店」。官網坦言「藝居共生」的「居」原先針對社區居民，後來已擴大為聚落內各單位與進駐者。\n\n但保存過程伴隨 2006 年居民遷離的爭議，居民人數持續減少，現仍有 19 戶原居民；學者也批評藝術家與居民的互動「依舊太少」，並把這個保存過程分析為一種「博物館化」。聚落保存了，卻不一定保住了人。",
   "selfDesc": "官網說「藝居共生」以「用藝、居共構」活化寶藏巖，並坦言「居」原先針對社區居民、後來已擴大為聚落內各單位與進駐者；聚落由 1960、70 年代的違章建築形成，2004 年登錄歷史聚落，文化局自 2006 年底起進行修繕，二十餘年來（臺北國際藝術村與寶藏巖合計）接待超過 500 位、來自 40 多個國家的創作者。輔大生命力新聞（刊於 PeoPo，2023-11-03）記錄居民參與：約每兩個月一次「一家一菜」居民與藝術家共餐；每年三月光節後居民也在菜園創作，前幾年光節留下的大竹籠被居民拿去養雞養鵝；「寶村柑仔店」由秋紅阿姨在藝術村協助下經營、週二週四供「寶村便當」；周靈芝 2008 年進駐、與居民共同設計共生菜園；初期有年長榮民要藝術家出示「居住證」、揮拐杖驅趕，遊客也曾誤闖住家，藝術村以姓氏告示牌與紅龍保護隱私；現仍有 19 戶原居民。公視我們的島（2007 年文章，本次未能重新讀取）據使用者整理寫到 2006 年六十多戶搬離、實際入住中繼住宅僅 16 戶、有居民質疑是變相驅離。眼底城事劉可強（2021-01-06）指居民持續減少、依現行資格限制聚落住居區約十年內可能無人，藝術家與居民互動「依舊太少」，且一間影視實驗教育機構占用了原保留給居民、因居民減少而空出的房舍。倫敦國王學院 Igor Rogelja 的學術論文把這個保存過程分析為一種『博物館化』：市府 2006 年提出三種補償／安置方案後，於 2006-12-22 清村、2007-01-30 由鎮暴警察清場，整修後房舍以 12 年租約出租，住戶由遷離前逾 70 戶降到 2014 年 21 戶、2018 年 19 戶，作者批評這讓居民與藝術家成了被觀看的『活體透視模型』。",
   "editNote": "以整個聚落的藝居共生計畫收錄為一筆系列案。幾處查證與校正：(1) 官網寫明 2004 年基金會受託營運的是『臺北國際藝術村』，接管『寶藏巖』是在 2010-10-02，使用者整理把兩者的 2004 合在一起，已更正。(2) 2006 年遷離：倫敦國王學院 Igor Rogelja 的學術論文（引用臺北市政府 2001／2004／2006 文件）記載市府提出三種方案——72 萬元全額補償但喪失居住權、36 萬元部分補償並自理或承租政府中繼住宅、不領補償但整修期間免費入住中繼住宅；清村期限訂於 2006-12-22，2007-01-30 由鎮暴警察清場、2007 年初全員遷出。這解開了先前各來源數字看似矛盾的問題：台北時報『29 戶選中繼、多數領 72 萬』與公視『實際入住中繼 16 戶』其實是同一套三選項下的不同數字。整修後房舍由文化局透過崔媽媽基金會以 12 年租約出租，回住並非自動、取決於福利資格，先前領補償者可能喪失回住權。(3) 戶數軌跡（依 Rogelja）：2007 遷離前逾 70 戶 → 2014 年 21 戶 → 2018 年 19 戶；輔大生命力新聞（2023）亦寫現仍 19 戶。(4) 博物館化批判：Rogelja 把這種保存形容為把居民與藝術家變成『living diorama（活體透視模型）』『spatial taxidermy（空間標本）』，並記載 OURs 的報告把住戶分成『好／壞』、2015 年一間影視教育機構進駐原保留給居民而騰空的房舍——與眼底城事劉可強（2021）『互動依舊太少、居民持續減少』的觀察一致。(5) 起點年份：PeoPo 文內自身不一致（2003 藝術村計畫／2011 駐村模式／周靈芝 2008 已進駐），本平台以官網（2004 登錄、2010 接管）為主。(6) 居民共創的具體例子（一家一菜、光節居民共創、柑仔店）目前仍只有輔大生命力新聞一個來源。(7) taiwan.md（AI 輔助的社群知識庫）本平台只當線索、未列為來源，上述事實均回溯其腳註指向的原始／學術出處查證。議題標在社宅與居住、身分與歷史記憶、地方記憶；老榮民相關見『榮民』名詞。文資登錄的精確日期與類別（歷史建築／聚落建築群）尚待查國家文化資產網官方登錄。",
   "educatorRole": "mixed",
-  "pedagogicalInsight": "這是討論『藝術進駐一個還有人住、而且有歷史傷痕的地方時，會發生什麼』最好的案例——正反都要看。正面可借鏡的是把共同生活本身當成方法：一家一菜、共生菜園、柑仔店，不是辦一場活動，而是讓藝術家和居民在日常裡慢慢發生關係；光節之後居民自己也在菜園創作、大竹籠被拿去養雞鵝，是居民把藝術『接管』成生活的好例子。但更重要的教材是它的裂縫：官網把『居』從原居民擴大到各進駐單位，學者卻指出居民持續減少、互動『依舊太少』，初期還有榮民要藝術家出示『居住證』。帶學生時可以一起追問：當我們說『共生』，誰的『居』被算進去？保存了房子，是不是就等於保住了人？這些問題沒有漂亮答案，正是這個案例的價值。學者 Rogelja 的批評可以當成更尖銳的提問丟給學生：當被保存的居民變成被觀看的『活體透視模型』，保存到底是為了誰？",
+  "pedagogicalInsight": "這是討論「藝術進駐一個還有人住、而且有歷史傷痕的地方時，會發生什麼」最好的案例，正反都要看。正面可借鏡的是把共同生活本身當成方法：一家一菜、共生菜園、柑仔店，不是辦一場活動，而是讓藝術家和居民在日常裡慢慢發生關係；光節之後居民自己也在菜園創作、大竹籠被拿去養雞鵝，是居民把藝術「接管」成生活的例子。更重要的教材是它的裂縫：官網把「居」從原居民擴大到各進駐單位，學者卻指出居民持續減少、互動「依舊太少」。帶學生時可以追問：說「共生」時誰的「居」被算進去？保存了房子，是不是就等於保住了人？學者 Rogelja 的批評可當成更尖銳的提問：當被保存的居民變成被觀看的「活體透視模型」，保存到底是為了誰？",
+  "techniques": [
+   {
+    "t": "用「一家一菜」共食與共生菜園，讓藝術家和居民在日常裡慢慢發生關係。",
+    "te": "Use shared “one dish each” meals and a shared garden so artists and residents build relations slowly in daily life.",
+    "m": "food"
+   },
+   {
+    "t": "讓居民把藝術接管成生活（光節後的大竹籠被拿去養雞養鵝）。",
+    "te": "Let residents take art over into daily life (the big bamboo cages after the Lantern Festival were used to raise chickens and geese)."
+   },
+   {
+    "t": "保護住戶隱私：用姓氏告示牌與紅龍，避免遊客誤闖住家。",
+    "te": "Protect residents’ privacy: use surname signs and ropes so visitors do not wander into homes."
+   },
+   {
+    "t": "追問：說「共生」時誰的「居」被算進去？保存了房子，是不是等於保住了人？",
+    "te": "Ask: when we say “co-living”, whose “residence” is counted? Does keeping the houses mean keeping the people?"
+   }
+  ],
   "ibaeContext": [
    "人",
    "地",
@@ -2745,11 +3537,31 @@
    "長者",
    "地方居民"
   ],
-  "summary": "臺南府城有「做十六歲」的成年禮傳統，市府文化局把它轉化為每年暑假的青少年藝術節。核心的「青少年扮戲計畫」招募 16 至 18 歲高中職學生，經半年、三階段培訓後，由青少年集體創作並公開售票演出一部原創劇作。2017 年（當時名為「十六歲小戲節」）扮戲計畫邁入第 3 年，17 所高中近 50 位學生創作《萬花筒》；2025 年第 11 屆（7/5–8/31，主題「Real Me 真實的我」）扮戲計畫招募 48 名學員、推出第 11 部劇作《Authentic》，另有街頭文化月、視覺展、週末講座與戶外展演市集；2026 年第 12 年（7/18–8/23，主題「Touch 青春的頻率」）推出第 12 部劇作《觸 Feel Seen》，並辦青少年劇場觀察員與社區樂齡「互動GO」。",
+  "summary": "臺南府城有「做十六歲」的成年禮傳統，市府文化局把它轉化為每年暑假的青少年藝術節。約 2015 年起辦理（來源未直接寫起始年，依屆次推算），核心的「青少年扮戲計畫」招募 16 至 18 歲高中職學生，經半年、三階段培訓後，由青少年集體創作並公開售票演出一部原創劇作。\n\n2017 年（當時名為「十六歲小戲節」）扮戲計畫邁入第 3 年，17 所高中近 50 位學生創作《萬花筒》；2025 年第 11 屆（7/5–8/31，主題「Real Me 真實的我」）招募 48 名學員、推出第 11 部劇作《Authentic》，另有街頭文化月、視覺展、週末講座與戶外展演市集。\n\n2026 年第 12 年（7/18–8/23，主題「Touch 青春的頻率」）推出第 12 部劇作《觸 Feel Seen》，招募台南、雲林、高雄 19 個行政區、16 所高中職青少年，並辦青少年劇場觀察員與社區樂齡「互動GO」。",
   "selfDesc": "中國時報（2017-03-23）報導，臺南市文化局與影響．新劇場合作的青少年劇場「十六歲小戲節─少年扮戲計畫」邁入第 3 年，3 月起經半年、三階段戲劇培訓，17 所高中近 50 位學生以府城十六歲成年禮為發想、集體創作《萬花筒》，8 月於台南文化中心原生劇場演出，計畫結合藝術與生命教育課程、由影響新劇場藝術總監呂毅新主持，獲台積電文教基金會支持。聯合報（2025）報導第 11 屆（7/5–8/31，主題「Real Me 真實的我」），扮戲計畫 3 月起招募 48 名 16–18 歲學員、推出第 11 部原創劇作《Authentic》（8/15–17 共 4 場），文中稱已累積 536 位學員參與、帶動逾四萬人次，民國 97 年 9 月至 98 年 8 月出生者完成成年禮可領限量紀念品，另有七月街頭文化月（嘻哈、街舞、塗鴉、DJ）、八月視覺展與八場週末講座、8/16–17 戶外展演市集。聯合報（2026）報導邁入第 12 年（7/18–8/23，主題「Touch 青春的頻率」），扮戲計畫招募台南、雲林、高雄 19 個行政區、16 所高中職青少年創作第 12 部劇作《觸 Feel Seen》（8/22–23 台江劇場、OPENTIX 售票），並辦青少年劇場觀察員與社區樂齡互動GO。",
   "editNote": "以整個藝術節系列收錄為一筆。幾處查證與校正：(1) 起始年：你修正後的『約 2015 年起』推算成立——2026 第 12 年、2025 第 11 屆、2017 扮戲計畫第 3 年，三者都指向約 2015；來源未直接寫起始年，故標『約』。(2) 名稱沿革：2017 年中時報導的名稱是『十六歲小戲節─少年扮戲計畫』，不是『十六歲正青春藝術節』，名稱後來才演變，收錄時以現名為主、備註此沿革。(3) 呂毅新只見於 2017 年報導（影響新劇場藝術總監），2026 年報導只寫『影響．新劇場』沒提他，故標明依 2017 年報導。(4) 『青少年劇場觀察員』『互動GO』2026 年報導有提到，但沒有寫是『新增』，故不寫成新增。(5) 參與人數：聯合報 2025 寫『累積 536 位學員』、中華日報 2025 寫『十年來超過五百多位』，兩篇皆寫『逾四萬人次』。(6) 2025 年的聯合報與中華日報兩篇內容幾乎相同（劇作、場次、人數、活動一致），研判同一份新聞稿，不算兩個獨立來源。(7) 沒有找到獨立的官方網站；官方粉絲專頁與臺南觀光旅遊局活動頁列為官方管道，但粉專內容本平台未能讀取，所列事實都不是來自粉專。議題標在身分與歷史記憶（自我認同、成年禮）與地方記憶（府城做十六歲傳統）；『做十六歲』見名詞解釋。",
   "educatorRole": "facilitator-led",
-  "pedagogicalInsight": "這是把在地成年禮傳統變成青少年自己創作平台的好案例。最值得借鏡的是它完整的弧線：半年、三階段培訓 → 青少年從自己的生命經驗集體創作一齣戲 → 真的對外售票公開演出。這條線把青少年當成真正的創作者，而不是做一個交差的習作，『真的要演給人看、還要賣票』本身就是很強的學習動力。另外，用『做十六歲』這個在地成年禮當主題，讓抽象的『自我認同／長大』變得具體、和自己的城市有關——帶領者設計認同主題時，可以找一個學生生活裡真實存在的儀式或節點切入，而不是空談『你是誰』。要留意的是，這是市府主辦的大型藝術節，另有票務、市集與紀念品等推廣成分；真正屬於藝術教育核心的是『扮戲計畫』那段培訓與集體創作，藝術節的外層比較是城市品牌與推廣，帶學生參照時可以把兩者分開看。",
+  "pedagogicalInsight": "這是把在地成年禮傳統變成青少年自己創作平台的好案例。最值得借鏡的是完整的弧線：半年、三階段培訓，青少年從自己的生命經驗集體創作一齣戲，再真的對外售票公開演出。這把青少年當成真正的創作者，而不是做一個交差的習作，「真的要演給人看、還要賣票」本身就是很強的學習動力。用「做十六歲」這個在地成年禮當主題，也讓抽象的「自我認同／長大」變得具體、和自己的城市有關；帶領者可以找一個學生生活裡真實存在的儀式或節點切入，而不是空談「你是誰」。要留意的是，這是市府主辦的大型藝術節，另有票務、市集與紀念品等推廣成分；屬於藝術教育核心的是扮戲計畫的培訓與集體創作，藝術節外層比較是城市品牌，帶學生參照時可以分開看。",
+  "techniques": [
+   {
+    "t": "用「做十六歲」這個在地成年禮當主題，讓「自我認同」變得具體、和自己的城市有關。",
+    "te": "Use “doing sixteen”, a local rite, as the theme so “identity” becomes concrete and tied to their own city."
+   },
+   {
+    "t": "半年、三階段培訓，讓青少年從自己的生命經驗集體創作一齣戲。",
+    "te": "Six months and three stages of training so youths collectively create a play from their own life experience.",
+    "m": "theatre"
+   },
+   {
+    "t": "真的公開演出並售票，把青少年當成真正的創作者。",
+    "te": "Really perform publicly with tickets, treating young people as real creators.",
+    "m": "theatre"
+   },
+   {
+    "t": "帶學生把藝術節的城市品牌外層與扮戲計畫的培訓核心分開看。",
+    "te": "Help students separate the festival’s city-branding layer from the training core of the play project."
+   }
+  ],
   "ibaeContext": [
    "人",
    "地",
@@ -2816,11 +3628,31 @@
    "地方居民",
    "長者"
   ],
-  "summary": "石岡媽媽劇團源於 1999 年 921 地震：差事劇團（鍾喬、李秀珣）在石岡、東勢災區與受災婦女辦民眾戲劇工作坊，戲劇班的媽媽們不願解散，2000 年起在差事協力輔導下組成由成員自治的社區劇團。成員多為因婚姻來到石岡的客家婦女，長期以自己的農務與日常勞動（採梨、洗衣、炒菜）為素材，用素人身體創作。2021 年 20 周年作品《梨花心地》由成員自己演出，開場以紀錄影片回顧劇團歷程，再以採梨、洗衣的勞動開場並邀觀眾一起到石岡種梨，處理客家女性在父權宗法制度中的處境、家族重建與自我認同。2023 年差事劇團製作的《千年之遇》則由石岡媽媽劇團與在地居民同台演出。",
+  "summary": "石岡媽媽劇團源於 1999 年 921 地震：差事劇團（鍾喬、李秀珣）在石岡、東勢災區與受災婦女辦民眾戲劇工作坊，戲劇班的媽媽們不願解散，2000 年起在差事協力輔導下組成由成員自治的社區劇團。成員多為因婚姻來到石岡的客家婦女，長期以自己的農務與日常勞動（採梨、洗衣、炒菜）為素材，用素人身體創作。\n\n2021 年 20 周年作品《梨花心地》由成員自己演出，劇本由全體團員共同編寫、再由專業導演修整；開場以紀錄影片回顧劇團歷程，再以採梨、洗衣的勞動開場並邀觀眾一起到石岡種梨。\n\n作品處理客家女性在父權宗法制度中的處境、家族重建與自我認同。2023 年差事劇團製作的《千年之遇》則由石岡媽媽劇團與在地居民同台演出。",
   "selfDesc": "表演藝術評論台（許仁豪，2021-03-17）寫到，1999 年 921 後差事劇團的鍾喬與李秀珣到台中石岡客家村做心靈重建，一年後戲劇班的媽媽們不願解散、隔年成團，團長楊珍珍、導演李秀珣；評論指出成員多因婚姻來到石岡，面對客家父權宗法的限制（不得參與家族事務、洗衣等勞動的性別規訓），以採梨、洗衣、炒菜、殺雞等勞動為素材，開場以紀錄影片回顧劇團歷史、並邀觀眾到石岡一起種梨。國藝會補助成果檔案記載《梨花心地》（石岡媽媽劇團，差事劇團提供、負責人鍾政瑩）2020 年常態補助、2021/3/12–13 於寶藏巖藝術村山城廣場演出 2 場共 144 人次，李秀珣導演、藝術總監鍾喬編導修整，劇本由全體團員共同編寫，自 2005 年起以《梨花》劇名巡迴。差事劇團網站則自述 1996 年成立、1999 年在東勢石岡與受災婦女辦民眾戲劇工作坊、2000 年起協力輔導石岡媽媽劇團。中時（陳淑芬，2023-02-22）寫到《千年之遇》為差事劇團的客家當代戲劇新作、由在地居民創立的石岡媽媽劇團與在地居民同台，2022 年 11 月在石岡演環境劇場版、2023 年與台中國家歌劇院及客委會合作於歌劇院小劇場演出。",
   "editNote": "成立與脈絡經多個獨立來源互證：表演藝術評論台（劇評）、關鍵評論網、中時、差事劇團（協力團體自述）、國藝會補助成果檔案。幾點：『20 周年』是劇團 2021 年的說法，與 2000 年成立相距 21 年，屬概略。『團長楊珍珍』見於表演藝術評論台；國藝會檔案的『負責人鍾政瑩』指的是成果提供單位差事劇團的負責人，非石岡媽媽劇團團長，兩者不同角色。《千年之遇》（2022 環境劇場版／2023 歌劇院版）主體是差事劇團的製作、石岡媽媽劇團為同台演出者，放在本案相關作品、不另立案。本團與差事劇團（鍾喬）的民眾戲劇脈絡關係密切，屬同一脈絡的相關案例。民眾劇場／被壓迫者劇場的概念見名詞『社區劇場』（如要另立『民眾劇場』名詞可再補）。議題標在災害與創傷（921）、性別（客家女性）、客家文化。",
   "educatorRole": "facilitator-led",
-  "pedagogicalInsight": "這是台灣少見、持續超過二十年的素人社區劇場，對帶領者是一座寶庫。最核心的可借鏡是『從參與者自己的身體與勞動出發』：採梨、洗衣、炒菜這些日常勞動被轉化為表演素材與儀式，而不是發一個劇本給大家演。劇本由全體團員共同編寫，再由專業導演修整——這示範了素人自主與專業引導怎麼平衡。開場用紀錄影片回顧劇團自己的歷程，讓參與者先看見『我們是誰、走到哪裡』；結尾邀觀眾一起到石岡種梨，把觀眾也從旁觀者變成參與者，呼應這個劇團強調的『使能』（讓自己、夥伴、觀眾都能參與）。另一個對教育者的提醒是時間尺度：它的深度來自二十年的長期陪伴，不是一次性工作坊。背後有差事劇團與李秀珣的專業引導，帶領這類劇場時，如何不讓專業蓋過素人的聲音，是要一直自問的課題。",
+  "pedagogicalInsight": "這是台灣少見、持續超過二十年的素人社區劇場，對帶領者是一座寶庫。核心的可借鏡是「從參與者自己的身體與勞動出發」：採梨、洗衣、炒菜這些日常勞動被轉化為表演素材與儀式，而不是發一個劇本給大家演。劇本由全體團員共同編寫、再由專業導演修整，示範了素人自主與專業引導怎麼平衡。開場用紀錄影片回顧劇團自己的歷程，讓參與者先看見「我們是誰、走到哪裡」；結尾邀觀眾一起到石岡種梨，把觀眾也從旁觀者變成參與者。對教育者的提醒是時間尺度：它的深度來自二十年的長期陪伴，不是一次性工作坊。背後有差事劇團與李秀珣的專業引導，帶領這類劇場時，如何不讓專業蓋過素人的聲音，是要一直自問的課題。",
+  "techniques": [
+   {
+    "t": "從參與者自己的身體與勞動（採梨、洗衣、炒菜）出發，轉化為表演素材。",
+    "te": "Start from participants’ own bodies and labour (picking pears, washing clothes, stir-frying) and turn them into performance material.",
+    "m": "theatre"
+   },
+   {
+    "t": "劇本由全體團員共同編寫，再由專業導演修整，平衡素人自主與專業引導。",
+    "te": "The script is co-written by all members and edited by a professional director, balancing amateur autonomy and professional guidance.",
+    "m": "theatre"
+   },
+   {
+    "t": "開場用紀錄影片回顧團史，讓參與者先看見「我們是誰、走到哪裡」。",
+    "te": "Open with a documentary on the troupe’s history so participants first see who they are and how far they have come."
+   },
+   {
+    "t": "結尾邀觀眾一起去種梨，把旁觀者變成參與者。",
+    "te": "End by inviting the audience to plant pears together, turning onlookers into participants."
+   }
+  ],
   "ibaeContext": [
    "人",
    "地",
@@ -2883,11 +3715,26 @@
   "audience": [
    "地方居民"
   ],
-  "summary": "大葉大學設計與造藝兩系師生與貢旗社區志工合作，以廢棄葡萄藤為材料，在社區兒童公園完成一件高約三公尺的藤牛裝置，象徵農村的堅韌與創新。社區總幹事形容過程歷經時間與空間的多項挑戰，計畫獲文化部、彰化生活美學館、大村鄉公所等支持。",
+  "summary": "大葉大學設計學系與造形藝術學系師生，與彰化縣大村鄉貢旗社區志工合作，以廢棄葡萄藤為材料，在社區中心兒童公園完成一件高約三公尺的藤牛裝置，象徵農村的堅韌與創新。\n\n這是大葉大學 USR 計畫的一部分（設計系賴建源「傳統新生」、造形藝術系吉田敦），報導日期為 2024 年 11 月 28 日。\n\n社區總幹事形容過程歷經時間與空間的多項挑戰；計畫獲文化部、彰化生活美學館、大村鄉公所等支持。志工人數、工作坊次數與落成日期來源未載。",
   "selfDesc": "1111 新聞（校方供稿）寫到，作品以廢棄葡萄藤製作、高約三公尺，由大葉大學設計學系與造形藝術學系師生與貢旗社區志工共同完成，計畫獲文化部、彰化生活美學館、大村鄉公所等支持。",
   "editNote": "大葉大學 USR（設計系賴建源「傳統新生」、造藝系吉田敦）與貢旗社區志工合作。議題偏地方凝聚與資源再生（廢葡萄藤再製），社會議題性較弱。蔡志賢等是否與居民共創、志工人數、工作坊次數與落成日期待確認。",
   "educatorRole": "facilitator-led",
-  "pedagogicalInsight": "把廢棄葡萄藤變成三公尺高的藤牛，讓大學師生與社區志工共同動手——對帶 USR 或社區的老師，示範了用『在地廢材＋共同製作』凝聚社區。要提醒的是：議題偏地方凝聚、社會性較淡，適合當『材料轉化與社區協作』的例子，而非議題深掘。",
+  "pedagogicalInsight": "把廢棄葡萄藤變成三公尺高的藤牛，讓大學師生與社區志工共同動手，對帶 USR 或社區的老師，示範了用「在地廢材＋共同製作」凝聚社區。要提醒的是：議題偏地方凝聚、社會性較淡，適合當「材料轉化與社區協作」的例子，而非議題深掘。",
+  "techniques": [
+   {
+    "t": "用在地廢材（廢棄葡萄藤）當創作材料。",
+    "te": "Use local waste material (discarded grapevines) as the making material.",
+    "m": "material"
+   },
+   {
+    "t": "大學師生與社區志工共同動手製作。",
+    "te": "University staff, students and community volunteers make it together."
+   },
+   {
+    "t": "把作品放在社區兒童公園，成為社區日常空間的一部分。",
+    "te": "Place the work in the community’s children’s park so it becomes part of everyday community space."
+   }
+  ],
   "ibaeContext": [
    "地",
    "人"
@@ -2927,11 +3774,25 @@
   "audience": [
    "地方居民"
   ],
-  "summary": "由返鄉青年張敬業以「保鹿運動」累積社區動能後，於 2015 年發起的民間自籌藝術節。藝術節與在地店家與老屋合作，把展覽空間延伸為日常生活場所（如家庭餐廳、酒吧、青創基地），以街區策展、散策、表演、電影與講座翻轉外界對鹿港的觀光刻板印象。",
+  "summary": "鹿港今秋藝術節是返鄉青年張敬業以「保鹿運動」累積社區動能後，於 2015 年發起的民間自籌藝術節，首屆原名「鹿港藝術節：今秋會」，約隔年舉辦（天下寫「每兩年一次」）。\n\n藝術節與在地店家與老屋合作，把展覽空間延伸為日常生活場所（如家庭餐廳、酒吧、青創基地），以街區策展、散策、表演、電影與講座翻轉外界對鹿港的觀光刻板印象。\n\nPAR 表演藝術雜誌報導指出，策展者原本想辦給在地人，但參與者多為外地人，在地人則漸漸習慣這個節慶的存在。某一屆的檔期與近年是否續辦，來源未載或未標年份。",
   "selfDesc": "PAR 表演藝術雜誌報導指出，策展者原本想辦給在地人，但參與者多為外地人，在地人則漸漸習慣這個節慶的存在。天下雜誌與微笑台灣亦報導張敬業與鹿港囝仔自 2015 年發起今秋藝術節、與在地店家與老屋合作的脈絡。",
   "editNote": "鹿港今秋藝術節 2015 年首屆原名『鹿港藝術節：今秋會』；天下寫『每兩年一次』。這是持續多年的民間自籌藝術節，非單次計畫，收錄以『整個藝術節』為單位；某一屆的檔期（有報導寫 9/14–9/28、主題『移住今秋』但未標年份）與近年是否續辦待確認。",
   "educatorRole": "facilitator-led",
-  "pedagogicalInsight": "一個由返鄉青年自籌、辦進老屋與店家的民間藝術節，示範了把展覽空間延伸進餐廳、酒吧等日常場所。PAR 指出策展者原想辦給在地人、實際來的多是外地人，這個『辦給誰／誰會來』的落差，本身就是地方藝術節值得和學生討論的課題。",
+  "pedagogicalInsight": "一個由返鄉青年自籌、辦進老屋與店家的民間藝術節，示範了把展覽空間延伸進餐廳、酒吧等日常場所。PAR 指出策展者原想辦給在地人、實際來的多是外地人，這個「辦給誰／誰會來」的落差，本身就是地方藝術節值得和學生討論的課題。",
+  "techniques": [
+   {
+    "t": "與在地店家和老屋合作，把展覽空間延伸進餐廳、酒吧等日常場所。",
+    "te": "Work with local shops and old houses to extend exhibition space into everyday places such as restaurants and bars."
+   },
+   {
+    "t": "以街區策展、散策、表演、電影與講座，翻轉外界對地方的觀光刻板印象。",
+    "te": "Use neighbourhood curating, walking tours, performances, film and talks to overturn tourist stereotypes of the place."
+   },
+   {
+    "t": "和學生討論：藝術節辦給誰？實際來的又是誰？",
+    "te": "Discuss with students: who is the festival for, and who actually comes?"
+   }
+  ],
   "ibaeContext": [
    "地",
    "人"
@@ -2981,11 +3842,27 @@
   "audience": [
    "地方居民"
   ],
-  "summary": "頭城人彭仁鴻在研究所畢業後回鄉工作，透過 2014 年文化部青年村落計畫籌辦頭城老街藝術季，後來創辦「金魚厝邊」，把老鎮長故居改成青銀共創空間，邀老藝術家與老技藝者擔任主角講述自己的故事，並讓外地與在地藝術家交流。",
+  "summary": "頭城人彭仁鴻在研究所畢業後回鄉工作，2014 年申請文化部青年村落計畫，籌辦第一屆頭城老街藝術季，其後每年舉辦。\n\n他後來創辦「金魚厝邊」，把老鎮長故居改成青銀共創空間，邀老藝術家與老技藝者擔任主角講述自己的故事，並讓外地與在地藝術家交流，也發行《青銀誌》。\n\n金魚厝邊是長期經營的地方創生組織，單一「計畫」邊界不清，收錄以組織／藝術季為單位；遠見城市學書摘提到阿根廷藝術家曾參與街區創作，近年屆次與規模來源未載。",
   "selfDesc": "新聞鏡頭、PeoPo 公民新聞、遠見城市學書摘與天下／微笑台灣等報導指出，彭仁鴻 2014 年申請文化部青年村落計畫後籌辦第一屆頭城老街藝術季，之後創辦金魚厝邊、經營青銀共創空間並發行《青銀誌》。",
   "editNote": "金魚厝邊是長期經營的地方創生組織，單一『計畫』邊界不清，收錄以組織／藝術季為單位。遠見城市學書摘提到阿根廷藝術家曾參與街區創作。近年屆次與規模待補。",
   "educatorRole": "facilitator-led",
-  "pedagogicalInsight": "彭仁鴻把老鎮長故居改成青銀共創空間，邀老藝術家與老技藝者當主角講自己的故事——示範了『讓長者當主角而非受訪者』。對帶跨世代或地方創生的人，重點是先長期蹲點累積社區關係，再談創作。",
+  "pedagogicalInsight": "彭仁鴻把老鎮長故居改成青銀共創空間，邀老藝術家與老技藝者當主角講自己的故事，示範了「讓長者當主角而非受訪者」。對帶跨世代或地方創生的人，重點是先長期蹲點累積社區關係，再談創作。",
+  "techniques": [
+   {
+    "t": "讓老藝術家與老技藝者當主角講自己的故事，而不是被訪問的對象。",
+    "te": "Let elderly artists and craftspeople be the protagonists telling their own stories, not interviewees.",
+    "m": "oral"
+   },
+   {
+    "t": "把老鎮長故居改成青銀共創空間，讓不同世代共處創作。",
+    "te": "Turn the old mayor’s residence into a youth-and-elder co-creation space where generations make together.",
+    "m": "intergen"
+   },
+   {
+    "t": "先長期蹲點累積社區關係，再談創作。",
+    "te": "Stay long-term and build community relations first, then talk about making."
+   }
+  ],
   "ibaeContext": [
    "地",
    "人",
@@ -3030,11 +3907,21 @@
   ],
   "practice": "策展與展覽",
   "audience": [],
-  "summary": "三位排灣族藝術家把對家園與自由的嚮往，以及對自我、部落與所屬家族等多重身分的探索，融入刀具、繪畫與陶器創作。屏東縣原民處說明，策展概念來自恆春半島曾是不同族群共享的土地，在多元身分認同並存時難免產生分歧與衝突。",
+  "summary": "三位排灣族藝術家華恆明、華伊達、華露莎（父女）把對家園與自由的嚮往，以及對自我、部落與所屬家族等多重身分的探索，融入刀具、繪畫與陶器創作；展覽於 2025 年在屏東屏菸 1936 文化基地的屏東原民館展出，展至 4 月 27 日。\n\n展覽由屏東縣政府原住民族行政處與三位藝術家共同策劃，主題環繞家族（Mavaliu）、部落與土地共享（排灣語「BALILAOU」）。\n\n屏東縣原民處說明，策展概念來自恆春半島曾是不同族群共享的土地，在多元身分認同並存時難免產生分歧與衝突。這是個人／家族創作展，沒有居民參與；作品是否涉及具體社會議題（如土地權益）來源未載。",
   "selfDesc": "中央社（2025-01-23）報導指出，展覽由屏東縣政府原住民族行政處與三位排灣族藝術家共同策劃，於屏菸 1936 文化基地的屏東原民館展出，主題環繞家族（Mavaliu）、部落與土地共享（排灣語『BALILAOU』）。",
   "editNote": "依標準2（排灣族身分認同、家族與部落、土地共享）收錄，屬個人／家族創作展、無居民參與。94ipt 內容與中央社開頭相同、視為同源，故僅以中央社與台灣英文新聞計。作品是否涉及具體社會議題（如土地權益）、展期細節待確認。",
   "educatorRole": "artist-led",
-  "pedagogicalInsight": "這是一檔排灣族父女的創作聯展，沒有社群參與，適合當『看作品、談身分』的教材。可帶學生看三位創作者如何把對家園、自由與多重身分（自我／部落／家族）的探問，放進刀具、繪畫與陶器裡。它是作品導向，不是參與式工作坊。",
+  "pedagogicalInsight": "這是一檔排灣族父女的創作聯展，沒有社群參與，適合當「看作品、談身分」的教材。可帶學生看三位創作者如何把對家園、自由與多重身分（自我／部落／家族）的探問，放進刀具、繪畫與陶器裡。它是作品導向，不是參與式工作坊。",
+  "techniques": [
+   {
+    "t": "看三位創作者如何把對家園與自由的探問放進刀具、繪畫與陶器。",
+    "te": "See how the three makers put questions about home and freedom into knives, painting and pottery."
+   },
+   {
+    "t": "從自我、部落、家族三層身分，討論多重身分如何並存。",
+    "te": "Use the three layers of self, tribe and family to discuss how plural identities coexist."
+   }
+  ],
   "ibaeContext": [
    "人"
   ],
@@ -3081,11 +3968,27 @@
   "audience": [
    "地方居民"
   ],
-  "summary": "策展以海口冬季特有的落山風為核心，邀請藝術家進駐並依空間與環境創作，讓作品散布在巷弄、港口與沙灘。例如日本插畫家以貓狗雕像化身村落人物；游文富以竹編與塑膠椅改造廢棄石屋；活動中的『海口食堂』由日本料理職人與在地居民合作推出限定便當。",
+  "summary": "2025 落山風藝術季《看！海口 Hey, Haikou!》於 2025 年 12 月 20 日至 2026 年 3 月 1 日在屏東縣車城鄉海口村舉辦，策展以海口冬季特有的落山風為核心，集結國內外 16 位藝術家，作品散布在村落、港灣、沙灘三展區與看海美術館。\n\n藝術家進駐並依空間與環境創作：日本插畫家以貓狗雕像化身村落人物；游文富以竹編與塑膠椅改造廢棄石屋；活動中的「海口食堂」由日本料理職人與在地居民合作推出限定便當。\n\nNOWnews 另以 2024 年為第六屆報導。駐村時間長度、居民是否實際參與創作、氣候與漁村變遷是否為作品實際回應的內容，來源未載。",
   "selfDesc": "民報、聯合新聞網、台灣英文新聞與微笑台灣等報導指出，2025 落山風藝術季以《看！海口 Hey, Haikou!》為題，集結國內外 16 位藝術家於海口沙灘、港灣、村落與看海美術館展出；NOWnews 另以 2024 年為第六屆報導。",
   "editNote": "以『藝術節與駐村』形式收錄，但偏觀光型地景藝術節，居民參與證據弱——僅『海口食堂』由日本料理職人與在地居民合作、以及老屋改造的零星描述。駐村時間長度、居民是否實際參與創作、氣候與漁村變遷是否為作品實際回應的內容待確認。",
   "educatorRole": "artist-led",
-  "pedagogicalInsight": "這是偏觀光型的地景藝術節，對第一線教學的直接參考有限；比較可借鏡的是『海口食堂』——由日本料理職人與在地居民合作推出限定便當，示範了飲食可以是外來藝術家與在地社群接觸的媒介。要提醒的是：多數作品仍以藝術家駐地創作為主，居民參與零星。",
+  "pedagogicalInsight": "這是偏觀光型的地景藝術節，對第一線教學的直接參考有限；比較可借鏡的是「海口食堂」，由日本料理職人與在地居民合作推出限定便當，示範了飲食可以是外來藝術家與在地社群接觸的媒介。要提醒的是：多數作品仍以藝術家駐地創作為主，居民參與零星。",
+  "techniques": [
+   {
+    "t": "以「海口食堂」的限定便當，讓外來職人與在地居民合作。",
+    "te": "Use the “Haikou Canteen” limited lunch boxes to have visiting craftspeople and local residents cooperate.",
+    "m": "food"
+   },
+   {
+    "t": "用老屋與在地常見物（竹編、塑膠椅）改造廢棄石屋。",
+    "te": "Rebuild an abandoned stone house with everyday local things such as bamboo weaving and plastic chairs.",
+    "m": "material"
+   },
+   {
+    "t": "以當地特有的落山風作為策展核心。",
+    "te": "Take the local peculiar falling wind as the curatorial core."
+   }
+  ],
   "ibaeContext": [
    "地",
    "時"
@@ -3136,11 +4039,26 @@
   "audience": [
    "地方居民"
   ],
-  "summary": "林介文邀請部落女性一同編織被毯，包覆在亞泥、台泥的礦山上，帶觀眾走進土地與傳統領域，回看歷史在山裡留下的痕跡，並彰顯女性的編織與文化特質。報導寫她把編織擴大為療癒的概念，把被開採的山視為受傷的身體。",
+  "summary": "《裹山》Dungku Asang 是林介文（Labay Eyong）的作品，她邀請部落女性一同編織被毯，包覆在花蓮縣萬榮鄉紅葉部落一帶、亞泥與台泥開採的瑞欣礦區山上，作品入圍 2020 年台新藝術獎，台新獎頁面日期為 2021 年 3 月 6 日至 27 日。\n\n作品帶觀眾走進土地與傳統領域，回看歷史在山裡留下的痕跡，並彰顯女性的編織與文化特質。\n\n報導寫她把編織擴大為療癒的概念，把被開採的山視為受傷的身體。另有展覽簡介把「裹山」寫在「拉拜．伊勇」名下，應為 Labay Eyong 的不同中文譯名；展期與地點細節來源未全載。",
   "selfDesc": "關鍵評論網（新聞鏡頭）、台新藝術獎官網與中央研究院通訊等報導指出，林介文以被毯披覆礦山、入圍台新藝術獎；台新獎頁面標示日期為 2021/3/6–3/27。",
   "editNote": "依標準2（礦業開採與傳統領域、原住民女性編織、族群與環境）與標準1（部落女性共同編織）收錄，居民參與證據強。另有展覽簡介把『裹山』寫在『拉拜．伊勇』名下，應為 Labay Eyong 的不同中文譯名。展期與地點（瑞欣礦區、萬榮鄉紅葉部落一帶）細節待補。",
   "educatorRole": "facilitator-led",
-  "pedagogicalInsight": "林介文邀部落女性一同編織被毯、包覆在被開採的礦山上，把『被開採的山』比作受傷的身體——示範了用集體編織這種女性的、在地的技藝，去回應礦業與傳統領域的議題。對談環境或原住民議題的老師，這是『用社群自己的技藝發聲』的高品質範例。",
+  "pedagogicalInsight": "林介文邀部落女性一同編織被毯、包覆在被開採的礦山上，把「被開採的山」比作受傷的身體，示範了用集體編織這種女性的、在地的技藝，去回應礦業與傳統領域的議題。對談環境或原住民議題的老師，這是「用社群自己的技藝發聲」的高品質範例。",
+  "techniques": [
+   {
+    "t": "邀部落女性一同編織被毯，用社群自己的技藝回應議題。",
+    "te": "Invite tribal women to weave blankets together and respond to the issue with the community’s own craft.",
+    "m": "craft"
+   },
+   {
+    "t": "把被毯包覆在被開採的礦山上，將「被開採的山」比作受傷的身體。",
+    "te": "Drape the blankets over the mined mountain, likening the mined mountain to a wounded body."
+   },
+   {
+    "t": "帶觀眾走進土地與傳統領域，回看歷史留在山裡的痕跡。",
+    "te": "Lead viewers onto the land and traditional territory to look back at the traces history left in the mountain."
+   }
+  ],
   "ibaeContext": [
    "地",
    "人"
@@ -3190,11 +4108,22 @@
    "地方居民",
    "兒童"
   ],
-  "summary": "沁窟ㄚ腳文創協會長期在下崙地區推動社區營造與藝術教育。這次藝術季認養一座臺灣燈會結束後的花燈，與海大 USR 團隊合作，以廢棄物（海廢）藝術展示讓居民在賞燈的同時理解環境永續，呼應花燈二次利用與海廢再利用的理念。",
+  "summary": "沁窟ㄚ腳文創協會長期在雲林縣口湖鄉下崙地區推動社區營造與藝術教育。2025 年的口湖濱海藝術季由國立臺灣海洋大學（海大）USR 團隊與該協會、口湖鄉公所合作舉辦。\n\n藝術季認養一座 2025 桃園臺灣燈會結束後的花燈，點燈儀式由鄉長主持，並以海廢藝術展示讓居民在賞燈的同時理解環境永續，呼應花燈二次利用與海廢再利用的理念。\n\n居民攜家帶眷參與，但共創過程描述不足，居民參與證據弱到中；藝術季確切日期與名稱、海廢展示作品由誰創作，來源未載。",
   "selfDesc": "1111 新聞（海大校方供稿）寫到，藝術季由海大 USR 團隊與沁窟ㄚ腳文創協會、口湖鄉公所合作，認養一座 2025 桃園臺灣燈會結束後的花燈，點燈儀式由鄉長主持，並以海廢藝術展示推廣海洋教育。",
   "editNote": "沁窟ㄚ腳文創協會長期在下崙推動社區營造，與海大 USR 團隊合作，認養臺灣燈會結束後的花燈、以廢棄物藝術展示結合海廢再利用與海洋教育。居民參與證據弱到中（居民攜家帶眷參與，缺共創過程描述）。『海大』指國立臺灣海洋大學。藝術季確切日期與名稱、海廢展示作品由誰創作待補。",
   "educatorRole": "facilitator-led",
-  "pedagogicalInsight": "認養一座臺灣燈會結束後的花燈、二次利用，再結合海廢藝術展示，讓居民在賞燈的同時理解環境永續——示範了把『現成的節慶物件』轉為環境教育媒介。要提醒的是：共創過程描述不足，較接近成果展示。",
+  "pedagogicalInsight": "認養一座臺灣燈會結束後的花燈、二次利用，再結合海廢藝術展示，讓居民在賞燈的同時理解環境永續，示範了把「現成的節慶物件」轉為環境教育媒介。要提醒的是：共創過程描述不足，較接近成果展示。",
+  "techniques": [
+   {
+    "t": "認養燈會結束後的花燈做二次利用，把現成節慶物件轉為環境教育媒介。",
+    "te": "Adopt a lantern left after the lantern festival for reuse, turning a ready-made festival object into an environmental education medium."
+   },
+   {
+    "t": "用海廢藝術展示，讓居民賞燈時理解環境永續。",
+    "te": "Use a marine-debris art display so residents grasp environmental sustainability while enjoying the lantern.",
+    "m": "material"
+   }
+  ],
   "ibaeContext": [
    "地"
   ],
@@ -3236,11 +4165,28 @@
    "青少年",
    "長者"
   ],
-  "summary": "學校歷經約兩年的文物研究、田野調查與耆老口述，循著百年前入藏清冊留下的姓名，把 30 多件日治時期入藏臺博館的南澳泰雅文物重新連回部落家族。調查訪談了十位曾生活於山區舊社的耆老，部分耆老還到臺博館庫房辨認文物；校方並把成果轉成教案與教具箱，培訓學生擔任小小導覽員。",
+  "summary": "《Tnunan 循物而返，相繫共生》是武塔國小與國立臺灣博物館等合作的南澳泰雅文物特展，2026 年 10 月 6 日開幕，展至 2027 年 2 月 26 日，地點在宜蘭縣南澳鄉泰雅文化館 2 樓特展室。\n\n學校歷經約兩年的文物研究、田野調查與耆老口述，循著百年前入藏清冊留下的姓名，把 30 多件日治時期入藏臺博館的南澳泰雅文物重新連回部落家族；調查訪談了十位曾生活於山區舊社的耆老，部分耆老還到臺博館庫房辨認文物。\n\n校方並把成果轉成教案與教具箱，培訓學生擔任小小導覽員。偏博物館策展與文化教育，是否完全符合平台「藝術形式」定義可再討論；部分報導標題寫「台史博」、內文為臺博館，疑為標題誤植，未能確認。",
   "selfDesc": "自由時報、樂聯網與 Yahoo（臺博館提供）等報導指出，展覽由武塔國小與國立臺灣博物館等合作，展出 30 多件南澳泰雅文物，訪談 10 位耆老、培訓學生導覽員，展期自民國 115 年 10 月 6 日至 116 年 2 月 26 日。",
   "editNote": "學校歷經約兩年文物研究、田野與耆老口述，循百年前入藏清冊姓名把文物連回部落家族，並轉為教案與教具箱、培訓學生擔任小小導覽員。偏博物館策展與文化教育，是否完全符合平台『藝術形式』定義可再討論。注意：部分報導標題寫『台史博』、內文為臺博館，疑為標題誤植，未能確認；自由時報頁面本次無法開啟核對全文。",
   "educatorRole": "facilitator-led",
-  "pedagogicalInsight": "學校循百年前入藏清冊上的姓名，把臺博館的文物重新連回部落家族，再把成果轉成教案、教具箱與學生導覽——這是『以文物為提問起點、讓學生當研究者與導覽者』的完整範例。對做在地文化或原住民教育的老師，示範了文物回鄉如何同時是研究、是認同、也是課程。",
+  "pedagogicalInsight": "學校循百年前入藏清冊上的姓名，把臺博館的文物重新連回部落家族，再把成果轉成教案、教具箱與學生導覽，這是「以文物為提問起點、讓學生當研究者與導覽者」的完整範例。對做在地文化或原住民教育的老師，示範了文物回鄉如何同時是研究、是認同、也是課程。",
+  "techniques": [
+   {
+    "t": "循著百年前入藏清冊上的姓名，把文物連回部落家族。",
+    "te": "Follow names in century-old acquisition registers to reconnect artefacts with tribal families.",
+    "m": "document"
+   },
+   {
+    "t": "訪談曾生活於舊社的耆老，並請耆老到庫房辨認文物。",
+    "te": "Interview elders who lived in the old settlements and ask them to identify objects in the storeroom.",
+    "m": "oral"
+   },
+   {
+    "t": "把成果轉成教案與教具箱，讓學生當研究者與小小導覽員。",
+    "te": "Turn results into lesson plans and a teaching kit so students become researchers and young guides.",
+    "m": "intergen"
+   }
+  ],
   "ibaeContext": [
    "人",
    "地",
@@ -3284,11 +4230,25 @@
    "兒童",
    "地方居民"
   ],
-  "summary": "北藝大美術學院以淡水公司田溪流域為舞台，透過微型藝術祭把海岸環境議題化為可參與的創作。2023 年沿溪設三個展區，藝術家王毓淞策劃『親子海歸日』，讓親子在沙崙海灘用海龜模具翻沙拓印、重現海龜上岸，呼應沙崙海灘 1980 年代曾有海龜出沒、後因人工建物與消波塊而絕跡的在地記憶；2024 年以『海龜海歸1980』衛星展延續。",
+  "summary": "北藝大美術學院以淡水公司田溪流域為舞台，透過「流域美學藝術啟動計劃：公司田溪行動」（USR 109–111 年度）的微型藝術祭，把海岸環境議題化為可參與的創作；活動由北藝大協同程氏古厝舉辦，含市集與講座。\n\n2023 年沿溪設三個展區，10 月 28 日開幕；藝術家王毓淞策劃「親子海歸日」，讓親子在沙崙海灘用大小海龜模具翻沙拓印、重現海龜上岸。\n\n這呼應沙崙海灘 1980 年代曾有海龜出沒、後因戰爭、人工建物與消波塊而離開的在地記憶；2024 年以「海龜海歸1980」衛星展（10 月 13 日、洲子灣）延續。聯合報只寫「海龜」未指明物種。",
   "selfDesc": "聯合報〈淡水「公司田溪微型藝術祭」用藝術認識海岸生態〉報導，藝術祭由北藝大美術學院協同程氏古厝舉辦，含市集、講座；王毓淞主辦『親子海歸日』、親子在沙崙海灘以大小海龜模具拓印海龜足跡。報導指沙崙 1980 年代有海龜出沒（為最近紀錄），海岸歷經戰爭與人工建物、消波塊後海龜離開。ACCUPASS 活動頁另載 2024『海龜海歸1980』衛星展（10/13、洲子灣）。",
   "editNote": "聯合報為獨立新聞來源；第二個連結 ACCUPASS 為活動售票／報名頁、非獨立報導，故列待查證。1980 年代『綠蠵龜』的物種說法見候選整理與部分來源，聯合報只寫『海龜』未指明物種，已並陳。『流域美學藝術啟動計劃』為 USR 計畫全名，對外以『公司田溪微型藝術祭』呈現。",
   "educatorRole": "facilitator-led",
-  "pedagogicalInsight": "把『海龜曾經上岸、後來消失』這個在地生態記憶，變成親子用模具翻沙拓印『重現海龜上岸』的身體參與——對帶環境教育的老師，示範了用一個具體、可動手的身體動作承載抽象的生態變遷，比直接講海洋污染更貼近孩子。要提醒的是：翻沙拓印是一次性體驗活動，深度仍有限。",
+  "pedagogicalInsight": "把「海龜曾經上岸、後來消失」這個在地生態記憶，變成親子用模具翻沙拓印「重現海龜上岸」的身體參與，對帶環境教育的老師，示範了用一個具體、可動手的身體動作承載抽象的生態變遷，比直接講海洋污染更貼近孩子。要提醒的是：翻沙拓印是一次性體驗活動，深度仍有限。",
+  "techniques": [
+   {
+    "t": "把「海龜曾經上岸、後來消失」的在地生態記憶，變成親子可動手的活動。",
+    "te": "Turn the local ecological memory of sea turtles once coming ashore and later vanishing into a hands-on activity for families."
+   },
+   {
+    "t": "用海龜模具翻沙拓印，讓孩子用身體重現海龜上岸。",
+    "te": "Use turtle moulds for sand rubbings so children recreate turtles coming ashore with their bodies."
+   },
+   {
+    "t": "沿溪設展區並結合市集與講座，讓海岸議題進到流域日常。",
+    "te": "Set exhibition zones along the creek with a market and talks so coastal issues enter everyday life in the basin."
+   }
+  ],
   "ibaeContext": [
    "地",
    "時"
@@ -3336,11 +4296,27 @@
    "地方居民",
    "青少年"
   ],
-  "summary": "台東關山電光部落以 1896 年先民用竹炮擊退清軍殘部的『雷公火之役』為集體記憶。2013 年起居民把故事搬上收割後的稻田梯田，發展《戲說雷公火》，由村民、返鄉青年與在地學童自演，以阿美、河洛、客、華語交織、不打字幕演出，盼在孩子心中種下母語種子。北藝大藝術社會實踐暨推廣教育中心以『雷公火小戲節』USR 計畫進場陪伴、協助建立劇場結構。",
+  "summary": "台東關山電光部落（Kaadaadaan，約七成阿美族、兩成客家）以 1896 年先民用竹炮擊退清軍殘部的「雷公火之役」為集體記憶。2013 年起居民把這個故事搬上收割後的稻田梯田，發展《戲說雷公火》，2023 年為第 11 屆。\n\n演出由村民、返鄉青年與在地學童自演，約一小時，竹炮加入音效，以阿美、河洛、客、華語交織、不打字幕，盼在孩子心中種下母語種子；2023 年有首個完整劇本，由關山國中詹益嘉執導。\n\n北藝大藝術社會實踐暨推廣教育中心以「雷公火小戲節」USR 子計畫（107–108、112–113 年度）進場陪伴、協助建立劇場結構。獨立報導集中在 2023 年，更早各屆細節來源未載。",
   "selfDesc": "客新聞（李台源，2023-12-23）報導：小戲 2013 年起、發展成約一小時的稻田梯田劇場，村民、返鄉青年與在地學生自演，竹炮加入音效；2023 年有首個完整劇本、由關山國中詹益嘉執導；對白混用阿美、河洛、客、華語以復振母語。PeoPo（王政魁，2023-12-18）另報導稻香劇場開演、感謝名單含臺北藝術大學、今年第 11 次演出。",
   "editNote": "客新聞與 PeoPo 為兩個獨立來源，均直接佐證北藝大陪伴、居民自演、原住民歷史與母語、第 11 屆。導演詹益嘉為 2023 年；社區組織者另有黃薰平（客新聞）。獨立報導集中在 2023 年（112–113 年度），更早各屆細節待補。電光部落以阿美族為主、兼有客家，故議題並列原住民族與客家文化。",
   "educatorRole": "facilitator-led",
-  "pedagogicalInsight": "這是『社區自己的歷史＋自己的語言＋自己的身體』三合一的高品質範例：居民把部落的雷公火之役搬上自家稻田、用多語不打字幕演出，讓母語在演的過程中自然傳承。對帶原住民或在地教育的老師，最可借鏡的是『讓孩子在戲裡聽長輩說母語』這種非正式的語言復振，比母語課更有感。北藝大的角色是陪伴與建立劇場結構、不是主導——是外部資源協力在地的好示範。",
+  "pedagogicalInsight": "這是「社區自己的歷史＋自己的語言＋自己的身體」三合一的高品質範例：居民把部落的雷公火之役搬上自家稻田、用多語不打字幕演出，讓母語在演的過程中自然傳承。對帶原住民或在地教育的老師，最可借鏡的是「讓孩子在戲裡聽長輩說母語」這種非正式的語言復振，比母語課更有感。北藝大的角色是陪伴與建立劇場結構、不是主導，是外部資源協力在地的好示範。",
+  "techniques": [
+   {
+    "t": "把部落自己的歷史（雷公火之役）搬上自家稻田，由居民自演。",
+    "te": "Take the tribe’s own history (the Thunder Fire Battle) onto its own rice fields, performed by residents themselves.",
+    "m": "theatre"
+   },
+   {
+    "t": "以阿美、河洛、客、華語交織、不打字幕演出，讓孩子在戲裡聽長輩說母語。",
+    "te": "Perform in Amis, Hoklo, Hakka and Mandarin without subtitles so children hear elders speak the mother tongue within the play.",
+    "m": "oral"
+   },
+   {
+    "t": "外部單位只陪伴並協助建立劇場結構，不主導。",
+    "te": "The outside institution only accompanies and helps build the theatre structure, without leading."
+   }
+  ],
   "ibaeContext": [
    "人",
    "地",
@@ -3388,11 +4364,25 @@
   "audience": [
    "地方居民"
   ],
-  "summary": "蘆竹湳古厝是頭份碩果僅存的大型三合院聚落，因 1968 年工業區限建意外被保留。在地的苗栗縣傳統聚落文化協會多年以『好采頭藝術祭』為核心，邀藝術家進駐老屋創作，並結合元宵乞龜、踩街、蘿蔔燈 DIY 等民俗，讓藝術與庶民生活交織。2018 年總導演李小平強調『村民才是主角』；北藝大於 USR『家在蘆竹湳』子計畫期間師生參與演出。",
+  "summary": "蘆竹湳古厝是苗栗縣頭份僅存的大型三合院聚落（約 50 座三合院），因 1968 年工業區限建意外被保留。在地的苗栗縣傳統聚落文化協會多年以「好采頭藝術祭」為核心，邀藝術家進駐老屋創作；2018 年為第 5 屆，2024 年為第 11 屆。\n\n藝術祭結合元宵乞龜、踩街、蘿蔔燈 DIY 等民俗，讓藝術與庶民生活交織。2018 年總導演李小平強調「村民才是主角」，當年有六組藝術家團隊打造 12 件作品。\n\n北藝大在 USR「家在蘆竹湳」子計畫（107–108 年度）期間，師生參與演出；聯合報第 11 屆活動流程明列「台北藝術大學演出」，中時 2018 年報導未提北藝大。",
   "selfDesc": "中國時報（2018-02-22）〈李小平幫蘆竹湳打造藝術表情〉報導 2018 第 5 屆好采頭藝術季：六組藝術家團隊打造 12 件作品、社區保存近 50 座三合院、李小平首度加入任總導演並稱『村民才是主角』（未提北藝大）。聯合報〈邁入第 11 年！⋯好采頭藝術祭 24 日登場〉報導第 11 屆活動流程，明列『台北藝術大學演出』、挖蘿蔔燈、乞龜、踩街等，展至 2/29。",
   "editNote": "以在地主體『好采頭藝術祭／蘆竹湳聚落保存』收錄，北藝大列為參與者。兩個獨立來源（中時 2018、聯合報第 11 屆）印證藝術祭為長期社區藝術活動；惟北藝大的參與僅聯合報流程列『台北藝術大學演出』、中時 2018 未提北藝大，USR 具體陪伴內容主要見校方同源頁。中時用『藝術季』、聯合報用『藝術祭』，名稱並陳。",
   "educatorRole": "facilitator-led",
-  "pedagogicalInsight": "把『元宵民俗（乞龜、踩街、蘿蔔燈）』當成藝術祭的骨架，讓藝術家進駐的創作長在庶民節慶上，而不是另外辦一個藝術活動——對帶社區的老師，示範了『藝術接上既有的生活節奏』比憑空造節更能動員居民。李小平『村民才是主角』一語，也點出外來藝術家在社區的分際。",
+  "pedagogicalInsight": "把「元宵民俗（乞龜、踩街、蘿蔔燈）」當成藝術祭的骨架，讓藝術家進駐的創作長在庶民節慶上，而不是另外辦一個藝術活動，對帶社區的老師，示範了「藝術接上既有的生活節奏」比憑空造節更能動員居民。李小平「村民才是主角」一語，也點出外來藝術家在社區的分際。",
+  "techniques": [
+   {
+    "t": "把元宵民俗（乞龜、踩街、蘿蔔燈）當成藝術祭的骨架。",
+    "te": "Use Lantern Festival customs (turtle-asking, parade, radish lanterns) as the skeleton of the festival."
+   },
+   {
+    "t": "讓藝術家進駐老屋創作，作品長在庶民節慶上。",
+    "te": "Have artists make work in the old houses so it grows on ordinary people’s festivals."
+   },
+   {
+    "t": "「村民才是主角」：外來藝術家在社區要守住分際。",
+    "te": "“The villagers are the protagonists”: visiting artists must keep their place in a community."
+   }
+  ],
   "ibaeContext": [
    "地",
    "人"
@@ -3441,11 +4431,26 @@
    "地方居民",
    "長者"
   ],
-  "summary": "台北市都發局社宅公共藝術框架下、由在地空間水谷藝術操盤的城市藝術季。藝術家以數年田野為本，串連店家、社福團體與社宅住戶，透過影像、織品、工作坊重寫萬華的勞動史與地方記憶，把說故事的位置還給『平凡人』。涂維政辦居民物件壓印、芒草心以無家者紙箱創作、林旺廷記錄南機場拆遷戶、蔡明亮以《西寧國宅》為題。",
+  "summary": "《給平凡人的萬華散策》是 2024 年 1 月 9 日至 2 月 25 日（1 月 30 日中山堂開幕）的城市藝術季，由臺北市都發局在社宅公共藝術框架下主辦，策展人林宏璋，由在地空間水谷藝術操盤（工商時報寫策展團隊為恆冠創意）。\n\n約 20 位藝術家以數年田野為本，串連店家、社福團體與社宅（青年二期、莒光、福星）住戶，透過影像、織品、工作坊重寫萬華的勞動史與地方記憶，把說故事的位置還給「平凡人」。\n\n例如涂維政辦居民物件壓印工作坊《百工多寶閣》、芒草心以無家者紙箱創作《來艋舺走撞》、林旺廷《琥珀計畫》記錄南機場拆遷戶、蔡明亮以《西寧國宅》為題。北藝大 USR 的歸屬僅見校方同源，兩個獨立來源都未提北藝大。",
   "selfDesc": "典藏ARTouch（陳思宇評論）載主辦為臺北市都發局、策展人林宏璋、團隊水谷藝術、展期 2024.01.09–02.25，記涂維政《百工多寶閣》居民物件壓印工作坊、芒草心《來艋舺走撞》無家者紙箱、林旺廷《琥珀計畫》南機場拆遷戶點雲掃描。工商時報（2024-01-30）載 1/30 中山堂開幕、三處社宅（青年二期／莒光／福星）、蔡明亮《西寧國宅》、約 20 位藝術家、策展團隊恆冠創意。",
   "editNote": "以對外主體收錄：主辦為臺北市都發局、策展林宏璋、團隊水谷藝術。兩個獨立來源（ARTouch、工商時報）都沒有提到北藝大或 USR，北藝大 USR 的歸屬僅見校方同源，故不作為對外主體、僅於此註記林宏璋為北藝大教授。策展團隊名稱兩報不同（ARTouch 作水谷藝術、工商時報作恆冠創意）、日期略有出入（展期 1/9–2/25 vs 1/30 開幕），已並陳。",
   "educatorRole": "facilitator-led",
-  "pedagogicalInsight": "『把說故事的位置還給平凡人』是這檔最可借鏡的精神：藝術家以數年田野為底，讓店家、社福對象與社宅住戶的勞動與生活成為作品內容（居民帶物件來壓印、以無家者的紙箱談空間）。對帶社區或議題的老師，示範了公共藝術可以不是擺一件大作品，而是長期蹲點、讓在地人的日常被看見。要提醒的是：這是都發局社宅公共藝術框架下的城市藝術季，規模與資源都較大。",
+  "pedagogicalInsight": "「把說故事的位置還給平凡人」是這檔最可借鏡的精神：藝術家以數年田野為底，讓店家、社福對象與社宅住戶的勞動與生活成為作品內容（居民帶物件來壓印、以無家者的紙箱談空間）。對帶社區或議題的老師，示範了公共藝術可以不是擺一件大作品，而是長期蹲點、讓在地人的日常被看見。要提醒的是：這是都發局社宅公共藝術框架下的城市藝術季，規模與資源都較大。",
+  "techniques": [
+   {
+    "t": "以數年田野為底，讓店家、社福對象與社宅住戶的勞動與生活成為作品內容。",
+    "te": "Build on several years of fieldwork so the labour and lives of shops, welfare clients and social-housing residents become the content of works.",
+    "m": "oral"
+   },
+   {
+    "t": "請居民帶物件來壓印，讓個人物件成為共同的作品。",
+    "te": "Ask residents to bring objects for imprinting so personal objects become a shared work."
+   },
+   {
+    "t": "以無家者的紙箱談空間，把被忽略的日常物件放到前景。",
+    "te": "Use homeless people’s cardboard boxes to talk about space, bringing overlooked everyday objects to the foreground."
+   }
+  ],
   "ibaeContext": [
    "地",
    "人"
@@ -3490,11 +4495,27 @@
    "策展與展覽"
   ],
   "audience": [],
-  "summary": "北藝大與國家人權博物館合作、嵌入 2020 綠島人權藝術季的教育與創作計畫。北藝大藝術相關科系師生先透過『記憶政治與藝術介入』課程認識白色恐怖與轉型正義脈絡，再進駐白色恐怖綠島紀念園區，以『記憶邊陲／邊緣』為題現地創作，由王寶萱策劃北藝大特展、產出 5 件學生作品，將政治受難歷史轉化為當代藝術敘事。",
+  "summary": "北藝大與國家人權博物館合作，把教育與創作計畫嵌入 2020 綠島人權藝術季（展期 5 月 15 日至 9 月 15 日，地點為國家人權博物館白色恐怖綠島紀念園區）。\n\n北藝大藝術相關科系學生先透過「記憶政治與藝術介入」課程認識白色恐怖與轉型正義脈絡，再進駐紀念園區，以「記憶邊陲／邊緣」為題現地創作，產出 5 件學生作品；特展由王寶萱策劃，藝術季整體策展人為羅秀芝。\n\n創作主體是北藝大學生、不是在地居民或受難者社群；新聞稿寫「學生」產出作品、未提教師共創，確切指導教師姓名在可讀來源中未出現。",
   "selfDesc": "國家人權博物館新聞稿（2020-05-15）〈2020綠島人權藝術季正式開幕 以當代藝術創作 從邊緣發聲〉載：藝術季展期 5/15–9/15、於白色恐怖綠島紀念園區；今年首度與國立臺北藝術大學等國內藝術科系合作、結合『記憶政治與藝術介入』課程、學生產出 5 件以『記憶邊陲』為主軸的作品（新聞稿提及學生創作、未提教師共創）；藝術季整體策展人為羅秀芝。〈記憶．邊緣〉特展名與策展人王寶萱見人權館線上展。風傳媒／新新聞（李佳穎，2020-07-18）談藝術季整體（21 組藝術家），未點名北藝大特展。",
   "editNote": "依使用者決定收錄、列待查證。直接點名『北藝大特展〈記憶．邊緣〉』與策展人王寶萱的兩筆來源同屬國家人權博物館（新聞稿＋線上展，同機構、不算互相獨立）；風傳媒僅涵蓋藝術季整體、未點名北藝大。新聞稿寫『學生』產出作品、未提教師共創，『師生』一詞不精確。創作主體為北藝大學生、非在地社區，居民參與低；收錄係依『師生藝術教育＋白色恐怖人權議題』。確切指導教師姓名未在可讀來源出現。議題以『身分與歷史記憶』『勞動與人權』標註白色恐怖、轉型正義與人權。",
   "educatorRole": "facilitator-led",
-  "pedagogicalInsight": "這是『先上課理解脈絡、再現地創作』的藝術教育範例：學生先修『記憶政治與藝術介入』課認識白色恐怖與轉型正義，再進駐綠島園區，把歷史轉成作品。對帶議題或歷史的老師，示範了『知識建構→現地回應→創作產出』的完整教學弧線。要提醒的是：創作主體是北藝大學生、不是在地居民或受難者社群，所以它是『學生如何理解與轉譯他人的創傷歷史』的教學案例，而非社區共創。",
+  "pedagogicalInsight": "這是「先上課理解脈絡、再現地創作」的藝術教育範例：學生先修「記憶政治與藝術介入」課認識白色恐怖與轉型正義，再進駐綠島園區，把歷史轉成作品。對帶議題或歷史的老師，示範了「知識建構→現地回應→創作產出」的完整教學弧線。要提醒的是：創作主體是北藝大學生、不是在地居民或受難者社群，所以它是「學生如何理解與轉譯他人的創傷歷史」的教學案例，而非社區共創。",
+  "techniques": [
+   {
+    "t": "先上課理解白色恐怖與轉型正義的脈絡，再進駐現場創作。",
+    "te": "Take a course first to understand the White Terror and transitional justice, then take up residence and make on site.",
+    "m": "document"
+   },
+   {
+    "t": "在歷史現場（綠島紀念園區）現地回應，把歷史轉成作品。",
+    "te": "Respond on site at the historical place (Green Island memorial park) and turn history into works.",
+    "m": "site"
+   },
+   {
+    "t": "追問：學生如何理解與轉譯他人的創傷歷史？",
+    "te": "Ask: how do students understand and translate others’ traumatic history?"
+   }
+  ],
   "ibaeContext": [
    "時",
    "地"
@@ -3552,11 +4573,25 @@
    "移工",
    "地方居民"
   ],
-  "summary": "由向貧窮者學習行動聯盟（窮學盟）自 2017 年起推動的年度計畫，以展覽與論壇讓貧窮經驗者——無家者、移工、脆弱處境的母親、精神疾病與逆境兒少等——以『創作者』身分訴說自己眼中的台北，追問城市的包容性。歷年與十多個 NGO 及藝術家共創（捏陶、調香、繪畫、黏土、裝置、影像等），展覽刻意不標示創作者的身分與狀態，以凸顯作品本身。2024 年春季於台北當代藝術館推出前導展《轉運站》、秋季於剝皮寮推出第七屆《白日夢遊》。",
+  "summary": "《貧窮人的台北》是向貧窮者學習行動聯盟（窮學盟）自 2017 年起推動的年度計畫，以展覽與論壇讓貧窮經驗者（無家者、移工、脆弱處境的母親、精神疾病與逆境兒少等）以「創作者」身分訴說自己眼中的台北，追問城市的包容性。\n\n歷年與十多個 NGO 及藝術家共創（捏陶、調香、繪畫、黏土、裝置、影像等），展覽刻意不標示創作者的身分與狀態，以凸顯作品本身。2024 年春季於台北當代藝術館推出前導展《轉運站》（4/27–6/16，13 組藝術家團體），秋季於剝皮寮推出第七屆《白日夢遊》（10/15–11/14），衛星展在一碼 IMMA 與小紅厝。\n\nRight Plus 記此為前導展、貧北邁入第 8 年、改為雙年展形式、19 個合作 NGO 與藝術家共創。經驗者在策展決策中的角色多數報導未細寫，共創多在作品層次；第八屆的年份與展期未能核實。",
   "selfDesc": "中央社（王寶兒，2024-04-26）報導《轉運站》於台北當代藝術館（4/27–6/16，13 組藝術家團體）：窮學盟由貧窮經驗者、NGO、藝術家與社會學者組成，與人生百味朱剛勇共同策畫；張羽儀《友善的椅子計畫》以密集扶手長椅呈現無家者處境，展覽刻意不標示創作者身分。Right Plus 多多益善（2024-06-07）記此為前導展、貧北邁入第 8 年、改為雙年展形式、19 個合作 NGO 與藝術家共創（社區實踐協會捏陶調香、夢想城鄉繪畫黏土、樂窩遷徙地圖、人生百味《什麼風把你吹來的》長型裝置）。博物之島新訊（文化部）記秋季第七屆《白日夢遊》於剝皮寮（10/15–11/14）、衛星展一碼IMMA與小紅厝，把貧窮理解為物質／精神／關係上的匱乏與排除。",
   "editNote": "依收錄標準 1.3 以『整個《貧窮人的台北》計畫（2017–）』為單位收錄，各屆為例子。2024 年有兩檔已釐清：春季《轉運站》為台北當代藝術館前導展（中央社、Right Plus），秋季《白日夢遊》為剝皮寮第七屆（博物之島）。第八屆《只是我還在認識的影子》的年份與展期，因剝皮寮歷史街區官方頁 robots 無法讀取、未能核實。經驗者在策展決策（選件、主題）中的角色多數報導未細寫，共創多在作品層次。來源分級：朱剛勇／窮學盟自家文章與參展單位頁面屬當事人自述、Accupass 報名頁不算獨立佐證，未列入主要佐證。Right Plus 一文展期日期有誤植（2024/4/27～2022/6/16），以中央社 4/27–6/16 為準。與 K63『萬華散策』（都發局／水谷藝術）為不同計畫、不重複。",
   "educatorRole": "facilitator-led",
-  "pedagogicalInsight": "最可借鏡的是它把貧窮經驗者從『被展示、被標籤的對象』翻轉成『創作者』——而且刻意不標示創作者的身分與狀態，讓作品先被看見、而不是先被貼上『遊民』『單親媽媽』的標籤。對帶弱勢或敏感議題的老師，這個『先拿掉標籤、讓人以創作者身分發聲』的設計是關鍵。共創手法也多元可借：捏陶調香、以繪畫黏土回顧生命、手繪遷徙地圖、收集心聲的長型裝置。要提醒的是：經驗者在策展決策中的角色多數報導未細寫，共創多在作品層次。",
+  "pedagogicalInsight": "最可借鏡的是它把貧窮經驗者從「被展示、被標籤的對象」翻轉成「創作者」，而且刻意不標示創作者的身分與狀態，讓作品先被看見、而不是先被貼上「遊民」「單親媽媽」的標籤。對帶弱勢或敏感議題的老師，這個「先拿掉標籤、讓人以創作者身分發聲」的設計是關鍵。共創手法也多元可借：捏陶調香、以繪畫黏土回顧生命、手繪遷徙地圖、收集心聲的長型裝置。要提醒的是：經驗者在策展決策中的角色多數報導未細寫，共創多在作品層次。",
+  "techniques": [
+   {
+    "t": "讓貧窮經驗者以「創作者」身分發聲，而不是被展示的對象。",
+    "te": "Let people with experience of poverty speak as “creators”, not as objects displayed."
+   },
+   {
+    "t": "展覽刻意不標示創作者的身分與狀態，讓作品先被看見。",
+    "te": "Deliberately do not label creators’ identity or status so the work is seen first."
+   },
+   {
+    "t": "用捏陶、調香、繪畫黏土、手繪遷徙地圖等多元共創手法。",
+    "te": "Use varied co-creation methods such as pottery, scent blending, painting and clay, and hand-drawn migration maps."
+   }
+  ],
   "ibaeContext": [
    "人",
    "地"
@@ -3622,11 +4657,21 @@
    "地方居民",
    "青少年"
   ],
-  "summary": "南藝大與臺南市立官田國中合辦的教育部 114 年度 USR 藝術展。以官田『踅夜市』文化為靈感，認為隆田夜間街道的攤販燈光不只聚集人潮，也承載居民的生活記憶；南藝學生做出『發光的菱角』等多媒材作品。展期自 11/8 至 12/30、每日 17:00–21:30 免費開放。",
+  "summary": "《踅，有光ê所在》是南藝大與臺南市立官田國中合辦的教育部 114 年度 USR 藝術展，2025 年 11 月 8 日開幕、展至 12 月 30 日，每日 17:00–21:30 免費開放，展場在官田國中。\n\n展覽以官田「踅夜市」文化為靈感，認為隆田夜間街道的攤販燈光不只聚集人潮，也承載居民的生活記憶；展品含南藝學生作品「發光的菱角」等多媒材作品。\n\n開幕開燈由兩校校長共同主持，立委與隆田夜市管理委員會會長到場。居民並非共同創作者，而是觀眾／參與者；本案歸入「大隆田生活美學進鄉」係依 2026 年續辦檔推斷。",
   "selfDesc": "經濟日報（2025-11-08）報導：本展由南藝大與官田國中協辦、受教育部 114 年度 USR 計畫支持，11/8 開幕、展至 12/30，每日 17:00–21:30，開幕開燈由校長邱上嘉與官田國中校長敬世龍共同主持，立委郭國文出席致詞，隆田夜市管理委員會會長到場；展品含『發著光的菱角』為南藝學生作品，展覽以官田『踅夜市』文化為靈感。",
   "editNote": "歸入『南藝大藝術進鄉／USR』系列，並與 2026 續辦的《Light Light Light 隆來》（K68）同屬『大隆田生活美學進鄉』計畫。要注意：經濟日報這篇未印出『大隆田生活美學進鄉』計畫名、也未寫出跨系系所與策展人姓名；把本檔歸入大隆田、與 K68 相連，是依 2026 檔（相同學校、相同主題、相同『夜市光／生活記憶』）推斷。居民參與偏弱：作品主要由南藝學生創作，官田國中師生與民眾為觀眾或工作坊參與者。",
   "educatorRole": "facilitator-led",
-  "pedagogicalInsight": "最可借鏡的是把『夜市攤販的燈光』當成切入點——居民天天看見、卻習以為常的日常物件，被重新看成承載生活記憶的題材。對帶地方美學或生活記憶的老師，示範了怎麼從學生自己的生活場景長出創作主題，而不是給外來題目。要提醒的是：居民並非共同創作者，而是觀眾／參與者。",
+  "pedagogicalInsight": "最可借鏡的是把「夜市攤販的燈光」當成切入點：居民天天看見、卻習以為常的日常物件，被重新看成承載生活記憶的題材。對帶地方美學或生活記憶的老師，示範了怎麼從學生自己的生活場景長出創作主題，而不是給外來題目。要提醒的是：居民並非共同創作者，而是觀眾／參與者。",
+  "techniques": [
+   {
+    "t": "把天天看見、習以為常的夜市攤販燈光，重新看成承載生活記憶的題材。",
+    "te": "See the night-market stall lights people see daily and take for granted anew as material carrying living memory."
+   },
+   {
+    "t": "讓創作主題從學生自己的生活場景長出來，而不是給外來題目。",
+    "te": "Let the theme grow from students’ own life scenes instead of giving an outside topic."
+   }
+  ],
   "ibaeContext": [
    "地",
    "人"
@@ -3673,11 +4718,25 @@
    "地方居民",
    "青少年"
   ],
-  "summary": "南藝大『大隆田生活美學進鄉』USR 計畫 2026 年在官田國中推出的跨系藝術展。以『Light』加台語『來』的諧音邀民眾走進隆田，延續以隆田夜市與夜間街道的燈光為題，營造光影隧道般的觀展體驗；並辦兩場摺紙彩繪燈籠工作坊，讓官田國中學生創作、作品同步展出。展至 12/20。",
+  "summary": "《Light Light Light 隆來》是南藝大「大隆田生活美學進鄉」USR 計畫 2026 年在官田國中推出的年度跨系藝術展，由材質創作與設計系、藝術史與文化資產學系合作，官田國中協辦，邀鄭正雄、許遠達、陳明鴻三位老師共同策展，展至 12 月 20 日。\n\n展名以「Light」加台語「來」的諧音邀民眾走進隆田，延續以隆田夜市與夜間街道的燈光為題，作品讓觀眾彷彿走進光影隧道。\n\n計畫團隊另在官田國中辦兩場摺紙彩繪燈籠工作坊，讓官田國中學生創作、作品同步展出。單看 2026 這一檔目前只有中華日報／Yahoo 同一篇，尚無第二個獨立來源。",
   "selfDesc": "中華日報（2026-11-17）報導：本展為南藝大推動 USR、攜手官田國中舉辦的年度藝術展，由材質創作與設計系、藝術史與文化資產學系跨系合作，官田國中協辦，邀鄭正雄、許遠達、陳明鴻三位老師共同策展；展覽是『大隆田生活美學進鄉』USR 計畫的重要成果，作品讓觀眾彷彿走進光影隧道，計畫團隊另在官田國中辦兩場摺紙彩繪燈籠工作坊、學生作品同步展出，展至 12/20。",
   "editNote": "歸入『南藝大藝術進鄉／USR』系列，並與 2025 的《踅，有光ê所在》（K66）同屬『大隆田生活美學進鄉』計畫。本檔計畫名、跨系系所與策展人由中華日報明載。單看 2026 這一檔目前只有中華日報／Yahoo 同一篇，尚無第二個獨立來源。居民參與偏弱：作品主要由南藝學生創作，官田國中學生為燈籠工作坊參與者。",
   "educatorRole": "facilitator-led",
-  "pedagogicalInsight": "延續『夜市燈光＝生活記憶』的切入點，並以『光影隧道』把展場體驗化。燈籠工作坊是低門檻、可直接借用的參與形式，讓在地學生動手。要提醒的是：這偏向『學生創作、居民觀展』，居民並非共同創作者。",
+  "pedagogicalInsight": "延續「夜市燈光＝生活記憶」的切入點，並以「光影隧道」把展場體驗化。燈籠工作坊是低門檻、可直接借用的參與形式，讓在地學生動手。要提醒的是：這偏向「學生創作、居民觀展」，居民並非共同創作者。",
+  "techniques": [
+   {
+    "t": "用「光影隧道」把展場做成可走進去的體驗。",
+    "te": "Make the venue an experience people can walk into with a “tunnel of light and shadow”."
+   },
+   {
+    "t": "辦摺紙彩繪燈籠工作坊，讓在地學生動手並同步展出作品。",
+    "te": "Run paper-folding lantern-painting workshops so local students make things and show them alongside."
+   },
+   {
+    "t": "延續夜市燈光＝生活記憶的題目，逐年深化同一個場域。",
+    "te": "Continue the theme of night-market lights = living memory and deepen the same place year by year."
+   }
+  ],
   "ibaeContext": [
    "地",
    "人"
@@ -3724,11 +4783,25 @@
    "青少年",
    "長者"
   ],
-  "summary": "南藝大音像學院以教育部 USR 計畫推動「重返與扎根——南瀛地區影像行動計畫」，2025 年 12 月舉辦成果展。計畫橫跨台南東山、玉井、七股、北門、官田五區，透過影像讀書會、暑期影像營、行動照相館、家庭錄影帶搶救與膠卷電影戶外放映，結合國中小師生、研究生與地方耆老，記錄廟宇、鹽分地帶、芒果與香草等在地產業與庶民記憶，建立跨世代的影像行動路徑。",
+  "summary": "南藝大音像學院以教育部 USR 計畫推動「重返與扎根——南瀛地區影像行動計畫」，2025 年 12 月 5 日至 6 日在音像學院（官田區）舉辦成果展。計畫主持人為音像紀錄研究所所長曾吉賢，合作單位含北門社區大學、神腦科技文教基金會。\n\n計畫橫跨台南東山、玉井、七股、北門、官田五區，含五大子計畫「官田誌造、玉井映紀、北門鹽究、南瀛時光、篤加影像營」，透過影像讀書會、暑期影像營、行動照相館、家庭錄影帶搶救與膠卷電影戶外放映，結合國中小師生、研究生與地方耆老。\n\n記錄廟宇、鹽分地帶、芒果與香草等在地產業與庶民記憶，建立跨世代的影像行動路徑。各子計畫的參與人數與作品件數來源未載。",
   "selfDesc": "經濟日報（黃啟銘，2025-12-05）與自由時報（楊金城，2025-12-05）報導：南藝大音像學院參與教育部 USR 計畫，成果展 12/5–6 於音像學院展出，含五大子計畫「官田誌造、玉井映紀、北門鹽究、南瀛時光、篤加影像營」，涵蓋東山、玉井、七股、北門、官田五區。經濟日報寫計畫主持人為音像紀錄研究所所長曾吉賢；自由時報寫由教務長蔡慶同、謝侑恩、林巧芳等老師帶領研究生。合作單位含北門社區大學、神腦科技文教基金會。",
   "editNote": "歸入「南藝大藝術進鄉／USR」系列。校長邱上嘉在報導中是校方致詞、呼應 SDGs，非計畫主持人（主持人為曾吉賢）。糖鐵路線名兩篇用字不一（自由時報圖說「糖鐵玉左線」、內文「井井玉左線」），待查。各子計畫的參與人數與作品件數來源未寫，不列。兩篇同日發稿、內容部分重疊，可能部分同源於南藝大新聞稿；南藝大自家網站與 USR Hub 屬同源，未列為獨立佐證。",
   "educatorRole": "facilitator-led",
   "pedagogicalInsight": "最可借鏡的是它把「影像」當成跨世代的行動工具，而不只是成果形式：搶救家庭錄影帶、行動照相館、膠卷電影戶外放映，都是把長輩與在地記憶拉進來的具體方法。對帶影像／媒體素養或地方記憶的老師，五大子計畫示範了怎麼依不同社區（鹽分地帶、芒果產區）設計不同的影像任務。要提醒的是：各子計畫由研究生與師生帶領，耆老與居民多為受訪與被記錄者，參與深度各案不一。",
+  "techniques": [
+   {
+    "t": "搶救家庭錄影帶，把長輩的私人影像變成地方記憶。",
+    "te": "Rescue family videotapes and turn elders’ private footage into local memory."
+   },
+   {
+    "t": "用行動照相館與膠卷電影戶外放映，把影像帶到社區現場。",
+    "te": "Use a mobile photo studio and outdoor film-reel screenings to bring images into the community."
+   },
+   {
+    "t": "依不同社區（鹽分地帶、芒果產區）設計不同的影像任務。",
+    "te": "Design different image tasks for different communities (the salt belt, mango-growing areas)."
+   }
+  ],
   "ibaeContext": [
    "地",
    "人",
@@ -3771,11 +4844,25 @@
    "藝術家個人創作"
   ],
   "audience": [],
-  "summary": "陳界仁 2003 年的錄像作品。他邀請曾在聯福製衣廠工作逾二十年、因資方惡性關廠而失業的女工，回到已廢置約七年的工廠「工作」，影片中女工扮演自己，並穿插舊黑白紀錄片，勾勒台灣加工出口業在產業外移中的衰頹史。陳界仁視拍攝為替女工「創造另一個分身」、替她們「書寫人民記憶」，讓看似結束的抗爭得以延續。",
+  "summary": "《加工廠》是陳界仁 2003 年的錄像作品（約 30 分 50 秒、超 16mm 轉 DVD、無聲）。他邀請曾在桃園聯福製衣廠工作逾二十年、因資方惡性關廠、拒付退休金與資遣費而失業的女工，回到已廢置約七年的工廠「工作」，影片中女工扮演自己。\n\n影片穿插舊黑白紀錄片，勾勒台灣加工出口業在產業外移中的衰頹史，工廠關閉後生產移往勞力更便宜的國家。\n\n陳界仁視拍攝為替女工「創造另一個分身」、替她們「書寫人民記憶」，讓看似結束的抗爭得以延續。這是藝術家個人創作；女工回到現場扮演自己、與藝術家共謀，而非社區共創。",
   "selfDesc": "呂佩怡研究案把《加工廠》列為「以藝術揭露現實」的案例；陳界仁自述（IT PARK）與 iniva（倫敦國際視覺藝術中心）指出拍攝地為聯福製衣廠（Lien Fu），女工在此工作逾二十年，資方惡性關廠、拒付退休金與資遣費，廠約於拍攝前七年（約 1996 年）廢置；Public Delivery 載本片 30 分 50 秒、超 16mm 轉 DVD、無聲，邀請女工回到現場重演，工廠關閉後移往勞力更便宜的國家。",
   "editNote": "歸入呂佩怡研究案點名的十位藝術家。作品屬藝術家個人創作、以社會議題（關廠、產業外移、勞工）為題，依平台『以社會議題為主題亦可收錄』標準收入。『參與』為特殊意義——女工回到現場扮演自己、與藝術家共謀，而非社區共創。拍攝地：陳界仁自述與 iniva 皆載為『聯福製衣廠』、但未直接寫出縣市；聯福製衣廠即 1996 年桃園聯福紡織惡性關廠案的工廠，本平台據此標為桃園。",
   "educatorRole": "artist-led",
-  "pedagogicalInsight": "最可借鏡的是『讓當事人扮演自己』與『回到現場』的方法：陳界仁不替勞工代言，而是讓女工回到廢廠重演、成為影片的分身。對處理勞動、地方產業史的課程，這示範了怎麼把抽象的『產業外移』變成具體的身體與場景，也提醒不要落入『藝術家關懷底層』的粗糙姿態。",
+  "pedagogicalInsight": "最可借鏡的是「讓當事人扮演自己」與「回到現場」的方法：陳界仁不替勞工代言，而是讓女工回到廢廠重演、成為影片的分身。對處理勞動、地方產業史的課程，這示範了怎麼把抽象的「產業外移」變成具體的身體與場景，也提醒不要落入「藝術家關懷底層」的粗糙姿態。",
+  "techniques": [
+   {
+    "t": "讓當事人（女工）扮演自己，而不是替她們代言。",
+    "te": "Let those concerned (the women workers) play themselves rather than speaking for them."
+   },
+   {
+    "t": "回到已廢置的原工廠現場重演，把抽象的產業外移變成具體的身體與場景。",
+    "te": "Return to the abandoned original factory to re-enact, turning abstract industrial relocation into concrete bodies and scenes."
+   },
+   {
+    "t": "穿插舊黑白紀錄片，把個人經驗接到產業衰頹史。",
+    "te": "Cut in old black-and-white documentaries to connect personal experience to the history of industrial decline."
+   }
+  ],
   "ibaeContext": [
    "人",
    "地",
@@ -3825,11 +4912,25 @@
   "audience": [
    "青少年"
   ],
-  "summary": "藝術家姚瑞中與學生組成的團體「失落社會檔案室」(LSD)，自 2010 年起進行的全台閒置公共設施（蚊子館）抽樣踏查。學生返鄉以藝術家之眼田野踏查、拍攝，收集數百個閒置公共設施，出版厚達數百頁的黑白照片檔案式專書。計畫揭露這些生活週遭卻被忽略的公共浪費，引起媒體與政府高層關注，形成民間監督力量；姚瑞中退居為計畫組織者／老師，並自掏腰包以確保言論自由與行動獨立。",
+  "summary": "《海市蜃樓：台灣閒置公共設施抽樣踏查計劃》是藝術家姚瑞中與學生組成的團體「失落社會檔案室」（LSD）自 2010 年起進行的全台閒置公共設施（蚊子館）抽樣踏查，第一集於 2010 年出版，2018 年已是第 9 年。\n\n學生返鄉以藝術家之眼田野踏查、拍攝，2010–2014 年踏查四百多個閒置公共設施、出版四本專刊；新書《海市蜃樓VI》記錄 100 件閒置或低度使用案例（蚊子館約占三分之一）。成果是厚達數百頁的黑白照片檔案式專書。\n\n計畫揭露這些生活週遭卻被忽略的公共浪費，引起媒體與政府高層關注，形成民間監督力量；姚瑞中退居為計畫組織者／老師，並全程自掏腰包以確保言論自由與行動獨立。",
   "selfDesc": "呂佩怡研究案載本計畫 2010–2014、踏查四百多個閒置公共設施、出版四本專刊、姚瑞中作為藝術家身分向後退、化身組織者或以老師身分出現、全程自掏腰包。中央社（風傳媒 2018-05-17 轉載）載姚瑞中任教台師大與北藝大、帶學生組『失落社會檔案室』、《海市蜃樓》第一集 2010 年出版、2018 年已第 9 年、新書《海市蜃樓VI》記錄 100 件閒置或低度使用案例（蚊子館約占三分之一），並舉 2010 年時任行政院長吳敦義曾允諾一年內完成閒置空間活化、惟多案仍未改善（如屏東恆春半島遊客中心）。",
   "editNote": "歸入呂佩怡研究案點名的十位藝術家。計畫為全台抽樣踏查、無單一地點，`city` 以團隊組織與出版基地（台北）暫標、並在此說明其為全台性質；地圖計數僅供參考。計畫由姚瑞中帶學生集體進行，具參與性，故同列『社會參與式藝術』。名稱兩源用字略有出入（呂文『計劃』、中央社『計畫』），並陳。",
   "educatorRole": "facilitator-led",
-  "pedagogicalInsight": "最可借鏡的是把『田野踏查＋檔案化』當成公民行動：讓學生返鄉記錄家鄉的閒置設施，既是影像訓練，也是對公共政策的監督。它示範了藝術家退居組織者、把舞台讓給參與者的做法；對地方踏查、公民議題課程是很好的方法原型。",
+  "pedagogicalInsight": "最可借鏡的是把「田野踏查＋檔案化」當成公民行動：讓學生返鄉記錄家鄉的閒置設施，既是影像訓練，也是對公共政策的監督。它示範了藝術家退居組織者、把舞台讓給參與者的做法；對地方踏查、公民議題課程是很好的方法原型。",
+  "techniques": [
+   {
+    "t": "讓學生返鄉踏查、拍攝家鄉的閒置設施。",
+    "te": "Have students return home to survey and photograph idle facilities in their home towns."
+   },
+   {
+    "t": "把踏查結果檔案化、出版成書，形成民間監督的證據。",
+    "te": "Archive and publish survey results as books, forming evidence for civil oversight."
+   },
+   {
+    "t": "藝術家退居組織者，把舞台讓給參與的學生。",
+    "te": "The artist steps back to be an organiser and gives the stage to the participating students."
+   }
+  ],
   "ibaeContext": [
    "地",
    "時"
@@ -3872,11 +4973,25 @@
    "藝術家個人創作"
   ],
   "audience": [],
-  "summary": "高俊宏自 2012 年起進行的廢墟系列計畫。他走進台灣因經濟自由化、民營化而被放棄的廢墟空間，在現場以炭筆進行壁面素描，再透過戲劇、攝影等形式呈現時代更迭、讓人看見被時代遺忘的痕跡。其中《湯姆生計畫》在因民營化荒廢的樹林台汽客運調度場牆面，重繪 1871 年英國攝影師湯姆生(John Thomson)所拍下荖濃溪谷的影像；此場景後來也成為蔡明亮電影《郊遊》的重要場景。",
+  "summary": "《廢墟影像晶體計畫》（The Ruin Image Crystal Project，呂佩怡研究案作《廢墟晶體計畫》）是高俊宏自 2012 年起進行的廢墟系列計畫。他走進台灣因經濟自由化、民營化而被放棄的廢墟空間，在現場以炭筆進行壁面素描，再透過戲劇、攝影等形式呈現時代更迭，讓人看見被時代遺忘的痕跡。\n\n其中《湯姆生計畫》在因民營化荒廢的樹林台汽客運調度場牆面，重繪 1871 年英國攝影師湯姆生（John Thomson）所拍下荖濃溪谷的影像；此場景後來也成為蔡明亮電影《郊遊》的重要場景。\n\n《接待室》（2014）被載為本計畫的某種後續，場景為新店廢棄監獄、三峽廢棄礦坑等。多處廢墟、無單一地點；這是藝術家個人創作，以廢墟／民營化議題為題收入。",
   "selfDesc": "呂佩怡研究案把《廢墟晶體計畫》(2012) 列為『以藝術揭露現實』，載高俊宏進入廢墟現地素描、以戲劇攝影呈現時代更迭；《湯姆生計畫》在樹林台汽客運調度場以炭筆繪 1871 年湯姆生下荖濃溪谷影像，場景成為蔡明亮《郊遊》場景。台灣國際錄像藝術展（twvideoart.org）高俊宏作品頁載《接待室》(2014) 為『《廢墟影像晶體計畫》的某種後續』、場景為新店廢棄監獄、三峽廢棄礦坑等。",
   "editNote": "歸入呂佩怡研究案點名的十位藝術家。作品名呂文作《廢墟晶體計畫》、通行全名為《廢墟影像晶體計畫》(The Ruin Image Crystal Project)，本平台採後者。多處廢墟、無單一地點，`city` 以呂文舉出的樹林台汽（新北樹林）暫標並說明。作品屬藝術家個人創作、以廢墟／民營化議題為題收入。",
   "educatorRole": "artist-led",
-  "pedagogicalInsight": "最可借鏡的是把『廢墟』當成閱讀政治經濟史的現場：不是把廢墟當背景，而是進去停留、在牆上畫下歷史影像，讓空間本身成為教材。對地方史、都市變遷、產業／民營化議題的課程，這示範了『身體進入現場、以繪畫與影像重寫記憶』的取徑。",
+  "pedagogicalInsight": "最可借鏡的是把「廢墟」當成閱讀政治經濟史的現場：不是把廢墟當背景，而是進去停留、在牆上畫下歷史影像，讓空間本身成為教材。對地方史、都市變遷、產業／民營化議題的課程，這示範了「身體進入現場、以繪畫與影像重寫記憶」的取徑。",
+  "techniques": [
+   {
+    "t": "走進因民營化被放棄的廢墟，把它當成閱讀政治經濟史的現場。",
+    "te": "Enter ruins abandoned through privatisation and treat them as a site for reading political and economic history."
+   },
+   {
+    "t": "在牆面現地用炭筆素描，把歷史影像重繪在空間上。",
+    "te": "Draw on site with charcoal on the walls, redrawing historical images onto the space."
+   },
+   {
+    "t": "再用戲劇、攝影等形式呈現時代更迭。",
+    "te": "Then present the change of eras through drama, photography and other forms."
+   }
+  ],
   "ibaeContext": [
    "地",
    "時"
@@ -3921,11 +5036,25 @@
   "audience": [
    "地方居民"
   ],
-  "summary": "葉偉立自 2004 年起進駐台北寶藏巖聚落的長期計畫（The Treasure Hill Tea + Photo Project, THTP）。他以『藝術家在社區裡可以做什麼』為提問，在聚落開設泡茶與照相的空間、替居民拍肖像、整理花園、與鄰居往來共作。相對於主動的社區介入，他採一種『等候大駕』的被動姿態——讓現實與關係自己找上門，再從中長出作品。計畫分多個階段，最後以『勘誤』(Oversight) 階段集結，2008 年於溫哥華 Centre A 展出、出版專書。",
+  "summary": "《寶藏巖泡茶照相館計畫》（The Treasure Hill Tea + Photo Project，THTP）是葉偉立自 2004 年起進駐台北寶藏巖聚落的長期計畫（駐村約 2004–2006，計畫延續至 2008）。他以「藝術家在社區裡可以做什麼」為提問，在聚落開設泡茶與照相的空間、替居民拍肖像、整理花園、與鄰居往來共作。\n\n相對於主動的社區介入，他採一種「等候大駕」的被動姿態——讓現實與關係自己找上門，再從中長出作品。\n\n計畫分多個階段，最後以「勘誤」（Oversight）階段集結，2008 年於溫哥華 Centre A 展出、出版專書。具社區互動，但主要仍是藝術家主導的個人計畫。",
   "selfDesc": "呂佩怡研究案把本計畫列為『以藝術介入現實』，載葉偉立 2004 年進駐寶藏巖、以『藝術家在社區可以做什麼』為提問，開泡茶照相館、拍肖像、整理花園、與鄰居協作，採『等候大駕』的被動方式（『現實會自己找上你』），最後階段『勘誤』於 2008 年溫哥華 Centre A 展出。亞洲藝術文獻庫（AAA）館藏記錄《The Treasure Hill Tea + Photo Project / Phase Five / Oversight》(2008)，含葉偉立攝影與書信、吳語心錄像作品，鄭慧華（Amy Cheng）撰〈葉偉立與吳語心的個人與集體創作〉，144 頁、繁中與英文。",
   "editNote": "歸入呂佩怡研究案點名的十位藝術家。駐村起訖年（2004–2006）與泡茶照相館、肖像、花園、『等候大駕』等細節出自呂文；AAA 獨立佐證計畫名稱、地點（寶藏巖）、作者（葉偉立＋吳語心）、攝影/錄像媒材與 2008 年『第五階段 勘誤』出版，顯示計畫為多階段、延續至 2008。具社區互動故列『社區藝術』，但主要仍是藝術家主導的個人計畫。",
   "educatorRole": "artist-led",
-  "pedagogicalInsight": "最可借鏡的是『被動式進場』：不帶既定方案空降社區，而是先住下來、開一個可以泡茶照相的空間，讓關係自己發生、再長出作品。對社區駐點、地方書寫的課程，這示範了放慢節奏、以日常接觸累積信任的取徑；也可對照主動介入型計畫，討論兩種姿態的利弊。",
+  "pedagogicalInsight": "最可借鏡的是「被動式進場」：不帶既定方案空降社區，而是先住下來、開一個可以泡茶照相的空間，讓關係自己發生、再長出作品。對社區駐點、地方書寫的課程，這示範了放慢節奏、以日常接觸累積信任的取徑；也可對照主動介入型計畫，討論兩種姿態的利弊。",
+  "techniques": [
+   {
+    "t": "不帶既定方案空降社區，先住下來。",
+    "te": "Do not parachute into a community with a fixed plan; settle in first."
+   },
+   {
+    "t": "開一個可以泡茶、照相的空間，讓關係自己發生。",
+    "te": "Open a space for tea and photographs and let relationships happen on their own."
+   },
+   {
+    "t": "對照主動介入型計畫，討論兩種姿態的利弊。",
+    "te": "Compare with actively interventionist projects and discuss the pros and cons of the two stances."
+   }
+  ],
   "ibaeContext": [
    "地",
    "人"
@@ -3967,11 +5096,25 @@
    "藝術家個人創作"
   ],
   "audience": [],
-  "summary": "許家維 2012 年的錄像裝置。作品以馬祖外海一座小島及其守護神『鐵甲元帥』（一尊青蛙神明）為主軸——這尊神原在中國武夷山的廟，廟於文化大革命中被毀，神明輾轉遷到馬祖。許家維以綠幕合成，在島上重建一座虛構的原廟影像，鏡頭再緩緩拉開、露出綠幕，讓神話、歷史與兩岸遷移的記憶在同一個畫面裡並置。作品的拍攝，是在不斷向神明請示、協商的過程中完成的。",
+  "summary": "《鐵甲元帥—龜島》（Marshal Tie Jia – Turtle Island）是許家維 2012 年的錄像裝置。作品以馬祖外海一座小島及其守護神「鐵甲元帥」（一尊青蛙神明）為主軸：這尊神原在中國武夷山的廟，廟於文化大革命中被毀，神明輾轉遷到馬祖。\n\n許家維以綠幕合成，在島上重建一座虛構的原廟影像，鏡頭再緩緩拉開、露出綠幕，讓神話、歷史與兩岸遷移的記憶在同一個畫面裡並置。\n\n作品的拍攝是在不斷向神明請示、協商的過程中完成的。「龜島」見於作品標題，Art Basel 僅記「馬祖外海小島」，未寫北竿；這是藝術家個人創作，以地方歷史與信仰為題。",
   "selfDesc": "呂佩怡研究案把《鐵甲元帥》列為『以藝術介入現實』，指其以地點自身的歷史為主軸、透過影像訴說地方記憶，且拍攝在與神明請示協商之間完成，體現『現實會自己找上你』的被動介入。Art Basel 作品目錄載《Marshal Tie Jia – Turtle Island》(2012) 場景為馬祖外海小島、受地方神明『鐵甲元帥』（蛙神）守護、該神源自中國武夷山一座於文革被毀的廟後遷至馬祖、以綠幕合成在島上重建虛構原廟的錄像裝置。",
   "editNote": "歸入呂佩怡研究案點名的十位藝術家。呂文另提及許家維《和平島的故事》(2008)；本平台以呂文與 Art Basel 皆載、年份明確的《鐵甲元帥—龜島》(2012) 為收錄單位。『龜島』見於作品標題（Turtle Island），Art Basel 僅記『馬祖外海小島』、未寫北竿，故地點以馬祖（連江縣）標示、北竿為呂文脈絡。作品屬藝術家個人創作、以地方歷史與信仰為題。",
   "educatorRole": "artist-led",
-  "pedagogicalInsight": "最可借鏡的是把『地方的神明與歷史』當成敘事主角，而非背景：許家維讓拍攝本身成為與神明協商的過程，使作品的生產方式也呼應在地信仰。對地方記憶、民間信仰、兩岸遷移史的課程，這示範了如何以一個具體的物／神，牽出一整段被忽略的歷史。",
+  "pedagogicalInsight": "最可借鏡的是把「地方的神明與歷史」當成敘事主角，而非背景：許家維讓拍攝本身成為與神明協商的過程，使作品的生產方式也呼應在地信仰。對地方記憶、民間信仰、兩岸遷移史的課程，這示範了如何以一個具體的物／神，牽出一整段被忽略的歷史。",
+  "techniques": [
+   {
+    "t": "把地方的神明當成敘事主角，而非背景。",
+    "te": "Make the local god the protagonist of the narrative rather than a backdrop."
+   },
+   {
+    "t": "讓拍攝本身成為向神明請示、協商的過程。",
+    "te": "Let the filming itself be a process of asking the god’s permission and negotiating."
+   },
+   {
+    "t": "用綠幕重建虛構原廟，再拉開鏡頭露出綠幕，把神話與歷史並置。",
+    "te": "Use green screen to rebuild an imagined original temple, then pull back to reveal the green screen, placing myth and history side by side."
+   }
+  ],
   "ibaeContext": [
    "地",
    "時"
@@ -4012,11 +5155,25 @@
    "藝術家個人創作"
   ],
   "audience": [],
-  "summary": "周育正以『藝術家作為資源流動的中介者』為核心的一系列計畫，《東亞照明》(2010) 是代表作。他向照明廠商要求贊助燈具，用來照亮美術館內原本空無一物的空間——燈具因此對廠商發揮了廣告作用，展覽結束後作品又被納入館藏、回應了館方的需要。作品一方面把『藝術生產的機制』攤開來看，一方面呈現藝術與經濟領域之間的合作與交換。延續同一思路，他另有《取之社會，用之社會》(2010，以補助經費製版畫販售、所得再捐回基金會) 與《工作史—盧皆得》(2012，與臨時工盧皆得合作、讓他以保全身分在北美館展場看守並出書)。",
+  "summary": "周育正以「藝術家作為資源流動的中介者」為核心做了一系列計畫，《東亞照明》（2010）是代表作：他向照明廠商要求贊助燈具，用來照亮美術館內原本空無一物的空間——燈具因此對廠商發揮了廣告作用，展覽結束後作品又被納入館藏、回應了館方的需要。\n\n作品一方面把「藝術生產的機制」攤開來看，一方面呈現藝術與經濟領域之間的合作與交換。延續同一思路，他另有《取之社會，用之社會》（2010，以補助經費製版畫販售、所得再捐回基金會）與《工作史—盧皆得》（2012，與臨時工盧皆得合作、讓他以保全身分在北美館展場看守並出書）。\n\n年份有出入：呂佩怡研究案把《東亞照明》《虹牌油漆》歸為 2011，台灣當代藝術資料庫與關鍵評論網展評記《東亞照明》為 2010，本平台採 2010。議題以「勞動與人權」標示，主要對應《工作史—盧皆得》的臨時工題材。",
   "selfDesc": "呂佩怡研究案把周育正列為『以藝術作為交換平台』，載《取之社會，用之社會》(2010)、《東亞照明》《虹牌油漆》(2011) 要求廠商贊助燈管／油漆、再轉化為美術館資源的『回饋』機制，以及《工作史—盧皆得》(2012)，視藝術家為資源流動的中介者。關鍵評論網所刊周育正個展展評（Rahma Khazam 撰、吳嘉穎譯，約 2016）載《東亞照明》(2010) 由贊助商提供燈具照亮美術館空無空間、展後納入館藏，『一方面呈現藝術生產的機制，另一方面說明藝術與經濟領域卓有成效的合作關係』；《工作史》(2012) 與臨時工盧皆得合作、以保全身分在北美館展場看守、並彙整成書。",
   "editNote": "歸入呂佩怡研究案點名的十位藝術家。年份有出入：呂文把《東亞照明》《虹牌油漆》歸為 2011，台灣當代藝術資料庫與關鍵評論網展評則記《東亞照明》為 2010，本平台採 2010、並陳。本案以『交換平台／中介』實踐為核心、以《東亞照明》為代表作，並納《取之社會，用之社會》《工作史—盧皆得》為同一路線的作品。議題以『勞動與人權』標示，主要對應《工作史—盧皆得》的臨時工題材與藝術—經濟機制的批判。屬藝術家個人創作。",
   "educatorRole": "artist-led",
-  "pedagogicalInsight": "最可借鏡的是把『資源怎麼流動』本身變成作品：藝術家不迴避補助、贊助、館藏這些機制，反而把它們攤開、讓資源在其中流動並回饋。對談藝術與金錢、機構、勞動的課程，這示範了一種『中介者』的位置——不批判體制於外，而是進到體制內部操作它、再揭露它。",
+  "pedagogicalInsight": "最可借鏡的是把「資源怎麼流動」本身變成作品：藝術家不迴避補助、贊助、館藏這些機制，反而把它們攤開、讓資源在其中流動並回饋。對談藝術與金錢、機構、勞動的課程，這示範了一種「中介者」的位置——不批判體制於外，而是進到體制內部操作它、再揭露它。",
+  "techniques": [
+   {
+    "t": "向廠商要求贊助燈具，把「資源怎麼流動」本身做成作品。",
+    "te": "Ask companies to sponsor lamps and make “how resources flow” itself the work."
+   },
+   {
+    "t": "不迴避補助、贊助、館藏等機制，而是把它們攤開來看。",
+    "te": "Do not avoid mechanisms such as grants, sponsorship and collections, but lay them open."
+   },
+   {
+    "t": "與臨時工合作，讓他在美術館以保全身分看守並出書。",
+    "te": "Work with a temporary worker, who watched the museum as a security guard, and publish a book."
+   }
+  ],
   "ibaeContext": [
    "時"
   ],
@@ -4058,11 +5215,25 @@
    "藝術家個人創作"
   ],
   "audience": [],
-  "summary": "黃博志自 2013 年起的長期計畫《五百棵檸檬樹》。他把美術館展覽當成一種機制，預先販賣『酒標』向大眾募資，用這筆錢在廢耕地重新整地、種下檸檬樹；待數年後檸檬收成、釀成檸檬酒，再回饋給當初認購酒標的人。計畫藉一瓶還沒釀出的酒，把農業、土地、經濟與生產消費的關係攤在眼前；黃博志的母親曾是成衣廠女工、家中有務農背景，計畫也牽連著他的家族生命史。五百棵檸檬樹其後陸續種成，計畫獲 2015 年台北獎，2016 年於台北市立美術館推出個展《五百棵檸檬樹：有機檔案》。",
+  "summary": "《五百棵檸檬樹》（呂佩怡研究案作《五百顆檸檬樹》）是黃博志自 2013 年起的長期計畫。他把美術館展覽當成一種機制，預先販賣「酒標」向大眾募資，用這筆錢在廢耕地重新整地、種下檸檬樹；待數年後檸檬收成、釀成檸檬酒，再回饋給當初認購酒標的人。\n\n計畫藉一瓶還沒釀出的酒，把農業、土地、經濟與生產消費的關係攤在眼前；黃博志的母親曾是成衣廠女工、家中有務農背景，計畫也牽連著他的家族生命史。\n\n2015 年檸檬樹種完，計畫獲台北獎，2016 年於台北市立美術館推出個展《五百棵檸檬樹：有機檔案》。地點兩說並陳：呂文載新竹北埔三塊廢耕地，黃博志對談則述靠近觀音的老家檸檬田。",
   "selfDesc": "呂佩怡研究案載《五百顆檸檬樹》(2013) 把美術館展覽作為機制、預先販賣酒標、資金作為新竹北埔地區三塊廢耕地重新種檸檬樹的第一桶金、兩年後製成檸檬酒給酒標認購者，以此探討農業、經濟、民生消費與生產；並提及《生產線：中國製造＆台灣製造》(2014) 以其母親成衣女工的生命史串起深圳與台北。數位荒原〈檸檬樹到檸檬酒工廠：藝術家黃博志、黃千瑜對談〉（關鍵評論網轉載）載『五百顆檸檬樹現在都種完了』、賣酒標募資、把老家一樓改建為小型檸檬酒加工廠、計畫獲 2015 年台北獎、2016 年於北美館個展《五百棵檸檬樹：有機檔案》；文中述檸檬田老家『靠近觀音』。",
   "editNote": "歸入呂佩怡研究案點名的十位藝術家。作品名用字並陳：呂文作《五百顆檸檬樹》，常見與 2016 北美館個展作《五百棵檸檬樹》，本平台採『棵』。地點有出入：呂文載『新竹北埔三塊廢耕地』，黃博志對談則述『靠近觀音（桃園觀音）的老家檸檬田』，兩說並陳、`city` 暫以呂文的新竹標示並說明。具認購者參與與家族共作性質，故同列『社會參與式藝術』。",
   "educatorRole": "artist-led",
-  "pedagogicalInsight": "最可借鏡的是用一個『還沒完成的物』（還沒釀出的酒）把一條生產鏈拉開：從募資、整地、種樹到釀酒、回饋，讓參與者用認購把自己接到一塊土地與一段時間裡。對談農業、食物、土地與經濟的課程，這示範了怎麼把抽象的『產消關係』變成一件要等好幾年才收成的具體計畫。",
+  "pedagogicalInsight": "最可借鏡的是用一個「還沒完成的物」（還沒釀出的酒）把一條生產鏈拉開：從募資、整地、種樹到釀酒、回饋，讓參與者用認購把自己接到一塊土地與一段時間裡。對談農業、食物、土地與經濟的課程，這示範了怎麼把抽象的「產消關係」變成一件要等好幾年才收成的具體計畫。",
+  "techniques": [
+   {
+    "t": "預先販賣「酒標」募資，讓參與者用認購把自己接到一塊土地與一段時間裡。",
+    "te": "Pre-sell “wine labels” to raise funds so participants connect to a piece of land and a stretch of time by buying."
+   },
+   {
+    "t": "用一瓶還沒釀出的酒，把農業、土地與產消關係攤開來看。",
+    "te": "Use a bottle of wine not yet made to lay open agriculture, land and the producer–consumer relation."
+   },
+   {
+    "t": "把美術館展覽當成機制，而不只是展出成果的地方。",
+    "te": "Treat the museum exhibition as a mechanism, not only a place to show results."
+   }
+  ],
   "ibaeContext": [
    "人",
    "地",
@@ -4111,11 +5282,25 @@
    "地方居民",
    "青少年"
   ],
-  "summary": "吳瑪悧與竹圍工作室於 2010–2012 年策畫的長期環境藝術行動，獲國藝會視覺藝術策展專案獎助。計畫提出『以水連結破碎的土地』，沿著約十公里長的樹梅坑溪，把山林、豬舍、高樓、捷運站這些看似無關的地方串起來。它不是傳統的攝影或繪畫，而是由數個文化行動組成——樹梅坑溪早餐會、流動博物館、社區劇場、與植物有染、我校門前有條河、水之舞等——與在地學校師生、居民、政府部門一起進行。吳瑪悧主張『藝術扮演的不是美化的角色，而是引發、連結、思考的媒介』，把自己放在關係編織者的位置。計畫於 2013 年獲第 11 屆台新藝術獎視覺藝術類年度大獎。",
+  "summary": "樹梅坑溪環境藝術行動是吳瑪悧與竹圍工作室於 2010–2012 年策畫的長期環境藝術行動，獲國藝會視覺藝術策展專案獎助，2013 年獲第 11 屆台新藝術獎視覺藝術類年度大獎。計畫提出「以水連結破碎的土地」，沿著約十公里長的樹梅坑溪，把山林、豬舍、高樓、捷運站這些看似無關的地方串起來。\n\n它不是傳統的攝影或繪畫，而是由數個文化行動組成——樹梅坑溪早餐會、村落的形狀—流動博物館、社區劇場、在地綠生活—與植物有染、我校門前有條河、水之舞（呂文記五個子計畫，非池中記六個，本平台採六項）——與在地學校師生、居民、政府部門一起進行。\n\n吳瑪悧主張「藝術扮演的不是美化的角色，而是引發、連結、思考的媒介」，把自己放在關係編織者的位置。地點依竹圍工作室所在與溪流位置標為新北淡水竹圍一帶。",
   "selfDesc": "呂佩怡研究案把本行動列為『以藝術作為社會變革之方法』，載其為國藝會 2010 年視覺藝術策展專案獎助、含五個子計畫（樹梅坑溪早餐會、流動博物館、與植物有染、我校門前有小溪、社區劇場），並引吳瑪悧『藝術扮演的不是美化的角色，而是引發、連結、思考的媒介』。非池中藝術網（ETtoday，2013-05-23）載本作由吳瑪悧及竹圍工作室創作、2013-05-11 獲第 11 屆台新藝術獎視覺藝術類年度大獎、提出『以水連結破碎土地』、以約 10 公里河流串起山林豬舍高樓捷運站、由六項文化行動組成（樹梅坑溪早餐會、村落的形狀—流動博物館、社區劇場、在地綠生活—與植物有染、我校門前有條河、水之舞）、與在地教育機構居民與政府部門合作。",
   "editNote": "歸入呂佩怡研究案點名的十位藝術家。子計畫數兩源略有出入：呂文記五個、非池中記六個（多列『水之舞』與『村落的形狀』），本平台採非池中較完整的六項、並陳呂文的五個。地點：竹圍工作室位於新北淡水竹圍、樹梅坑溪流經該帶，`city` 標新北；呂文與非池中皆未逐字寫出『新北竹圍』四字，係依竹圍工作室所在與溪流位置判定。強社區參與案例。",
   "educatorRole": "facilitator-led",
-  "pedagogicalInsight": "最可借鏡的是用一條溪當『串線』：把早餐會、劇場、植物染、學校課程等看似零散的活動，用『水』與『流域』串成一個整體，讓居民、學生、公部門都接進來。對環境教育、社區營造的課程，這示範了怎麼把一個生態議題變成可以長期、多點、跨世代參與的行動，而不只是一次性的展覽。",
+  "pedagogicalInsight": "最可借鏡的是用一條溪當「串線」：把早餐會、劇場、植物染、學校課程等看似零散的活動，用「水」與「流域」串成一個整體，讓居民、學生、公部門都接進來。對環境教育、社區營造的課程，這示範了怎麼把一個生態議題變成可以長期、多點、跨世代參與的行動，而不只是一次性的展覽。",
+  "techniques": [
+   {
+    "t": "用一條溪當串線，把看似無關的場所與活動串成一個整體。",
+    "te": "Use a stream as a thread to string seemingly unrelated places and activities into one whole."
+   },
+   {
+    "t": "早餐會、流動博物館、社區劇場、學校課程等多種文化行動並行。",
+    "te": "Run several cultural actions in parallel: the breakfast club, a mobile museum, community theatre and school lessons."
+   },
+   {
+    "t": "與在地學校、居民和政府部門一起進行，而不只是辦一次展覽。",
+    "te": "Work with local schools, residents and government departments rather than only putting on one exhibition."
+   }
+  ],
   "ibaeContext": [
    "地",
    "人"
@@ -4163,11 +5348,25 @@
   "audience": [
    "地方居民"
   ],
-  "summary": "許淑真與盧建銘以大漢溪畔『撒烏瓦知部落』（遷居都市的阿美族自力造屋社區）為場域的長期計畫《植-物新樂園》(2008–2010)。他們把生態藝術與文化運動結合：先做部落農田的植物標本版畫；部落遭拆除後，再把這些圖像印在 T 恤上、以羅馬拼音標記族人的阿美名字，作為一種『命名』與認同的實踐；進而以〈建屋：一種社會契約的實踐〉投入自力造屋，甚至把在高雄市立美術館展出的展場建材運回部落、作為蓋屋的基礎。計畫以藝術作為另類社會運動，直接介入部落的居住與存續，獲第 8 屆台新藝術獎視覺藝術類年度大獎。",
+  "summary": "《植-物新樂園》是許淑真與盧建銘以大漢溪畔撒烏瓦知部落（遷居都市的阿美族自力造屋社區，桃園大溪一帶）為場域的長期計畫（2008–2010），獲第 8 屆台新藝術獎視覺藝術類年度大獎。他們把生態藝術與文化運動結合。\n\n先做部落農田的植物標本版畫；部落遭拆除後，再把這些圖像印在 T 恤上、以羅馬拼音標記族人的阿美名字，作為一種「命名」與認同的實踐；進而以〈建屋：一種社會契約的實踐〉投入自力造屋，甚至把在高雄市立美術館展出的展場建材運回部落、作為蓋屋的基礎。\n\n計畫以藝術作為另類社會運動，直接介入部落的居住與存續；兩位藝術家自問「對誰產生價值？部落（社區）內部和社會外部的效應為何？」。評審稱其「建立了漢人參與原民社會的一種模式」。",
   "selfDesc": "呂佩怡研究案把許淑真與盧建銘列為『以藝術作為社會變革之方法』，載《植-物新樂園》於大漢溪畔撒烏瓦知部落、以生態藝術結合文化運動——農田植物標本版畫、拆除後印於 T 恤為族人『命名』、〈建屋：一種社會契約的實踐〉自力造屋，並把高美館展場建材運回部落做建屋基礎；並引其自問『對誰產生價值？部落（社區）內部和社會外部的效應為何？』。台新藝術獎頁面（2010-05-13）載此作獲第 8 屆台新藝術獎視覺藝術類年度大獎，評審稱其為『小屋形式的作品』、與阿美族合作、探討居住空間與生活方式、『建立了漢人參與原民社會的一種模式』、涉及『河岸阿美的物質世界』。",
   "editNote": "歸入呂佩怡研究案點名的十位藝術家（許淑真與盧建銘為一組）。地點：撒烏瓦知部落位於大漢溪畔（桃園大溪一帶），`city` 標桃園；呂文僅記『大漢溪畔撒烏瓦知部落』、台新頁僅記『河岸阿美』，均未逐字寫出縣市，桃園係依撒烏瓦知部落所在推定。台新頁標題將『許淑真』誤植為『許淑貞』，內文為『許淑真』，本平台採『許淑真』。撒烏瓦知、植物標本版畫、建材運回等具體細節主要出自呂文；台新獨立佐證獎項、阿美族合作與居住議題。",
   "educatorRole": "facilitator-led",
-  "pedagogicalInsight": "最可借鏡的是把藝術直接接到『居住的存續』上：不是替部落發聲就停住，而是從植物標本、命名，一路做到自力造屋、把展場建材變成房子的基礎。對原住民族、土地正義、都市邊緣社區的課程，這示範了藝術如何成為一種『另類社會運動』，也逼人去問許淑真、盧建銘自己問的：這到底對『誰』產生價值。",
+  "pedagogicalInsight": "最可借鏡的是把藝術直接接到「居住的存續」上：不是替部落發聲就停住，而是從植物標本、命名，一路做到自力造屋、把展場建材變成房子的基礎。對原住民族、土地正義、都市邊緣社區的課程，這示範了藝術如何成為一種「另類社會運動」，也逼人去問許淑真、盧建銘自己問的：這到底對「誰」產生價值。",
+  "techniques": [
+   {
+    "t": "從植物標本版畫、為族人「命名」，一路做到自力造屋。",
+    "te": "Go from botanical-specimen prints and “naming” people all the way to self-built housing."
+   },
+   {
+    "t": "把展場建材運回部落，變成蓋屋的基礎。",
+    "te": "Carry exhibition materials back to the tribe to become the foundation for building houses."
+   },
+   {
+    "t": "追問：這到底對「誰」產生價值？部落內部與社會外部的效應是什麼？",
+    "te": "Ask: for whom does this actually create value? What are the effects inside the tribe and outside in society?"
+   }
+  ],
   "ibaeContext": [
    "人",
    "地",
