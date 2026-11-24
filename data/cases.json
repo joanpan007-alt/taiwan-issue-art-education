@@ -5386,5 +5386,125 @@
   "story": null,
   "status": "已查證",
   "statusWhy": "已查證：呂佩怡研究案（學術）與台新藝術獎官方頁互證本作為許淑真與盧建銘與阿美族部落合作、以居住／自力造屋為核心、獲第 8 屆台新藝術獎視覺藝術類年度大獎。保留：撒烏瓦知部落、大漢溪、植物標本版畫、建材運回等具體細節出自呂文；縣市（桃園）係依撒烏瓦知部落所在推定，兩源未逐字寫出；台新頁標題誤植『許淑貞』。"
+ },
+ {
+  "id": "k78",
+  "name": "星濱山共創工作室",
+  "en": "",
+  "creator": "星濱山共創工作室（主理人林書豪）",
+  "city": "基隆",
+  "place": "基隆市中正區正濱漁港（中正路393巷30號2樓）",
+  "year": "2017 成立",
+  "yk": 2025,
+  "yk0": 2017,
+  "yd": "2017 成立（工作室自述，canopi 亦載）",
+  "yde": "Founded 2017 (studio’s own account; also stated by canopi)",
+  "issue": [
+   "地方記憶",
+   "都市發展"
+  ],
+  "form": [
+   "展覽",
+   "影像",
+   "工作坊"
+  ],
+  "practice": [
+   "社會參與式藝術",
+   "社區藝術",
+   "策展與展覽",
+   "藝術節與駐村"
+  ],
+  "audience": [
+   "地方居民"
+  ],
+  "summary": "星濱山共創工作室是基隆正濱漁港的在地團隊，由創辦人林書豪與一群關心地方文化、藝術與設計的青年於 2017 年成立。面對漁港產業失傳、人口外移與文化流失，工作室希望透過藝術與設計，讓更多人重新珍視腳下的土地。\n\n工作室以「藝術共創 Creator In Residence（CIR）」與地域策展為核心：媒合藝術家、設計師、建築師、音樂家、社會學家等不同領域的創作者進駐在地，結合在地特色跨領域合作，完成集體參與的互動成果；也擅長地方設計、藝術創作、展覽策劃與空間、視覺設計整合，把地方文化轉譯為可被看見的作品。獨立報導可見其長期深耕：2018 年「苔客上岸——正濱港灣共創藝術節」、2019 年「大魚來了——正濱港灣共創插畫節」並集結成繪本，同年底成立「星濱海港學校」開設技藝課、食魚教育與漁港歷史課程；公視新聞 2020 年也報導其組織在地人、串連在地故事與資源。\n\n工作室以正濱漁港為基地持續策展與行動，近年作品包括 2023 年《999朵玫瑰の愛之船》與 2025 年星濱山雙年展《水啦 WATER LIVES HERE》；在每一次串聯中，特別重視世代傳承的文化記憶。",
+  "selfDesc": "工作室自述（官網、104）：由關心地方文化、藝術和設計背景的青年組成，以「體驗經濟、文創產品、設計服務」為創意行動主軸，共同構思、推動與實踐，並以「藝術共創」作為在地認識、對話和創作的主軸；擅長地方設計、藝術創作、展覽策劃、空間與視覺設計整合，將地方文化透過設計、藝術行動、展覽轉譯呈現，讓更多人珍視腳下的土地。經營理念「藝術共創 Creator In Residence（CIR）」是一種廣義的創作者進駐，包含藝術家、設計師、建築師、音樂家和社會學家等不同創意人才，結合地方特色、運用不同媒材、跨領域合作觸發不同文化疆界，完成集體參與的互動性成果，並重視世代傳承文化記憶的價值。",
+  "educatorRole": "facilitator-led",
+  "pedagogicalInsight": "這個案例是「工作室／組織」層級的前例：它的方法是把不同領域的創作者「進駐」在地（CIR），再透過田野、工作坊與店家、學校串連，讓在地居民與職人成為共創的一員。要提醒的是：工作室對自身理念的描述帶有經營與行銷語言，居民在各計畫中的決策角色，獨立來源著墨不多；引用時宜分清「工作室自述」與「獨立報導」。",
+  "techniques": [
+   {
+    "t": "以「藝術共創（CIR）」媒合藝術家、設計師、建築師、音樂家等跨領域創作者進駐在地，一起創作。",
+    "te": "Use “art co-creation (CIR)” to bring artists, designers, architects, musicians and other cross-disciplinary creators into residence in the locality to make work together.",
+    "m": ""
+   },
+   {
+    "t": "訪談在地耆老與漁業前輩，做田野調查，把聽到的故事帶進創作與展覽。",
+    "te": "Interview local elders and veterans of the fishing trade as fieldwork, and bring what is heard into the making and exhibitions.",
+    "m": "oral"
+   },
+   {
+    "t": "開設影像、音樂、空間等不同類型的工作坊，讓居民與職人一起動手。",
+    "te": "Run workshops of different kinds — image, music, space — so residents and tradespeople take part hands-on.",
+    "m": ""
+   },
+   {
+    "t": "與在地店家、學校串連合作，把漁港的在地知識與日常帶進課堂與街區。",
+    "te": "Link up with local shops and schools, bringing the fishing port’s local knowledge and everyday life into classrooms and streets.",
+    "m": ""
+   },
+   {
+    "t": "以地域策展打開閒置的老舊空間，重新思考其使用方式。",
+    "te": "Use place-based curation to open up disused old spaces and rethink how they are used.",
+    "m": ""
+   }
+  ],
+  "ibaeContext": [
+   "人",
+   "地"
+  ],
+  "ibaeOrigin": "context",
+  "editNote": "2026-11-24 依使用者指示，將本案由「正濱漁港藝術共創／《水啦》雙年展」改為聚焦「星濱山共創工作室本身」的組織簡介。「2017 成立」為工作室自述（官網、104），canopi 亦獨立載明；眼底城事把活動起點記在 2018（『正濱港町藝術共創』）、公視自 2020。summary 以獨立報導為準，CIR 經營理念置於 selfDesc 並標為自述。來源：官網 about-us／blog、104（自述、官方）、canopi、眼底城事 2018、遠見 2025、公視 2020、關鍵評論（獨立）、永豐基金會（使用者提供、本次未讀取、未作佐證）、FB／IG（社群連結、未作佐證）。報導多帶行銷語言，引用時區分自述與獨立報導。",
+  "sources": [
+   [
+    "星濱山共創工作室官網「關於我們」（工作室自述）：團隊組成、體驗經濟／文創產品／設計服務主軸、藝術共創 CIR 經營理念、地址位於基隆正濱漁港",
+    "https://www.zhengbinart.com/about-us",
+    1
+   ],
+   [
+    "星濱山共創工作室官網部落格〈地方創生・講座側記〉（工作室自述）",
+    "https://www.zhengbinart.com/post/%E5%9C%B0%E6%96%B9%E5%89%B5%E7%94%9F-%E8%AC%9B%E5%BA%A7%E5%81%B4%E8%A8%98-%E4%B8%80%E8%B5%B7%E8%81%8A%E8%81%8A%E6%88%91%E5%80%91%E6%98%AF%E5%A6%82%E4%BD%95%E8%A2%AB%E8%97%9D%E8%A1%93%E6%84%9F%E6%9F%93%E7%9A%84",
+    1
+   ],
+   [
+    "104 人力銀行・星濱山共創工作室公司介紹（工作室自述）",
+    "https://www.104.com.tw/company/1a2x6bmcvz",
+    1
+   ],
+   [
+    "星濱山共創工作室報導（canopi）：載 2017 年成立、創辦人林書豪（建築背景）、2018『苔客上岸』藝術節、2019『大魚來了』插畫節並集結成繪本、2019 年底成立星濱海港學校",
+    "https://canopi.tw/culture-and-lifestyle/zhengbinart/"
+   ],
+   [
+    "〈正濱港町藝術共創〉眼底城事（eyesonplace，2018-01-26）：記錄『星濱山』2018 年起的正濱港町藝術共創、CIR 媒合職人與創作者、影像／音樂／空間工作坊",
+    "https://eyesonplace.net/2018/01/26/7363/"
+   ],
+   [
+    "〈漁港藝術共創「星濱山」〉遠見城市學（2025-06-09）：串連居民、吸引藝術家進駐、與店家和學校合作、訪談耆老",
+    "https://city.gvm.com.tw/article/121888"
+   ],
+   [
+    "基隆正濱漁港藝術共創報導（公視新聞網，2020-05-29）：林書豪談組織在地人、串連在地故事與資源",
+    "https://news.pts.org.tw/article/480775"
+   ],
+   [
+    "星濱山相關訪談報導（關鍵評論網）：田野調查訪問耆老與漁業前輩、彩色屋在地顏色調查與色票統計",
+    "https://www.thenewslens.com/article/174745"
+   ],
+   [
+    "永豐基金會社區頁面（使用者提供連結，本次未能讀取內文，未作佐證）",
+    "https://www.sinopacfoundation.org.tw/community/20"
+   ],
+   [
+    "星濱山共創工作室 Facebook（社群連結，未作佐證）",
+    "https://www.facebook.com/zhengbinart/?locale=zh_TW"
+   ],
+   [
+    "星濱山共創工作室 Instagram（社群連結，未作佐證）",
+    "https://www.instagram.com/zhengbin.art/"
+   ]
+  ],
+  "story": null,
+  "status": "已查證",
+  "statusWhy": "工作室的存在、所在地（基隆正濱漁港）與「在地青年、藝術共創（CIR）、地方設計與展覽」的性質，有多個不同年份的獨立來源互相佐證（canopi、眼底城事 2018、公視 2020、遠見 2025、關鍵評論）；「2017 成立」除工作室自述外，canopi 亦獨立載明。經平台維護者（使用者）確認收錄。保留：工作室對自身理念（CIR、體驗經濟／文創產品／設計服務）的描述屬自述，正文事實以獨立報導為準；眼底城事把『正濱港町藝術共創』計畫起點記在 2018、公視報導自 2020；永豐基金會頁面本次未能讀取，未作佐證。"
  }
 ]

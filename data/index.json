@@ -1,15 +1,18 @@
 {
- "extracted_at": "2026-11-22T22:43:35+08:00",
- "source": "Artifact WWMo1NHxCjhQiLoFkzaJmp",
- "platform_version": "1795358191-f446",
+ "extracted_at": "2026-11-24T03:27:54.284Z",
+ "source": "https://claude.ai/artifact/WWMo1NHxCjhQiLoFkzaJmp",
+ "platform_version": "1795490656-2a3a",
  "counts": {
-  "cases": 77,
-  "case_en": 77,
+  "cases": 78,
   "terms": 68,
-  "terms_en": 68,
   "methods": 11,
   "series": 9,
-  "dims": 8
+  "dims": 8,
+  "case_en": 78,
+  "terms_en": 68,
+  "sources": 97,
+  "sources_en": 97,
+  "ui_dict": 241
  },
- "note": "JSON 只是副本，線上 Artifact 才是真實來源。"
+ "note": "線上平台（Artifact）才是唯一真實來源，GitHub 上的檔案都是它的副本。"
 }
