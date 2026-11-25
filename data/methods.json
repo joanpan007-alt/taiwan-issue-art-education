@@ -274,7 +274,8 @@
    "k44",
    "k45",
    "k46",
-   "k64"
+   "k64",
+   "k79"
   ],
   "zh": {
    "n": "在歷史現場與軍事遺構裡創作",
@@ -361,6 +362,36 @@
     "Tie the result back to the craft’s origins and its line of transmission"
    ],
    "fit": "Indigenous and Hakka cultures, reviving traditional crafts; lets local knowledge be seen and passed on. (Overlaps partly with found-material making and cross-generational co-creation; the difference is its focus on masters-as-teachers and living skills.)"
+  }
+ },
+ {
+  "id": "placecuration",
+  "cases": [
+   "k78",
+   "k70",
+   "k71"
+  ],
+  "zh": {
+   "n": "地域策展：把一處閒置空間或一塊地方變成作品現場",
+   "def": "不是在白盒子裡辦一檔展覽，而是以『一塊地方／一處閒置空間』為單位，用策展的方式把調查、徵集或共創、展呈串起來，讓空間本身被重新看見、被使用。與操作卡『在歷史現場與軍事遺構裡創作（site）』不同：site 談在現場做一件作品，這張談用策展把整個空間或地域組織、持續活化。",
+   "how": [
+    "選一處閒置或有故事的空間／一塊地域，先做田野踏查，盤點它的歷史、現況與使用者",
+    "定出策展的提問或主題，不先給答案，讓在地的人、物、記憶成為素材",
+    "用徵集、駐村或共創，把創作者和居民帶進來一起做，而不是只把作品掛上去",
+    "把成果留在空間現場展呈（展覽、走讀、出版、節慶），並設法讓空間在計畫結束後仍被使用"
+   ],
+   "fit": "閒置老屋與蚊子館、港町與老街、文資活化；想讓一個地方被『重新組織起來』而不只是辦一次展覽時。注意：這偏向策展與組織的模式，不是單堂課的操作；且居民在決策上的參與深度會因計畫而異——踏查紀錄（如 k70）、個人廢墟創作（如 k71）與共創活化（如 k78）是不同程度，引用時要分清。"
+  },
+  "en": {
+   "n": "Place-based curation: turning an idle space or a locality into a site for work",
+   "def": "Not a show in a white cube, but taking ‘a place / an idle space’ as the unit and using curation to string together survey, commissioning or co-creation, and display, so the space itself is seen anew and used. Unlike the method card ‘working inside historical sites and military remains (site)’, which is about making one work on site, this is about using curation to organise and keep reactivating a whole space or locality.",
+   "how": [
+    "Pick an idle or story-rich space / a locality, and start with fieldwork: map its history, present state and users",
+    "Set the curatorial question or theme without giving answers first; let local people, objects and memory become the material",
+    "Use commissioning, residency or co-creation to bring creators and residents in to make things together, rather than just hanging works",
+    "Keep the results on site (exhibition, walking tours, publications, festivals), and find ways for the space to keep being used after the project ends"
+   ],
+   "fit": "Idle old houses and ‘mosquito halls’, port towns and old streets, heritage activation; for when you want a place to be ‘re-organised’, not just hosted for one show. Note: this is a curatorial and organisational mode, not a single-lesson technique; and residents’ role in decisions varies by project — survey/archive (e.g. k70), individual ruin-based creation (e.g. k71) and co-creative activation (e.g. k78) are different degrees, so keep them apart when citing."
   }
  }
 ]

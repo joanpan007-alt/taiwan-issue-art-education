@@ -1,15 +1,15 @@
 {
- "extracted_at": "2026-11-24T03:27:54.284Z",
+ "extracted_at": "2026-11-25T03:26:48.011Z",
  "source": "https://claude.ai/artifact/WWMo1NHxCjhQiLoFkzaJmp",
- "platform_version": "1795490656-2a3a",
+ "platform_version": "1795576570-d2c4",
  "counts": {
-  "cases": 78,
-  "terms": 68,
-  "methods": 11,
+  "cases": 79,
+  "terms": 69,
+  "methods": 12,
   "series": 9,
   "dims": 8,
-  "case_en": 78,
-  "terms_en": 68,
+  "case_en": 79,
+  "terms_en": 69,
   "sources": 97,
   "sources_en": 97,
   "ui_dict": 241

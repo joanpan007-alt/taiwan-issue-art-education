@@ -5506,5 +5506,89 @@
   "story": null,
   "status": "已查證",
   "statusWhy": "工作室的存在、所在地（基隆正濱漁港）與「在地青年、藝術共創（CIR）、地方設計與展覽」的性質，有多個不同年份的獨立來源互相佐證（canopi、眼底城事 2018、公視 2020、遠見 2025、關鍵評論）；「2017 成立」除工作室自述外，canopi 亦獨立載明。經平台維護者（使用者）確認收錄。保留：工作室對自身理念（CIR、體驗經濟／文創產品／設計服務）的描述屬自述，正文事實以獨立報導為準；眼底城事把『正濱港町藝術共創』計畫起點記在 2018、公視報導自 2020；永豐基金會頁面本次未能讀取，未作佐證。"
+ },
+ {
+  "id": "k79",
+  "name": "安魂工作隊：規訓的星系──戰後外省「離散」及「鎮壓」史調查創作計畫",
+  "en": "Libera Work-Gang: The Galaxy of Discipline",
+  "creator": "安魂工作隊（計畫主持：林傳凱；主創：洪瑋伶；合作：辛佩宜、李佳泓等）",
+  "city": "台北",
+  "place": "臺灣當代文化實驗場 C-LAB（原空軍總司令部，臺北市大安區）",
+  "year": "2019",
+  "yk": 2019,
+  "yk0": 2019,
+  "yd": "2019（團隊 2018 成立）",
+  "yde": "2019 (group founded 2018)",
+  "issue": [
+   "身分與歷史記憶",
+   "勞動與人權",
+   "災害與創傷"
+  ],
+  "form": [
+   "影像",
+   "表演",
+   "工作坊",
+   "展覽"
+  ],
+  "practice": [
+   "社會參與式藝術",
+   "藝術節與駐村"
+  ],
+  "audience": [],
+  "summary": "這是 2019 年在臺灣當代文化實驗場（C-LAB）進行的駐地調查與創作計畫，由「安魂工作隊」提出。團隊 2018 年成立，成員包含藝術家、研究者與群眾教育工作者，計畫主持人是白色恐怖史研究者林傳凱，主要創作者為影像工作者洪瑋伶。\n\n計畫關注戰後「外省」政治犯的處境。團隊指出，白色恐怖受難者中約有四成是外省籍、且多具軍職；他們一面是威權體制下的受害者，身分卻又常被簡化或被當成政治工具。計畫以空軍、陸軍、海軍三條線索，調查審訊與關押的空間、檔案與記憶。\n\n團隊把 C-LAB 所在的前空軍總司令部（空總）當成田野，透過老照片與曾在此工作者的口述，尋找疑似審訊與關押政治犯的空間，並完成三件影像作品《寫字的人》《負罪的人》《霧中風景》，分別對應空軍、陸軍、海軍三條線索。\n\n除了創作，團隊也辦了大量公眾活動：讀書會、多場主題座談，以及由表演工作者帶領、體驗「被規訓的身體」的工作坊，是當屆駐村中活動最密集、參與人數最多的團隊之一。",
+  "selfDesc": "團隊自述「安魂」的核心精神，是關注戒嚴時期消逝的抗爭者，讓他們的身影重新在當代浮現，也讓當代人找回走入公共的力量。計畫以「去族群化」地重看『外省人』為方法，透過密集的講座、讀書會與影片放映，凸顯階級、族群、文化與戰爭經驗的差異，並探討離散者不同的自我認同。（此段為團隊／C-LAB 頁面的自述，正文事實以獨立來源為準。）",
+  "educatorRole": "artist-led",
+  "pedagogicalInsight": "這個案例示範了怎麼把一段沉重、抽象的歷史，變成可以調查、也可以一起參與的行動。幾個手法可以借鏡：把一棟還在使用的建築（空總）當成田野，用舊照片和耆老口述去「考掘」看不見的空間；用空軍、陸軍、海軍三條線索，把龐雜的歷史分組；用讀書會、座談與身體工作坊，把觀眾變成一起探究的人。要提醒的是：這類計畫處理真實受難者的創傷與尊嚴，引用時要分清楚「團隊自述」與「獨立史料」，也要顧及受難者與家屬的感受。",
+  "techniques": [
+   {
+    "t": "把一棟還在使用的建築當成田野：用舊照片和曾在此工作者的口述，重建已經看不見的審訊與關押空間。",
+    "te": "Treat a building still in use as a field site: use old photographs and the oral accounts of people who once worked there to reconstruct interrogation and detention spaces that can no longer be seen."
+   },
+   {
+    "t": "用空軍、陸軍、海軍三條線索，把龐雜的白色恐怖史分組調查，再各自對應成一件影像作品。",
+    "te": "Split a sprawling White Terror history into three threads — air force, army, navy — and turn each into its own moving-image work."
+   },
+   {
+    "t": "用讀書會與主題座談，把政治犯的回憶錄和專題研究帶給一般觀眾共讀、共談。",
+    "te": "Use reading groups and themed talks to read political prisoners’ memoirs and specialist research together with a general audience."
+   },
+   {
+    "t": "用身體工作坊讓參與者親身體驗「被規訓的身體」，把抽象的壓迫變成可以感受的經驗。",
+    "te": "Use a body workshop to let participants physically experience ‘the disciplined body’, turning abstract oppression into something that can be felt."
+   }
+  ],
+  "ibaeContext": [
+   "人",
+   "地",
+   "時"
+  ],
+  "ibaeOrigin": "content",
+  "editNote": "平台依『以白色恐怖與國家暴力為主題、並以密集公眾活動（讀書會、座談、身體工作坊）開展』歸為社會參與式藝術與駐村。計畫主持人林傳凱為白色恐怖史研究者（國立中山大學社會學系、1979 年生），與新聞中同名的企業人士為不同人，已分辨。各件影像作品的展演細節、工作坊的人數與對象，報導著墨不一，已於正文從簡；參與者在創作決策上的角色需進一步確認。",
+  "sources": [
+   [
+    "安魂工作隊 Libera Work-Gang｜2019 CREATORS 創作／研發進駐計畫（臺灣當代文化實驗場 C-LAB 官方頁）",
+    "https://clab.org.tw/en/creators/2019-r7/",
+    1
+   ],
+   [
+    "〈過去從未過去，「安魂工作隊」的調查行動與歷史時空再考掘〉謝鎮逸（CLABO 實驗波，2020-06-10）",
+    "https://mag.clab.org.tw/clabo-article/libera-work-gang_the-galaxy-of-disciplinelibera-work-gang_the-galaxy-of-discipline/"
+   ],
+   [
+    "2020 台北雙年展參展頁《在冷戰裡生火》秦政德＋李佳泓＋林傳凱＋陳怡君（臺北市立美術館）",
+    "https://www.taipeibiennial.org/2020/zh-TW/Participants/Participants_Content/1?type=security"
+   ],
+   [
+    "林傳凱 助理教授個人頁：白色恐怖史研究、2018 年起推動「歷史鄉鎮化」（國立中山大學社會學系）",
+    "https://moiss.nsysu.edu.tw/p/406-1370-362061,r6014.php?Lang=zh-tw"
+   ],
+   [
+    "〈新人發聲／林傳凱〉本人自述戰後抗爭史與外省離散研究（台灣社會學會通訊）",
+    "https://www.tsatw.org.tw/page.php?menu_id=2&new_id=3268"
+   ]
+  ],
+  "story": null,
+  "status": "已查證",
+  "statusWhy": "已查證：C-LAB 官方 CREATORS 2019 計畫頁載明「安魂工作隊」2018 成立、以 1949–1987 檔案調查空總與白色恐怖陸海空三軍史；CLABO 評論（謝鎮逸，2020）詳述三件影像作品與密集公眾活動；臺北市立美術館 2020 台北雙年展參展頁、林傳凱中山大學個人頁與台灣社會學會通訊，分別獨立佐證計畫主持人身分、研究主題與團隊協作。多個不同性質、不同單位的來源互相印證，故標已查證。"
  }
 ]
