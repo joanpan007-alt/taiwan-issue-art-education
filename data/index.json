@@ -1,18 +1,18 @@
 {
- "extracted_at": "2026-11-25T03:26:48.011Z",
- "source": "https://claude.ai/artifact/WWMo1NHxCjhQiLoFkzaJmp",
- "platform_version": "1795576570-d2c4",
- "counts": {
-  "cases": 79,
-  "terms": 69,
-  "methods": 12,
-  "series": 9,
-  "dims": 8,
-  "case_en": 79,
-  "terms_en": 69,
-  "sources": 97,
-  "sources_en": 97,
-  "ui_dict": 241
- },
- "note": "線上平台（Artifact）才是唯一真實來源，GitHub 上的檔案都是它的副本。"
+  "extracted_at": "2026-11-26T03:25:18.272Z",
+  "platform_version": "1795614135-2958",
+  "source": "線上平台 slug WWMo1NHxCjhQiLoFkzaJmp (UUID eef2679d-2fd9-4781-909a-9514225326a3)",
+  "note": "線上平台才是真實來源；本目錄的所有檔案皆為其副本。",
+  "counts": {
+    "cases": 111,
+    "terms": 69,
+    "methods": 12,
+    "series": 25,
+    "dims": 8,
+    "case_en": 111,
+    "terms_en": 69,
+    "sources": 97,
+    "sources_en": 97,
+    "ui_dict": 241
+  }
 }
